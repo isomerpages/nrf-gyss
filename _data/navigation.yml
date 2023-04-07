@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About
-    collection: about
   - title: RIE Ecosystem
     collection: rie-ecosystem
   - title: Programmes
