@@ -3,7 +3,7 @@ url: https://www.gyss-one-north.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#dea369"
-  secondary-color: "#d86528"
+  secondary-color: "#cb591b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
