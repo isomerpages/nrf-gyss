@@ -18,7 +18,7 @@ sections:
   - hero:
       title: Global Young Scientists Summit
       subtitle: EXCITE | ENGAGE | ENABLE
-      background: /images/gyss 2023 - participants.JPG
+      background: /images/gyss standee.jpg
       button: Summit programme
       url: /contact-us/
       key_highlights:
