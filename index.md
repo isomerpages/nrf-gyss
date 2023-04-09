@@ -1,7 +1,16 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: The Global Young Scientists Summit
+description: The Global Young Scientists Summit in Singapore brings together
+  bright young researchers and top scientific minds from around the world to
+  discuss science and technology trends, future game changers and how research
+  could address major global challenges. Organised by the National Research
+  Foundation, Singapore (NRF), it was started in 2013 with the objective of
+  exciting and engaging young scientists to pursue their scientific dreams
+  through close interactions with distinguished scientists and researchers, and
+  with peers. The Summit provides a platform for conversations on science and
+  research, technology innovation and society, and solutions to global
+  challenges.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
