@@ -1,4 +1,6 @@
 logo: /images/gyss-logo-full-col.jpg
 links:
+  - title: About
+    collection: about
   - title: Contact Us
     url: /contact-us/
