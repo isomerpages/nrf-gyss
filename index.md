@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Global Young Scientists Summit
@@ -26,8 +26,8 @@ sections:
           description: The world's brightest minds
           url: https://google.com
         - title: Video Repository
-          description: Everything in one place
-          url: https://gmail.com
+          description: Exciting talks & lectures
+          url: https://www.youtube.com/nrfmediasg
         - title: GYSS SOCIALS
           description: Connect  & stay updated!
           url: /privacy/
