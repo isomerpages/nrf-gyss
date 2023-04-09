@@ -32,9 +32,15 @@ sections:
           description: Connect  & stay updated!
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "#GYSS2024"
+      subtitle: ongoing updates
+      description: The GYSS will return next Jan 2024 bringing back in-person sessions
+        while also extending its presence in the virtual space. Stay tuned for
+        more updates to come!
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Exciting array of plenary lectures and panel discussions by eminent
+        scientists
+      alt: Image alt text
 ---
