@@ -22,7 +22,7 @@ sections:
       button: Summit programme
       url: /contact-us/
       key_highlights:
-        - title: Speaker line-up
+        - title: Speaker line-up <when ready>
           description: The world's brightest minds
           url: https://google.com
         - title: Video Repository
@@ -32,15 +32,25 @@ sections:
           description: Connect  & stay updated!
           url: /privacy/
   - infobar:
-      title: "#GYSS2024"
-      subtitle: ongoing updates
-      description: The GYSS will return next Jan 2024 bringing back in-person sessions
-        while also extending its presence in the virtual space. Stay tuned for
-        more updates to come!
+      title: GYSS 2024
+      subtitle: ongoing update
+      description: The GYSS will return next Jan 2024 with in-person sessions while
+        also extending its presence in the virtual space. Stay tuned for more
+        updates!
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Exciting array of plenary lectures and panel discussions by eminent
-        scientists
+      title: GYSS 2023
+      subtitle: Highlights
+      description: "Catch-up with all the action and highlights from the GYSS2023!
+        #FusionInSession"
+      alt: Image alt text
+  - infopic:
+      title: 10 years of excellence
+      subtitle: Commemorative Publication
+      description: New to GYSS? Click here to learn more about GYSS’ story. It
+        documents a 10-year journey of the Summit — from a nascent idea to its
+        evolution over the years.
+      button: Learn more
+      url: https://go.gov.sg/gyss-10th-anniversary-pub
+      image: /images/10th-anniversary-pub.jpg
       alt: Image alt text
 ---
