@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "UPDATE: The GYSS 2024 programme has been updated (17 Jan)! "
+notification: "UPDATE: The GYSS 2024 programme has been updated (17 Jan)"
 sections:
   - hero:
       title: Global Young Scientists Summit
