@@ -65,4 +65,8 @@ sections:
       url: https://go.gov.sg/gyss-10th-anniversary-pub
       image: /images/10th-anniversary-pub.jpg
       alt: Image alt text
+  - resources:
+      title: Press Releases
+      subtitle: Media
+      button: View all announcements
 ---
