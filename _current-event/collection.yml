@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Activities.md
-      - Speakers.md
       - Programme.md
+      - Speakers.md
