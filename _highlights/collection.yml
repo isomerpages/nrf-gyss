@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - GYSS 2019.md
       - GYSS 2020.md
       - GYSS 2021.md
       - GYSS 2022.md
