@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "UPDATE: The GYSS 2024 programme has been updated! "
 sections:
   - hero:
       title: Global Young Scientists Summit
@@ -22,14 +22,14 @@ sections:
       button: Summit programme
       url: /contact-us/
       key_highlights:
-        - title: Speaker line-up
+        - title: GYSS 2024 Speaker line-up
           description: The world's brightest minds
           url: https://google.com
         - title: Video Repository
-          description: Exciting talks &amp; lectures
+          description: All the action in one place
           url: https://www.youtube.com/nrfmediasg
         - title: GYSS SOCIALS
-          description: Connect  &amp; stay updated!
+          description: Connect with us!
           url: /privacy/
   - infobar:
       title: GYSS 2024
