@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: The Global Young Scientists Summit
+title: Global Young Scientists Summit
 description: The Global Young Scientists Summit in Singapore brings together
   bright young researchers and top scientific minds from around the world to
   discuss science and technology trends, future game changers and how research
@@ -22,14 +22,14 @@ sections:
       button: Summit programme
       url: /contact-us/
       key_highlights:
-        - title: Speaker line-up <when ready>
+        - title: Speaker line-up
           description: The world's brightest minds
           url: https://google.com
         - title: Video Repository
-          description: Exciting talks & lectures
+          description: Exciting talks &amp; lectures
           url: https://www.youtube.com/nrfmediasg
         - title: GYSS SOCIALS
-          description: Connect  & stay updated!
+          description: Connect  &amp; stay updated!
           url: /privacy/
   - infobar:
       title: GYSS 2024
