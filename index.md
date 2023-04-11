@@ -56,7 +56,7 @@ sections:
       image: /images/gyss 2023 - q_a with sir tim hunt.jpg
       alt: Image alt text
   - infopic:
-      title: 10 Years of the Global Young Scientists Summit
+      title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary Publication
       description: New to GYSS? Click here to learn more about GYSS’ story. It
         documents a 10-year journey of the Summit — from a nascent idea to its
