@@ -17,7 +17,7 @@ notification: "UPDATE: The GYSS 2024 programme has been updated (17 Jan)"
 sections:
   - hero:
       title: Global Young Scientists Summit
-      subtitle: EXCITE | ENGAGE | ENABLE
+      subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       button: Summit programme
       url: /contact-us/
