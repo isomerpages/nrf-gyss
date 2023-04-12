@@ -58,8 +58,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nrf-gyss-staging.netlify.app
-prod: https://nrf-gyss-prod.netlify.app
+staging: https://staging.d1k4q5ikflkok3.amplifyapp.com/
+prod: https://master.d1k4q5ikflkok3.amplifyapp.com/
 shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
