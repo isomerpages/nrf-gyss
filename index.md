@@ -49,7 +49,7 @@ sections:
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
-      url: /speakers/
+      url: /gyss-2023/speakers/
       image: /images/gyss 2023 - q_a with sir tim hunt.jpg
       alt: Image alt text
   - infopic:
