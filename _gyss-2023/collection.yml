@@ -2,24 +2,24 @@ collections:
   gyss-2023:
     output: true
     order:
-      - Wendelin Werner.md
-      - Thomas Südhof.md
-      - Stuart Parkin.md
-      - Sir Tim Hunt.md
-      - Stefan W Hell.md
-      - Robert Langer.md
-      - Konstantin Novoselov.md
-      - John Mather.md
-      - Jack Dongarra.md
-      - Hartmut Michel.md
-      - Sir Fraser Stoddart.md
-      - Didier Queloz.md
-      - David MacMillan.md
-      - David Klenerman.md
-      - Brian Kobilka.md
-      - Barry James Marshall.md
-      - Sir Andre Geim.md
-      - Alessio Figalli.md
-      - Alison Woollard.md
-      - Ada Yonath.md
       - Aaron Ciechanover.md
+      - Ada Yonath.md
+      - Alison Woollard.md
+      - Alessio Figalli.md
+      - Sir Andre Geim.md
+      - Barry James Marshall.md
+      - Brian Kobilka.md
+      - David Klenerman.md
+      - David MacMillan.md
+      - Didier Queloz.md
+      - Sir Fraser Stoddart.md
+      - Hartmut Michel.md
+      - Jack Dongarra.md
+      - John Mather.md
+      - Konstantin Novoselov.md
+      - Stefan W Hell.md
+      - Sir Tim Hunt.md
+      - Stuart Parkin.md
+      - Thomas Südhof.md
+      - Robert Langer.md
+      - Wendelin Werner.md
