@@ -2,4 +2,5 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Ada Yonath.md
       - Aaron Ciechanover.md
