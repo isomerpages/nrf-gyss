@@ -50,7 +50,7 @@ sections:
       title: Nobel Laureates and Eminent Scientists
       subtitle: GYSS Speakers
       description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2022.
+        disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
       url: /speakers/
       image: /images/gyss 2023 - q_a with sir tim hunt.jpg
