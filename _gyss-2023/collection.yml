@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Barry James Marshall.md
       - Sir Andre Geim.md
       - Alessio Figalli.md
       - Alison Woollard.md
