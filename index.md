@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "UPDATE: The GYSS 2024 programme has been updated (17 Jan)"
+notification: "UPDATE: Nominations for the GYSS 2024 are now open!"
 sections:
   - hero:
       title: Global Young Scientists Summit
@@ -22,11 +22,11 @@ sections:
       button: Nominations now open
       url: /current-event/nominations/
       key_highlights:
-        - title: GYSS 2024 Speaker line-up
-          description: The world's brightest minds
+        - title: GYSS 2023
+          description: "#throwback to all the action"
           url: https://google.com
         - title: Video Repository
-          description: All the action in one place
+          description: Panels, plenaries and lectures
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: GYSS 2024
