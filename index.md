@@ -19,8 +19,8 @@ sections:
       title: Global Young Scientists Summit
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
-      button: Summit programme
-      url: /contact-us/
+      button: Nominations now open
+      url: /current-event/nominations/
       key_highlights:
         - title: GYSS 2024 Speaker line-up
           description: The world's brightest minds
@@ -28,9 +28,6 @@ sections:
         - title: Video Repository
           description: All the action in one place
           url: https://www.youtube.com/nrfmediasg
-        - title: GYSS SOCIALS
-          description: Connect with us!
-          url: /privacy/
   - infobar:
       title: GYSS 2024
       subtitle: Summit update
