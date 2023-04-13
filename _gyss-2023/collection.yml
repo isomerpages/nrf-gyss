@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Stefan W Hell.md
       - Robert Langer.md
       - Konstantin Novoselov.md
       - John Mather.md
