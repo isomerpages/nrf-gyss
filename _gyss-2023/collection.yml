@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - David Klenerman.md
       - Brian Kobilka.md
       - Barry James Marshall.md
       - Sir Andre Geim.md
