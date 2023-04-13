@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Sir Fraser Stoddart.md
       - Didier Queloz.md
       - David MacMillan.md
       - David Klenerman.md
