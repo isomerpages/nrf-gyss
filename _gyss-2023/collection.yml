@@ -2,5 +2,6 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Alison Woollard.md
       - Ada Yonath.md
       - Aaron Ciechanover.md
