@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Didier Queloz.md
       - David MacMillan.md
       - David Klenerman.md
       - Brian Kobilka.md
