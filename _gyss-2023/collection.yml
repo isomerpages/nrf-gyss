@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Thomas Südhof.md
       - Stuart Parkin.md
       - Sir Tim Hunt.md
       - Stefan W Hell.md
