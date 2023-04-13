@@ -5,7 +5,7 @@ description: ""
 ---
 2023’s summit line-up featured **21 Nobel laureates and eminent scientists** who spoke across ten plenaries and panel sessions.
 
-We introduced six new speakers alongside our returning stalwarts. We warmly welcomed Prof. David MacMillan, Prof. Brian Kobilka, Sir David Klenerman, Dr. Jack Dongarra, Dr. John Mather and Guest Speaker Prof Alison Woollard.
+We welcomed six new speakers alongside our returning stalwarts: Prof. David MacMillan, Prof. Brian Kobilka, Sir David Klenerman, Dr. Jack Dongarra, Dr. John Mather and Guest Speaker Prof Alison Woollard.
 
 |  |  |  |
 | -------- | -------- | -------- |
