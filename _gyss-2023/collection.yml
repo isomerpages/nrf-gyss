@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Konstantin Novoselov.md
       - John Mather.md
       - Jack Dongarra.md
       - Hartmut Michel.md
