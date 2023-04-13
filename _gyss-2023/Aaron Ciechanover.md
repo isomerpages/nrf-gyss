@@ -12,7 +12,6 @@ description: ""
 <br>
 <br>
 <br>
-<br>
 
 **Aaron Ciechanover** <br>
 **2004 Nobel Prize in Chemistry**
