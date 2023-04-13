@@ -2,6 +2,7 @@ collections:
   gyss-2023:
     output: true
     order:
+      - Sir Tim Hunt.md
       - Stefan W Hell.md
       - Robert Langer.md
       - Konstantin Novoselov.md
