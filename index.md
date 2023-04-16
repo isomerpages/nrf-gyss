@@ -39,10 +39,10 @@ sections:
       subtitle: Highlights
       description: "Catch-up with all the action and highlights from the GYSS2023!
         #FusionInSession"
-      alt: Image alt text
+      alt: GYSS 2023 excitement!
       button: view here
       image: /images/gyss 2023 - participants.JPG
-      url: /catchup/
+      url: /highlights/gyss2023a/
   - infopic:
       title: Nobel Laureates and Eminent Scientists
       subtitle: GYSS Speakers
@@ -51,7 +51,7 @@ sections:
       button: View here
       url: /gyss-2023/speakers/
       image: /images/gyss 2023 - q_a with sir tim hunt.jpg
-      alt: Image alt text
+      alt: World's leading luminaries
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary Publication
@@ -61,7 +61,7 @@ sections:
       button: Learn more
       url: https://go.gov.sg/gyss-10th-anniversary-pub
       image: /images/10th-anniversary-pub.jpg
-      alt: Image alt text
+      alt: 10 years of excellence
   - resources:
       title: Press Releases
       subtitle: Media
