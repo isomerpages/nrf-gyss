@@ -3,6 +3,10 @@ title: Programme
 permalink: /current-event/programme/
 description: ""
 ---
+Stay tuned to this space for the GYSS 2024 programme. 
+
+To give you a sense of all the exciting plenaries, panel discussions, talks and activities, here's the GYSS 2023 programme:
+
 <img width="800" src="/images/gyss-2023-programme.jpg">
 
-Click [here](/images/gyss-2023-programme.jpg) to download the full programme.
+Click [here](/images/gyss-2023-programme.jpg) to download the programme in a higher resolution.
