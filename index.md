@@ -24,9 +24,9 @@ sections:
       key_highlights:
         - title: GYSS 2023
           description: "#throwback to all the action"
-          url: https://google.com
+          url: /highlights/gyss2023a/
         - title: Video Repository
-          description: Panels, plenaries and lectures
+          description: Past clips of all the sessions
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: GYSS 2024
