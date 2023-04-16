@@ -60,9 +60,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1k4q5ikflkok3.amplifyapp.com/
 prod: https://master.d1k4q5ikflkok3.amplifyapp.com/
-shareicon: /images/isomer-logo.svg
+shareicon: /images/gyss 2023 - participants.JPG
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: media
+google_analytics_ga4: ""
