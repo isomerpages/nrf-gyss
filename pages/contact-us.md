@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: GYSS Secretariat
+agency_name: the GYSS Secretariat
 contacts:
   - content:
       - phone: ""
