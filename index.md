@@ -11,7 +11,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   with peers. The Summit provides a platform for conversations on science and
   research, technology innovation and society, and solutions to global
   challenges.
-image: /images/isomer-logo.svg
+image: /images/gyss 2023 - participants.JPG
 permalink: /
 notification: "UPDATE: Nominations for the GYSS 2024 are now open!"
 sections:
