@@ -66,4 +66,13 @@ sections:
       title: Press Releases
       subtitle: Media
       button: View all announcements
+  - infopic:
+      title: National Research Foundation Singapore
+      subtitle: Infopic Subtitle
+      description: The GYSS is an annual flagship event organised by the National
+        Research Foundation Singapore (NRF).
+      button: Visit NRF Singapore
+      url: https://www.nrf.gov.sg/
+      image: /images/nrf logo fa-monogram2.jpg
+      alt: Image alt text
 ---
