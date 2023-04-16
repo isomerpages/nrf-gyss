@@ -19,14 +19,14 @@ sections:
       title: Global Young Scientists Summit
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
-      button: Nominations now open
+      button: GYSS 2024 Nominations now open
       url: /current-event/nominations/
       key_highlights:
         - title: GYSS 2023
           description: "#throwback to all the action"
           url: /highlights/gyss2023a/
         - title: Video Repository
-          description: Past clips of all the sessions
+          description: Clips of all the past sessions
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: GYSS 2024
@@ -44,7 +44,7 @@ sections:
       image: /images/gyss 2023 - participants.JPG
       url: /highlights/gyss2023a/
   - infopic:
-      title: Nobel Laureates and Eminent Scientists
+      title: Nobel Laureates & Eminent Scientists
       subtitle: GYSS Speakers
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
