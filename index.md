@@ -70,8 +70,8 @@ sections:
       title: NRF Singapore
       subtitle: Organiser
       description: The GYSS is an annual flagship event organised by the National
-        Research Foundation Singapore (NRF).
-      button: Visit NRF Singapore
+        Research Foundation, Singapore (NRF).
+      button: Visit NRF
       url: https://www.nrf.gov.sg/
       image: /images/nrf logo fa-monogram2.jpg
       alt: Image alt text
