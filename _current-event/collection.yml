@@ -2,6 +2,6 @@ collections:
   current-event:
     output: true
     order:
-      - Speakers.md
       - Call for Nominations.md
+      - Speakers.md
       - Programme.md
