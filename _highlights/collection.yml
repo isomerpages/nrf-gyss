@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - GYSS 2023.md
-      - GYSS 2019.md
       - GYSS 2018.md
