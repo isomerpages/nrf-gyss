@@ -1,0 +1,26 @@
+collections:
+  gyss-2023:
+    output: true
+    order:
+      - GYSS 2023 Speakers.md
+      - Aaron Ciechanover.md
+      - Ada Yonath.md
+      - Alison Woollard.md
+      - Alessio Figalli.md
+      - Sir Andre Geim.md
+      - Barry James Marshall.md
+      - Brian Kobilka.md
+      - David Klenerman.md
+      - David MacMillan.md
+      - Didier Queloz.md
+      - Sir Fraser Stoddart.md
+      - Hartmut Michel.md
+      - Jack Dongarra.md
+      - John Mather.md
+      - Konstantin Novoselov.md
+      - Robert Langer.md
+      - Stefan W Hell.md
+      - Sir Tim Hunt.md
+      - Stuart Parkin.md
+      - Thomas Südhof.md
+      - Wendelin Werner.md
