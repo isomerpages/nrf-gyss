@@ -73,6 +73,6 @@ sections:
         Research Foundation, Singapore (NRF).
       button: Visit NRF
       url: https://www.nrf.gov.sg/
-      image: /images/nrf logo fa-monogram2.jpg
+      image: /images/nrf logo (high-res) v2.jpg
       alt: Image alt text
 ---
