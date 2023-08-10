@@ -13,14 +13,12 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: "UPDATE: Nominations for the GYSS 2024 are now open!"
+notification: ""
 sections:
   - hero:
       title: Global Young Scientists Summit
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
-      button: GYSS 2024 Nominations now open
-      url: /current-event/nominations/
       key_highlights:
         - title: GYSS 2023
           description: "#throwback to all the action"
