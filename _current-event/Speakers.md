@@ -5,6 +5,6 @@ description: ""
 ---
 Here are the eminent scientists who will be part of the exciting GYSS2024 next year:
 
-![](/images/GYSS%202024/final%20speakers%20gyss%202024.png)
+![](/images/GYSS%202024/speakers%20(sep%20update).png)
 
-Stay tuned for more updates!
+Stay tuned as we bring you more updates including the biographies of these eminent speakers.
