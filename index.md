@@ -29,9 +29,9 @@ sections:
   - infobar:
       title: GYSS 2024
       subtitle: Summit update
-      description: The GYSS will return next Jan 2024 with in-person sessions while
-        also extending its presence in the virtual space. Stay tuned for more
-        updates!
+      description: The GYSS 2024 returns from 8-12 January packed with an exciting
+        lineup of plenary lectures and panel discussions led by some of the top
+        minds around the world.
   - infopic:
       title: GYSS 2023
       subtitle: Highlights
