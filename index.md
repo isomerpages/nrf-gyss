@@ -31,7 +31,7 @@ sections:
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: GYSS 2024
-      subtitle: Summit update
+      subtitle: Global Summit
       description: The GYSS 2024 returns from 8-12 January packed with an exciting
         lineup of plenary lectures and panel discussions led by some of the top
         minds around the world.
@@ -46,7 +46,7 @@ sections:
       url: /highlights/gyss2023a/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS Speakers
+      subtitle: Luminaries
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
@@ -65,7 +65,7 @@ sections:
       alt: 10 years of excellence
   - resources:
       title: Press Releases
-      subtitle: Media
+      subtitle: Newsroom
       button: View all announcements
   - infopic:
       title: NRF Singapore
