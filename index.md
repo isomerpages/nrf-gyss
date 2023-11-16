@@ -20,6 +20,9 @@ sections:
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       key_highlights:
+        - title: GYSS 2024 Programme
+          description: Packed with activities
+          url: ""
         - title: GYSS 2023
           description: "#throwback to all the action"
           url: /highlights/gyss2023a/
