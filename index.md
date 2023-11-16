@@ -13,13 +13,16 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: ""
+notification: Latest GYSS 2024 Programme is out! Scroll down to find out more.
 sections:
   - hero:
       title: Global Young Scientists Summit
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       key_highlights:
+        - title: GYSS 2024 Programme
+          description: Packed with activities
+          url: /current-event/programme/
         - title: GYSS 2023
           description: "#throwback to all the action"
           url: /highlights/gyss2023a/
@@ -28,10 +31,10 @@ sections:
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: GYSS 2024
-      subtitle: Summit update
-      description: The GYSS will return next Jan 2024 with in-person sessions while
-        also extending its presence in the virtual space. Stay tuned for more
-        updates!
+      subtitle: Global Summit
+      description: The GYSS 2024 returns from 8-12 January packed with an exciting
+        lineup of plenary lectures and panel discussions led by some of the top
+        minds around the world.
   - infopic:
       title: GYSS 2023
       subtitle: Highlights
@@ -43,7 +46,7 @@ sections:
       url: /highlights/gyss2023a/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS Speakers
+      subtitle: Luminaries
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
@@ -62,13 +65,14 @@ sections:
       alt: 10 years of excellence
   - resources:
       title: Press Releases
-      subtitle: Media
+      subtitle: Newsroom
       button: View all announcements
   - infopic:
       title: NRF Singapore
       subtitle: Organiser
       description: The GYSS is an annual flagship event organised by the National
-        Research Foundation, Singapore (NRF).
+        Research Foundation (NRF), custodian of Singapore's Research, Innovation
+        and Enterprise Ecosystem
       button: Visit NRF
       url: https://www.nrf.gov.sg/
       image: /images/nrf logo (high-res) v2.jpg
