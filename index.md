@@ -22,7 +22,7 @@ sections:
       key_highlights:
         - title: GYSS 2024 Programme
           description: Packed with activities
-          url: ""
+          url: /current-event/programme/
         - title: GYSS 2023
           description: "#throwback to all the action"
           url: /highlights/gyss2023a/
