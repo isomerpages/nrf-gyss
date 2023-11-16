@@ -2,13 +2,12 @@
 title: Programme
 permalink: /current-event/programme/
 description: ""
+variant: markdown
 ---
-Stay tuned to this space for the latest **GYSS 2024 programme** as it is still being firmed-up. It will host a comprehensive line-up of plenaries, talks, activities and of course, the much anticipated panel discussions.
+In 2024, participants can look forward to another exciting lineup of plenary lectures and panel discussions led by some of the top minds around the world. We’re also bringing back your favorite programmes!
 
-To give you a sense of the excitement, take a sneak peek at the **GYSS 2023 programme** below.
+#### **GYSS 2024 Programme** ####
 
-#### **GYSS 2023 Programme** ####
+<img width="800" src="/images/GYSS%202024/Programme.png">
 
-<img width="800" src="/images/gyss-2023-programme.jpg">
-
-Click [here](/images/gyss-2023-programme.jpg) to download the programme in a higher resolution.
+Click [here](/images/GYSS%202024/Programme.png) to download the programme in a higher resolution.
