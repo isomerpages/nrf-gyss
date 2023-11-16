@@ -11,5 +11,3 @@ Here are the eminent scientists who will be part of the exciting GYSS2024 next y
 ![](/images/GYSS%202024/2024_Speaker_3.png)
 ![](/images/GYSS%202024/2024_Speaker_4.png)
 ![](/images/GYSS%202024/2024_Speaker_5.png)
-
-Stay tuned as we bring you more updates including the biographies of these eminent speakers.
