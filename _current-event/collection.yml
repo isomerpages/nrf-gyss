@@ -2,6 +2,6 @@ collections:
   current-event:
     output: true
     order:
-      - Panel Discussions.md
       - Speakers.md
       - Programme.md
+      - Panel Discussions.md
