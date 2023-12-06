@@ -23,9 +23,9 @@ sections:
         - title: GYSS 2024 Programme
           description: Packed with activities
           url: /current-event/programme/
-        - title: GYSS 2023
-          description: "#throwback to all the action"
-          url: /highlights/gyss2023a/
+        - title: World's top minds
+          description: Luminaries @ GYSS 2024
+          url: /current-event/speakers/
         - title: Video Repository
           description: Clips of all the past sessions
           url: https://www.youtube.com/nrfmediasg
