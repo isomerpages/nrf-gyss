@@ -37,7 +37,7 @@ sections:
         minds around the world.
   - infopic:
       title: GYSS 2023
-      subtitle: Highlights
+      subtitle: Throwback
       description: "Catch-up with all the action and highlights from the GYSS2023!
         #FusionInSession"
       alt: GYSS 2023 excitement!
@@ -46,7 +46,7 @@ sections:
       url: /highlights/gyss2023a/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: Luminaries
+      subtitle: GYSS 2023 Luminaries
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
