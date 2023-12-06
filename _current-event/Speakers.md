@@ -4,7 +4,7 @@ permalink: /current-event/speakers/
 description: ""
 variant: markdown
 ---
-Here are the eminent scientists who will be part of the exciting GYSS2024 next year:
+Here are the eminent scientists who will be part of the exciting #GYSS2024 next year:
 
 ![](/images/GYSS%202024/2024_Speaker_1.png)
 ![](/images/GYSS%202024/2024_Speaker_2.png)
