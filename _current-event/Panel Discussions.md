@@ -22,4 +22,4 @@ On top of the multiple insightful plenary lectures by eminent scientists from ar
     *   _Discover how scientific research can be transformed into impactful innovations. Learn from successful science entrepreneurs about bridging the gap between research and real-world applications._
 
 Some of our key panelists include top local female leaders in Science and Technology. Presenting our awesome #WomenInScience:
-
+![](/images/GYSS%202024/GYSS_speaker_featuing_female__1_.png)
