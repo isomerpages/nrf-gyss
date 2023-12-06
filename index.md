@@ -23,21 +23,21 @@ sections:
         - title: GYSS 2024 Programme
           description: Packed with activities
           url: /current-event/programme/
-        - title: GYSS 2023
-          description: "#throwback to all the action"
-          url: /highlights/gyss2023a/
+        - title: World's top minds
+          description: Luminaries @ GYSS 2024
+          url: /current-event/speakers/
         - title: Video Repository
           description: Clips of all the past sessions
           url: https://www.youtube.com/nrfmediasg
   - infobar:
-      title: GYSS 2024
+      title: "#GYSS2024"
       subtitle: Global Summit
       description: The GYSS 2024 returns from 8-12 January packed with an exciting
         lineup of plenary lectures and panel discussions led by some of the top
         minds around the world.
   - infopic:
       title: GYSS 2023
-      subtitle: Highlights
+      subtitle: Throwback
       description: "Catch-up with all the action and highlights from the GYSS2023!
         #FusionInSession"
       alt: GYSS 2023 excitement!
@@ -46,7 +46,7 @@ sections:
       url: /highlights/gyss2023a/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: Luminaries
+      subtitle: GYSS 2023 Luminaries
       description: The GYSS features some of the world's leading minds across various
         disciplines. Here are the luminaries from the GYSS 2023.
       button: View here
