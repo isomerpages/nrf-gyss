@@ -2,7 +2,6 @@ collections:
   current-event:
     output: true
     order:
-      - Patron's Message.md
       - Speakers.md
       - Programme.md
       - Panel Discussions.md
