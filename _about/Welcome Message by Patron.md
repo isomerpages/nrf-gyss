@@ -2,10 +2,11 @@
 title: Welcome Message by Patron
 permalink: /about/patron/
 description: ""
+variant: markdown
 ---
 ![](/images/tony%20tan.jpg)
 
-Welcome to the 11th edition of the Global Young Scientists Summit (GYSS) in 2023.  
+Welcome to the 12th edition of the Global Young Scientists Summit (GYSS) in 2024.  
   
 After two years of virtual summits, I am happy that we are once again able to warmly welcome our esteemed speakers and passionate young scientists back to Singapore. While the shift to a virtual setting was seamless and effective, and we appreciate the speakers and participants who were able to make the physical to virtual shift with us, there was no doubt that social engagements were missed. As we emerge from the pandemic, it is therefore timely for us to reconnect physically and look forward to an engaging week of dialogue and engagement.  
   
