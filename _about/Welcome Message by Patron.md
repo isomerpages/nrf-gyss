@@ -2,19 +2,19 @@
 title: Welcome Message by Patron
 permalink: /about/patron/
 description: ""
+variant: markdown
 ---
 ![](/images/tony%20tan.jpg)
 
-Welcome to the 11th edition of the Global Young Scientists Summit (GYSS) in 2023.  
-  
-After two years of virtual summits, I am happy that we are once again able to warmly welcome our esteemed speakers and passionate young scientists back to Singapore. While the shift to a virtual setting was seamless and effective, and we appreciate the speakers and participants who were able to make the physical to virtual shift with us, there was no doubt that social engagements were missed. As we emerge from the pandemic, it is therefore timely for us to reconnect physically and look forward to an engaging week of dialogue and engagement.  
-  
-This year, we are grateful for the support of 21 speakers, of whom 14 will be joining us in person and 6 are speaking at GYSS for the first time. We are also pleased to have a record number of more than 350 young scientists physically taking part in plenaries and discussions, as well as showcasing their work through presentations and sharing sessions. Joining us virtually will also be nearly a thousand online viewers, who will have opportunities to be part of various virtual engagements and activities.  
-  
-Since the first edition of GYSS in 2013, the organising team has worked hard to continually excite, engage and enable the next generation of scientific talents. The team, this year, is particularly enthused and looking forward to hosting everyone once again.  
-  
-Thank you for joining us for GYSS 2023, and I wish you an engaging and inspiring summit ahead.  
-<br>
+This year, over 350 participants from 35 countries will attend the Global Young Scientists Summit (GYSS).  Invited Nobel laureates will convene in Singapore and share about how their discoveries which occurred in humble laboratories, have over time led to the betterment of our world. Truly an inspiration to youths interested in science and technology, as well as scientists and researchers who have anchored their work in Asia.
+
+Science and technology are the stabilizers in a world that is in flux. We have in one generation experienced a pandemic, global economic shifts, and technological disruptions. New solutions are required to solve evolving challenges in the future. At the GYSS, young scientists will be able to connect with established researchers, innovators, entrepreneurs, and venture capitalists within our Science and Technology ecosystem. By working together, new opportunities can be explored for the translation of research into solutions.
+
+This year, there will be 15 esteemed speakers, of which five will be speaking at the GYSS for the first time. About 16 young scientists will helm plenaries and discussions, as well as presentations and sharing sessions of their work. There will also be fringe activities, learning journeys and discussions to excite and engage participants on new technologies, frontier research, and science exploration.
+
+Indeed, the GYSS celebrates the inquiring mind – one that thrives on curiosity, passion, and perseverance. The friendships and bonds forged will encourage our young scientists to push boundaries in research and innovation.
+
+I wish everyone an engaging and inspiring summit ahead.<br>
 
 
 *Dr Tony Tan Keng Yam*

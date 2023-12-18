@@ -35,6 +35,8 @@ sections:
       description: The GYSS 2024 returns from 8-12 January packed with an exciting
         lineup of plenary lectures and panel discussions led by some of the top
         minds around the world.
+      button: Read the Patron's message
+      url: /about/patron/
   - infopic:
       title: GYSS 2023
       subtitle: Throwback
