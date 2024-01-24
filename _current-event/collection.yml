@@ -1,0 +1,7 @@
+collections:
+  current-event:
+    output: true
+    order:
+      - Speakers.md
+      - Programme.md
+      - Panel Discussions.md

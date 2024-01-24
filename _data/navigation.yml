@@ -1,0 +1,10 @@
+logo: /images/gyss-logo-full-col.jpg
+links:
+  - title: About
+    collection: about
+  - title: GYSS 2024
+    collection: current-event
+  - title: Highlights
+    collection: highlights
+  - title: Contact Us
+    url: /contact-us/

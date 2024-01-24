@@ -1,0 +1,69 @@
+title: Global Young Scientists Summit
+url: https://www.gyss-one-north.sg
+favicon: /images/favicon-32x32.png
+colors:
+  primary-color: "#dea369"
+  secondary-color: "#cb591b"
+  media-colors:
+    - title: media-color-one
+      color: "#7a3e29"
+    - title: media-color-two
+      color: "#d385ae"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: The Global Young Scientists Summit in Singapore brings together
+  bright young researchers and top scientific minds from around the world to
+  discuss science and technology trends, future game changers and how research
+  could address major global challenges. Organised by the National Research
+  Foundation, Singapore (NRF), it was started in 2013 with the objective of
+  exciting and engaging young scientists to pursue their scientific dreams
+  through close interactions with distinguished scientists and researchers, and
+  with peers. The Summit provides a platform for conversations on science and
+  research, technology innovation and society, and solutions to global
+  challenges.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d1k4q5ikflkok3.amplifyapp.com/
+prod: https://master.d1k4q5ikflkok3.amplifyapp.com/
+shareicon: /images/gyss 2023 - participants.JPG
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: media
+google_analytics_ga4: ""
