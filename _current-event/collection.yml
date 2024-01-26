@@ -2,7 +2,7 @@ collections:
   current-event:
     output: true
     order:
-      - Photo Gallery.md
       - Speakers.md
       - Programme.md
       - Panel Discussions.md
+      - Photo Gallery.md
