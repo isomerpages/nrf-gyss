@@ -20,14 +20,14 @@ sections:
       subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       key_highlights:
-        - title: GYSS 2024 Programme
-          description: Packed with activities
-          url: /current-event/programme/
+        - title: What is the GYSS?
+          description: Engage, Excite, Enable
+          url: /about/about/
         - title: World's top minds
           description: Luminaries @ GYSS 2024
           url: /current-event/speakers/
         - title: Video Repository
-          description: Clips of all the past sessions
+          description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: "#GYSS2024"
