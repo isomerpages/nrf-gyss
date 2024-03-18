@@ -53,7 +53,7 @@ sections:
         disciplines. Here are the luminaries from the GYSS 2024.
       button: View here
       url: /gyss-2024/speakers/
-      image: /images/gyss 2023 - q_a with sir tim hunt.jpg
+      image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
