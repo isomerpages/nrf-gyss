@@ -17,7 +17,6 @@ notification: ""
 sections:
   - hero:
       title: Global Young Scientists Summit
-      subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       key_highlights:
         - title: What is the GYSS?
