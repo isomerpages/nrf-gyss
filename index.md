@@ -30,18 +30,18 @@ sections:
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
   - infobar:
-      title: "#GYSS2024"
-      subtitle: Global Summit
-      description: In January 2024, the GYSS was packed with an exciting lineup of
-        plenary lectures and panel discussions led by some of the top minds
-        around the world.
-      button: Read the Patron's message
+      title: "#GYSS"
+      subtitle: A Global Affair
+      description: Bringing together young researchers and top scientific minds from
+        around the world to discuss how research could address major global
+        challenges.
+      button: View the Patron's message
       url: /about/patron/
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
-      description: "Videos, photos and more - Catch-up with all the action from the
-        #GYSS2024!"
+      description: From videos, photos and more, catch-up with all the action from the
+        GYSS 2024!
       alt: GYSS 2024 excitement!
       button: view here
       image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
