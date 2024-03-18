@@ -48,11 +48,11 @@ sections:
       url: /highlights/gyss2024/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2023 Luminaries
+      subtitle: GYSS 2024 Luminaries
       description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2023.
+        disciplines. Here are the luminaries from the GYSS 2024.
       button: View here
-      url: /gyss-2023/speakers/
+      url: /gyss-2024/speakers/
       image: /images/gyss 2023 - q_a with sir tim hunt.jpg
       alt: World's leading luminaries
   - infopic:
