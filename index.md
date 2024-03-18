@@ -28,6 +28,7 @@ sections:
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
+      variant: center
   - infobar:
       title: "#GYSS"
       subtitle: Global Summit
