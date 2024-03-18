@@ -32,16 +32,15 @@ sections:
   - infobar:
       title: "#GYSS2024"
       subtitle: Global Summit
-      description: The GYSS 2024 returns from 8-12 January packed with an exciting
-        lineup of plenary lectures and panel discussions led by some of the top
-        minds around the world.
+      description: In January '24, the GYSS 2024 was packed with an exciting lineup of
+        plenary lectures and panel discussions led by some of the top minds
+        around the world.
       button: Read the Patron's message
       url: /about/patron/
   - infopic:
       title: GYSS 2023
-      subtitle: Throwback
-      description: "Catch-up with all the action and highlights from the GYSS2023!
-        #FusionInSession"
+      subtitle: January 2023 @ Singapore
+      description: Catch-up with all the action and highlights from the GYSS2023!
       alt: GYSS 2023 excitement!
       button: view here
       image: /images/gyss 2023 - participants.JPG
