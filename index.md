@@ -25,7 +25,7 @@ sections:
           url: /about/about/
         - title: World's top minds
           description: Luminaries @ GYSS 2024
-          url: /current-event/speakers/
+          url: /Gyss2024/speakers/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
