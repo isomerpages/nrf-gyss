@@ -2,6 +2,5 @@ collections:
   current-event:
     output: true
     order:
-      - Programme.md
       - Panel Discussions.md
       - Photo Gallery.md
