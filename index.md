@@ -38,13 +38,13 @@ sections:
       button: Read the Patron's message
       url: /about/patron/
   - infopic:
-      title: GYSS 2023
-      subtitle: January 2023 @ Singapore
-      description: Catch-up with all the action and highlights from the GYSS2023!
+      title: GYSS 2024
+      subtitle: Highlights
+      description: "Catch-up with all the action and highlights from the #GYSS2024!"
       alt: GYSS 2023 excitement!
       button: view here
       image: /images/gyss 2023 - participants.JPG
-      url: /highlights/gyss2023a/
+      url: /highlights/gyss2024/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: GYSS 2023 Luminaries
