@@ -2,5 +2,6 @@ collections:
   gyss-2024:
     output: true
     order:
+      - Panel Discussions.md
       - Programme.md
       - Speakers.md
