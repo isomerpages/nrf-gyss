@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: "#GYSS2024"
       subtitle: Global Summit
-      description: In January '24, the GYSS 2024 was packed with an exciting lineup of
+      description: In January 2024, the GYSS was packed with an exciting lineup of
         plenary lectures and panel discussions led by some of the top minds
         around the world.
       button: Read the Patron's message
@@ -40,10 +40,11 @@ sections:
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
-      description: "Catch-up with all the action and highlights from the #GYSS2024!"
-      alt: GYSS 2023 excitement!
+      description: "Videos, photos and more - Catch-up with all the action from the
+        #GYSS2024!"
+      alt: GYSS 2024 excitement!
       button: view here
-      image: /images/gyss 2023 - participants.JPG
+      image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
       url: /highlights/gyss2024/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
