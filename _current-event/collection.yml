@@ -1,5 +1,4 @@
 collections:
   current-event:
     output: true
-    order:
-      - Photo Gallery.md
+    order: []
