@@ -1,0 +1,8 @@
+collections:
+  gyss-2024:
+    output: true
+    order:
+      - Photo Gallery.md
+      - Panel Discussions.md
+      - Programme.md
+      - Speakers.md

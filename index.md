@@ -13,47 +13,47 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: Latest GYSS 2024 Programme is out! Scroll down to find out more.
+notification: ""
 sections:
   - hero:
       title: Global Young Scientists Summit
-      subtitle: 8 - 12 January 2024
       background: /images/gyss standee.jpg
       key_highlights:
-        - title: GYSS 2024 Programme
-          description: Packed with activities
-          url: /current-event/programme/
+        - title: What is the GYSS?
+          description: Engage, Excite, Enable
+          url: /about/about/
         - title: World's top minds
           description: Luminaries @ GYSS 2024
-          url: /current-event/speakers/
+          url: /Gyss2024/speakers/
         - title: Video Repository
-          description: Clips of all the past sessions
+          description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
+      variant: center
   - infobar:
-      title: "#GYSS2024"
+      title: "#GYSS"
       subtitle: Global Summit
-      description: The GYSS 2024 returns from 8-12 January packed with an exciting
-        lineup of plenary lectures and panel discussions led by some of the top
-        minds around the world.
-      button: Read the Patron's message
+      description: Bringing together young researchers and top scientific minds from
+        around the world to discuss how research could address major global
+        challenges.
+      button: View the Patron's message
       url: /about/patron/
   - infopic:
-      title: GYSS 2023
-      subtitle: Throwback
-      description: "Catch-up with all the action and highlights from the GYSS2023!
-        #FusionInSession"
-      alt: GYSS 2023 excitement!
+      title: GYSS 2024
+      subtitle: Highlights
+      description: From videos to photos and more, catch-up with all the action from
+        the GYSS 2024!
+      alt: GYSS 2024 excitement!
       button: view here
-      image: /images/gyss 2023 - participants.JPG
-      url: /highlights/gyss2023a/
+      image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
+      url: /highlights/gyss2024/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2023 Luminaries
+      subtitle: GYSS 2024 Luminaries
       description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2023.
+        disciplines. Here are the luminaries from the GYSS 2024.
       button: View here
-      url: /gyss-2023/speakers/
-      image: /images/gyss 2023 - q_a with sir tim hunt.jpg
+      url: /gyss-2024/speakers/
+      image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"

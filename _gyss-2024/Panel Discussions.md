@@ -1,6 +1,6 @@
 ---
 title: Panel Discussions
-permalink: /current-event/panel-discussions/
+permalink: /gyss-2024/panel-discussions/
 variant: markdown
 description: ""
 ---

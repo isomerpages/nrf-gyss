@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /current-event/speakers/
+permalink: /gyss-2024/speakers/
 description: ""
 variant: markdown
 ---

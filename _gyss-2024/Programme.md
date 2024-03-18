@@ -1,6 +1,6 @@
 ---
 title: Programme
-permalink: /current-event/programme/
+permalink: /gyss-2024/programme/
 description: ""
 variant: markdown
 ---
