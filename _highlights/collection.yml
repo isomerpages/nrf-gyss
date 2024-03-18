@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - GYSS 2024.md
       - GYSS 2023.md
