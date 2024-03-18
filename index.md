@@ -31,7 +31,7 @@ sections:
           url: https://www.youtube.com/nrfmediasg
   - infobar:
       title: "#GYSS"
-      subtitle: A Global Affair
+      subtitle: Global Summit
       description: Bringing together young researchers and top scientific minds from
         around the world to discuss how research could address major global
         challenges.
@@ -40,8 +40,8 @@ sections:
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
-      description: From videos, photos and more, catch-up with all the action from the
-        GYSS 2024!
+      description: From videos to photos and more, catch-up with all the action from
+        the GYSS 2024!
       alt: GYSS 2024 excitement!
       button: view here
       image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
