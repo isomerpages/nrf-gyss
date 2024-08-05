@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.nrf.gov.sg/files/DPM%20Speech%20GYSS%202022.pdf
+external: https://www.nrf.gov.sg/files/speech%20by%20dpm%20heng%20swee%20keat%20at%20the%20gyss%202022.pdf
 ---
