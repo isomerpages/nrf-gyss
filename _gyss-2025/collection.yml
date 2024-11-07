@@ -2,8 +2,8 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Speakers.md
       - Programme.md
+      - Speakers.md
       - Speaker profiles/.keep
       - Speaker profiles/Aaron Ciechanover.md
       - Speaker profiles/Adi Shamir.md
