@@ -27,7 +27,9 @@ sections:
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
-      variant: center
+      variant: image
+      title: Global Young Scientists Summit
+      subtitle: 6–10 January 2025
   - infobar:
       title: "#GYSS"
       subtitle: Global Summit
