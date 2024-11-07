@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Yael Kalai.md
       - Speakers/Adi Shamir.md
       - Speakers/.keep
       - Speakers/Aaron Ciechanover.md
