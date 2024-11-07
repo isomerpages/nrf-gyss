@@ -1,5 +1,5 @@
 collections:
-  about:
+  the-summit:
     output: true
     order:
       - The Summit.md
