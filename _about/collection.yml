@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - About the GYSS.md
+      - The Summit.md
       - Welcome Message by Patron.md
       - 10th Anniversary Publication.md
