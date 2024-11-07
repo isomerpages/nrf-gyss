@@ -1,5 +1,5 @@
 collections:
-  gyss-speakers:
+  gyss-2025-speakers:
     output: true
     order:
       - Aaron Ciechanover.md
