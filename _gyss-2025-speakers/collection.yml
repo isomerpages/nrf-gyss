@@ -2,6 +2,7 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - Sue Black.md
       - Takaaki Kajita.md
       - Thomas Südhof.md
       - Tim Hunt.md
