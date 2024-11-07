@@ -40,9 +40,9 @@ sections:
       title: Excite, Engage, Enable
       subtitle: gyss 2025 theme
       id: infopic
-      description: This five-day summit returns as a catalyst for building a vibrant
-        scientific community through transformative ideas and collaborative
-        opportunities.
+      description: The highly anticipated summit returns as a catalyst for building a
+        vibrant scientific community through transformative ideas and
+        collaborative opportunities.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
   - infopic:
@@ -54,6 +54,12 @@ sections:
       url: /gyss-2025/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
+  - infobar:
+      title: Five Days of Excitement
+      subtitle: GYSS 2025 programme
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
