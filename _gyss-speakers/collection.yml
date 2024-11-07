@@ -2,6 +2,7 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Brian Schmidt.md
       - Sir David Klenerman.md
       - Duncan Haldane.md
       - Hartmut Michel.md
