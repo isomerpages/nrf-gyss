@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Steven Chu.md
       - Speakers/Dame Sue Black.md
       - Speakers/Takaaki Kajita.md
       - Speakers/Thomas Südhof.md
