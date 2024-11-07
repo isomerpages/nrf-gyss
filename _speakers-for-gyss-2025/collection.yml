@@ -2,4 +2,5 @@ collections:
   speakers-for-gyss-2025:
     output: true
     order:
+      - Adi Shamir.md
       - Aaron Ciechanover.md
