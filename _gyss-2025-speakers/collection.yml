@@ -2,6 +2,7 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - Yael Kalai.md
       - Brian Schmidt.md
       - Adi Shamir.md
       - Aaron Ciechanover.md
