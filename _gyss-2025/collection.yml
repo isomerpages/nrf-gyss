@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/.keep
+      - Speakers/Aaron Ciechanover.md
+      - Speakers/Adi Shamir.md
       - Speakers/Brian Schmidt.md
       - Speakers/David Klenerman.md
       - Speakers/Duncan Haldane.md
@@ -22,6 +25,3 @@ collections:
       - Speakers/Tim Hunt.md
       - Speakers/Wendelin Werner.md
       - Speakers/Yael Kalai.md
-      - Speakers/Adi Shamir.md
-      - Speakers/.keep
-      - Speakers/Aaron Ciechanover.md
