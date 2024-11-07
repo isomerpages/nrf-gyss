@@ -23,8 +23,8 @@ sections:
           description: Engage, Excite, Enable
           url: /the-summit/about/
         - title: World's top minds
-          description: Luminaries @ GYSS 2024
-          url: gyss-2024/speakers/
+          description: Luminaries @ GYSS 2025
+          url: /gyss-2025/speakers/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
