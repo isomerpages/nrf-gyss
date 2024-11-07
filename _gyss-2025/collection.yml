@@ -4,4 +4,3 @@ collections:
     order:
       - Speakers/.keep
       - Programme.md
-      - Aaron Ciechanover.md
