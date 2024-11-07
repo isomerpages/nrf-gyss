@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Sir Tim Hunt.md
       - Speakers/Wendelin Werner.md
       - Speakers/Yael Kalai.md
       - Speakers/Adi Shamir.md
