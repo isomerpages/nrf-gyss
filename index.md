@@ -16,8 +16,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Global Young Scientists Summit
-      background: /images/gyss standee.jpg
+      background: /images/GYSS 2025/GYSS_2025_Banner_820x360px.png
       key_highlights:
         - title: What is the GYSS?
           description: Engage, Excite, Enable
