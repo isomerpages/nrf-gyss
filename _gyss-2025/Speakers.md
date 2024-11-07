@@ -4,6 +4,7 @@ permalink: /gyss-2025/speakers/
 variant: tiptap
 description: ""
 ---
+<p>Introducing our distinguished speakers for the GYSS 2025:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
