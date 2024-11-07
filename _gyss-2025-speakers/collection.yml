@@ -2,8 +2,9 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
-      - Joseph Sifakis.md
-      - Konstantin Novoselov.md
+      - Aaron Ciechanover.md
+      - Adi Shamir.md
+      - Brian Schmidt.md
       - Leslie Valiant.md
       - Louis Ignarro.md
       - Richard Roberts.md
@@ -16,6 +17,3 @@ collections:
       - Tim Hunt.md
       - Wendelin Werner.md
       - Yael Kalai.md
-      - Brian Schmidt.md
-      - Adi Shamir.md
-      - Aaron Ciechanover.md
