@@ -58,8 +58,10 @@ sections:
       title: Five Days of Excitement
       subtitle: GYSS 2025 programme
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Panel huddles, quickfire pitches, site visits—all these and more
+        await you at the summit.
+      button: what to expect
+      url: /gyss-2025/programme/
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
