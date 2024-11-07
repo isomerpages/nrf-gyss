@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Programme.md
-      - Speakers.md
+      - Aaron Ciechanover.md
