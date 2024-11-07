@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Hartmut Michel.md
       - Speakers/Joan Rose.md
       - Speakers/Joseph Sifakis.md
       - Speakers/Konstantin Novoselov.md
