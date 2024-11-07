@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About the GYSS.md
-      - Welcome Message by Patron.md
       - 10th Anniversary Publication.md
