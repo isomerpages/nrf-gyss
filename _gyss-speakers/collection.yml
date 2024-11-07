@@ -2,6 +2,7 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Joan Rose.md
       - Joseph Sifakis.md
       - Konstantin Novoselov.md
       - Leslie Valiant.md
