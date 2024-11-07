@@ -40,15 +40,17 @@ sections:
       title: Excite, Engage, Enable
       subtitle: gyss 2025 theme
       id: infopic
-      description: Infopic description
-      image: /images/GYSS 2024/Science_comms.jpg
+      description: This five-day summit returns as a catalyst for building a vibrant
+        scientific community through transformative ideas and collaborative
+        opportunities.
+      image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
   - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: GYSS 2025 Luminaries
-      description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2025.
-      button: View here
+      description: The summit features some of the world's leading minds across
+        various disciplines.
+      button: Meet the speakers
       url: /gyss-2025/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
