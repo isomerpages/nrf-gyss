@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Speakers
 ---
-<h2><strong>Aaron Ciechanover </strong></h2>
+<h2><strong>Aaron Ciechanover</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Aaron Ciechanover" src="/images/GYSS 2025/GYSS_2025_featured_speakers_01.png">
