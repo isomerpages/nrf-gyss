@@ -2,6 +2,7 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Louis Ignarro.md
       - Sir Richard Roberts.md
       - Shwetak Patel.md
       - Stefan Hell.md
