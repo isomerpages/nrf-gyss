@@ -2,13 +2,13 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - Aaron Ciechanover.md
+      - Adi Shamir.md
+      - Brian Schmidt.md
       - David Klenerman.md
       - Duncan Haldane.md
       - Hartmut Michel.md
       - Joan Rose.md
-      - Aaron Ciechanover.md
-      - Adi Shamir.md
-      - Brian Schmidt.md
       - Leslie Valiant.md
       - Louis Ignarro.md
       - Richard Roberts.md
