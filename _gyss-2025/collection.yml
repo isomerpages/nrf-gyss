@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Richard Roberts.md
       - Speakers/Shwetak Patel.md
       - Speakers/Stefan Hell.md
       - Speakers/Steven Chu.md
