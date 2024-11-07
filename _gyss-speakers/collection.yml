@@ -2,6 +2,7 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Steven Chu.md
       - Dame Sue Black.md
       - Takaaki Kajita.md
       - Thomas Südhof.md
