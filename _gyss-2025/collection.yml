@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Leslie Valiant.md
       - Speakers/Louis Ignarro.md
       - Speakers/Richard Roberts.md
       - Speakers/Shwetak Patel.md
