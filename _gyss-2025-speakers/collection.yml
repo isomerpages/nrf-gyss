@@ -2,6 +2,7 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - Shwetak Patel.md
       - Stefan Hell.md
       - Steven Chu.md
       - Sue Black.md
