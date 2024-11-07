@@ -35,8 +35,6 @@ sections:
       description: Bringing together young researchers and top scientific minds from
         around the world to discuss how research could address major global
         challenges.
-      button: View the Patron's message
-      url: /about/patron/
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
