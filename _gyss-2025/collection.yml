@@ -4,25 +4,25 @@ collections:
     order:
       - Speakers.md
       - Programme.md
-      - Speakers/.keep
-      - Speakers/Aaron Ciechanover.md
-      - Speakers/Adi Shamir.md
-      - Speakers/Brian Schmidt.md
-      - Speakers/David Klenerman.md
-      - Speakers/Duncan Haldane.md
-      - Speakers/Hartmut Michel.md
-      - Speakers/Joan Rose.md
-      - Speakers/Joseph Sifakis.md
-      - Speakers/Konstantin Novoselov.md
-      - Speakers/Leslie Valiant.md
-      - Speakers/Louis Ignarro.md
-      - Speakers/Richard Roberts.md
-      - Speakers/Shwetak Patel.md
-      - Speakers/Stefan Hell.md
-      - Speakers/Steven Chu.md
-      - Speakers/Sue Black.md
-      - Speakers/Takaaki Kajita.md
-      - Speakers/Thomas Südhof.md
-      - Speakers/Tim Hunt.md
-      - Speakers/Wendelin Werner.md
-      - Speakers/Yael Kalai.md
+      - Speaker profiles/.keep
+      - Speaker profiles/Aaron Ciechanover.md
+      - Speaker profiles/Adi Shamir.md
+      - Speaker profiles/Brian Schmidt.md
+      - Speaker profiles/David Klenerman.md
+      - Speaker profiles/Duncan Haldane.md
+      - Speaker profiles/Hartmut Michel.md
+      - Speaker profiles/Joan Rose.md
+      - Speaker profiles/Joseph Sifakis.md
+      - Speaker profiles/Konstantin Novoselov.md
+      - Speaker profiles/Leslie Valiant.md
+      - Speaker profiles/Louis Ignarro.md
+      - Speaker profiles/Richard Roberts.md
+      - Speaker profiles/Shwetak Patel.md
+      - Speaker profiles/Stefan Hell.md
+      - Speaker profiles/Steven Chu.md
+      - Speaker profiles/Sue Black.md
+      - Speaker profiles/Takaaki Kajita.md
+      - Speaker profiles/Thomas Südhof.md
+      - Speaker profiles/Tim Hunt.md
+      - Speaker profiles/Wendelin Werner.md
+      - Speaker profiles/Yael Kalai.md
