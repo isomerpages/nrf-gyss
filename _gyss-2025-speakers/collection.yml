@@ -1,5 +1,5 @@
 collections:
-  speakers-for-gyss-2025:
+  gyss-2025-speakers:
     output: true
     order:
       - Brian Schmidt.md
