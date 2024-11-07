@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Brian Schmidt.md
       - Speakers/David Klenerman.md
       - Speakers/Duncan Haldane.md
       - Speakers/Hartmut Michel.md
