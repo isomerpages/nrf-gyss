@@ -2,6 +2,7 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - Joan Rose.md
       - Aaron Ciechanover.md
       - Adi Shamir.md
       - Brian Schmidt.md
