@@ -2,4 +2,5 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Wendelin Werner.md
       - Yael Kalai.md
