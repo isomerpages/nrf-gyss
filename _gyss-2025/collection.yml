@@ -1,4 +1,5 @@
 collections:
   gyss-2025:
     output: true
-    order: []
+    order:
+      - Speakers.md
