@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
+      - Speakers/Takaaki Kajita.md
       - Speakers/Thomas Südhof.md
       - Speakers/Sir Tim Hunt.md
       - Speakers/Wendelin Werner.md
