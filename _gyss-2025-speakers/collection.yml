@@ -2,6 +2,7 @@ collections:
   gyss-2025-speakers:
     output: true
     order:
+      - David Klenerman.md
       - Duncan Haldane.md
       - Hartmut Michel.md
       - Joan Rose.md
