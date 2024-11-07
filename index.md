@@ -37,6 +37,22 @@ sections:
         around the world to discuss how research could address major global
         challenges.
   - infopic:
+      title: Excite, Engage, Enable
+      subtitle: gyss 2025 theme
+      id: infopic
+      description: Infopic description
+      image: /images/GYSS 2024/Science_comms.jpg
+      alt: Image alt text
+  - infopic:
+      title: Nobel Laureates & Eminent Scientists
+      subtitle: GYSS 2025 Luminaries
+      description: The GYSS features some of the world's leading minds across various
+        disciplines. Here are the luminaries from the GYSS 2025.
+      button: View here
+      url: /gyss-2025/speakers/
+      image: /images/GYSS 2024/GYSS_2024.jpg
+      alt: World's leading luminaries
+  - infopic:
       title: GYSS 2024
       subtitle: Highlights
       description: From videos to photos and more, catch-up with all the action from
@@ -45,15 +61,6 @@ sections:
       button: view here
       image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
       url: /highlights/gyss2024/
-  - infopic:
-      title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2024 Luminaries
-      description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2024.
-      button: View here
-      url: /gyss-2024/speakers/
-      image: /images/GYSS 2024/GYSS_2024.jpg
-      alt: World's leading luminaries
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary Publication
