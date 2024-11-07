@@ -2,5 +2,6 @@ collections:
   gyss-speakers:
     output: true
     order:
+      - Sir Tim Hunt.md
       - Wendelin Werner.md
       - Yael Kalai.md
