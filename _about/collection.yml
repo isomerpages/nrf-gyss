@@ -1,5 +1,5 @@
 collections:
-  the-summit:
+  about:
     output: true
     order:
       - About the GYSS.md
