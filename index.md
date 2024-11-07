@@ -21,7 +21,7 @@ sections:
       key_highlights:
         - title: What is the GYSS?
           description: Engage, Excite, Enable
-          url: /the-summit/about/
+          url: /about/about-the-gyss/
         - title: World's top minds
           description: Luminaries @ GYSS 2025
           url: /gyss-2025/speakers/
