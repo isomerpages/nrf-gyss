@@ -1,10 +1,10 @@
 logo: /images/gyss-logo-full-col.jpg
 links:
+  - title: GYSS 2025
+    collection: gyss-2025
   - title: The Summit
     collection: the-summit
   - title: Highlights
     collection: highlights
   - title: Contact Us
     url: /contact-us/
-  - title: GYSS 2025
-    collection: gyss-2025
