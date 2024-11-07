@@ -2,5 +2,6 @@ collections:
   gyss-2025:
     output: true
     order:
+      - Speakers/.keep
       - Programme.md
       - Aaron Ciechanover.md
