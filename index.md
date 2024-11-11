@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: ""
+notification: The GYSS 2025 programme is now live! Scroll down to find out more.
 sections:
   - hero:
       background: /images/Website_banner_2_820x312px__2_.png
@@ -41,10 +41,10 @@ sections:
         challenges.
   - infopic:
       title: Excite, Engage, Enable
-      subtitle: gyss 2025
+      subtitle: the gyss 2025
       id: infopic
-      description: The highly anticipated Summit returns to build a vibrant scientific
-        community that goes beyond borders and disciplines.
+      description: The highly anticipated Summit returns in 2025 to build a vibrant
+        scientific community that goes beyond borders and disciplines.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
   - infopic:
@@ -60,7 +60,7 @@ sections:
       subtitle: Programme
       id: infobar
       description: Panel huddles, quickfire pitches, site visits—all these and more
-        await you at the summit.
+        await you at the Summit.
       button: what to expect
       url: /gyss-2025/programme/
   - infopic:
