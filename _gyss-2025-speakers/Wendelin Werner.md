@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Wendelin Werner</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wendelin Werner" src="/images/GYSS 2025/GYSS_2025_featured_speakers_20.png">
+<img style="width: 100%" height="auto" width="100%" alt="Wendelin Werner" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_20.png">
 </div>
 <p>Professor Wendelin Werner is a French and German mathematician whose work
 is driven by a curiosity to unravel the abstract ideas of the world around
