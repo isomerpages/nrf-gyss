@@ -13,14 +13,54 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/aaron-ciechanover/"><img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2025/GYSS_2025_featured_speakers_01.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/adi-shamir/"><img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2025/GYSS_2025_featured_speakers_02.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/brian-schmidt/"><img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_03.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -34,33 +74,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/david-klenerman/"><img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2025/GYSS_2025_featured_speakers_04.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/duncan-haldane/"><img style="width: 100%" height="auto" width="100%" alt="Duncan Haldane" src="/images/GYSS 2025/GYSS_2025_featured_speakers_05.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/hartmut-michel/"><img style="width: 100%" height="auto" width="100%" alt="Hartmut Michel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_06.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/joan-rose/"><img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2025/GYSS_2025_featured_speakers_07.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/joseph-sifakis/"><img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_08.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_09.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -74,33 +94,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/leslie-valiant/"><img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_10.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/louis-ignarro/"><img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_11.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_12.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/shwetak-patel/"><img style="width: 100%" height="auto" width="100%" alt="Shwetak Patel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_13.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/stefan-hell/"><img style="width: 100%" height="auto" width="100%" alt="Stefan Hell" src="/images/GYSS 2025/GYSS_2025_featured_speakers_14.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/steven-chu/"><img style="width: 100%" height="auto" width="100%" alt="Steven Chu" src="/images/GYSS 2025/GYSS_2025_featured_speakers_15.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -114,13 +114,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/sue-black/"><img style="width: 100%" height="auto" width="100%" alt="Dame Sue Black" src="/images/GYSS 2025/GYSS_2025_featured_speakers_16.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/takaaki-kajita/"><img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2025/GYSS_2025_featured_speakers_17.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/thomas-sudhof/"><img style="width: 100%" height="auto" width="100%" alt="Thomas Südhof" src="/images/GYSS 2025/GYSS_2025_featured_speakers_18.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -134,13 +134,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/tim-hunt/"><img style="width: 100%" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_19.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/wendelin-werner/"><img style="width: 100%" height="auto" width="100%" alt="Wendelin Werner" src="/images/GYSS 2025/GYSS_2025_featured_speakers_20.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/yael-kalai/"><img style="width: 100%" height="auto" width="100%" alt="Yael Kalai" src="/images/GYSS 2025/GYSS_2025_featured_speakers_21.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
