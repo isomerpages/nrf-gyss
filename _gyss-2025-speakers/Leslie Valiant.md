@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Leslie Valiant</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_10.png">
 </div>
 <p>Professor Leslie Valiant was educated at King's College, Cambridge and
 Imperial College, London, and received his PhD in computer science at Warwick
