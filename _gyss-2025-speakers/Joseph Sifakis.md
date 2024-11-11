@@ -7,7 +7,7 @@ description: ""
 <h2>Joseph Sifakis</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_08.png">
+<img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_08.png">
 </div>
 <p>Professor Joseph Sifakis is Emeritus Research Director at Verimag, a leading
 laboratory in the area of safety critical systems which he established
