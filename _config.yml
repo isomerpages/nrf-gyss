@@ -2,11 +2,11 @@ title: Global Young Scientists Summit
 url: https://www.gyss-one-north.sg
 favicon: /images/favicon-32x32.png
 colors:
-  primary-color: "#e4c189"
+  primary-color: "#ae0f11"
   secondary-color: "#f39200"
   media-colors:
     - title: media-color-one
-      color: "#ae0f11"
+      color: "#e4c189"
     - title: media-color-two
       color: "#f3d5cc"
     - title: media-color-three
