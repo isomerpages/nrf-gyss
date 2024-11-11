@@ -49,7 +49,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2025 Speakers
+      subtitle: Speakers
       description: The Summit features some of the world's top minds.
       button: Meet the scientists
       url: /gyss-2025/speakers/
@@ -57,7 +57,7 @@ sections:
       alt: World's leading luminaries
   - infobar:
       title: Five Days of Excitement
-      subtitle: GYSS 2025 programme
+      subtitle: Programme
       id: infobar
       description: Panel huddles, quickfire pitches, site visits—all these and more
         await you at the summit.
