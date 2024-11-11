@@ -14,10 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_01.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/aaron-ciechanover/"><img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_01.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -26,10 +23,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_03.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/brian-schmidt/"><img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_03.png"></a>
 </th>
 </tr>
 </tbody>
@@ -43,22 +37,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_04.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/david-klenerman/"><img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_04.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Duncan Haldane" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_05.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/duncan-haldane/"><img style="width: 100%" height="auto" width="100%" alt="Duncan Haldane" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_05.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hartmut Michel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_06.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/hartmut-michel/"><img style="width: 100%" height="auto" width="100%" alt="Hartmut Michel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_06.png"></a>
 </th>
 </tr>
 </tbody>
