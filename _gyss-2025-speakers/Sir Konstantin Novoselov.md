@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Sir Konstantin Novoselov</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_09.png">
+<img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_09.png">
 </div>
 <p>Sir Konstantin Novoselov holds a Tan Chin Tuan Centennial Professorship
 at the National University of Singapore, where he is also Director of the
