@@ -6,10 +6,10 @@ description: ""
 ---
 <h2><strong>Adi Shamir</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2025/GYSS_2025_featured_speakers_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_02.png">
 </div>
+<p></p>
 <p>Professor Adi Shamir is the Paul and Marlene Borman Professorial Chair
 of Applied Mathematics at Weizmann Institute of Science. He has propelled
 the field of cryptography to new heights, the most iconic being his work
