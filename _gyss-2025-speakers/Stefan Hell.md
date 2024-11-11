@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Stefan Hell</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stefan Hell" src="/images/GYSS 2025/GYSS_2025_featured_speakers_14.png">
+<img style="width: 100%" height="auto" width="100%" alt="Stefan Hell" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_14.png">
 </div>
 <p>Professor Stefan W. Hell is a director at both the Max Planck Institute
 for Multidisciplinary Sciences in Göttingen and the Max Planck Institute
