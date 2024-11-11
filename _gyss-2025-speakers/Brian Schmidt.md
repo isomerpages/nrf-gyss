@@ -6,8 +6,9 @@ description: ""
 ---
 <h2><strong>Brian Schmidt</strong></h2>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_03.png">
 </div>
 <p>Brian Schmidt is Distinguished Professor of Astronomy at the Australian
 National University, of which he has been a faculty member since 1995.
