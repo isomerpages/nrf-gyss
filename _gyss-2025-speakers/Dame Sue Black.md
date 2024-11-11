@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Dame Sue Black</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dame Sue Black" src="/images/GYSS 2025/GYSS_2025_featured_speakers_16.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sue Black" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_16.png">
 </div>
 <p>Professor Dame Sue Black is President of St John's College at the University
 of Oxford. After her degree and PhD in human anatomy at the University
