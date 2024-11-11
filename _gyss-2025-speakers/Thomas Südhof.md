@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Thomas Südhof</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Thomas Südhof" src="/images/GYSS 2025/GYSS_2025_featured_speakers_18.png">
+<img style="width: 100%" height="auto" width="100%" alt="Thomas Südhof" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_18.png">
 </div>
 <p>Professor Thomas C. Südhof is a neuroscientist whose work has described
 how neurons communicate with each other at synapses and how such communication
