@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Sir David Klenerman</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2025/GYSS_2025_featured_speakers_04.png">
+<img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_04.png">
 </div>
 <p>Professor Sir David Klenerman is a physical chemist who completed his
 degree and doctorate at the University of Cambridge, followed by postdoctoral
