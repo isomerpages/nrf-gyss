@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Sir Richard Roberts</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_12.png">
+<img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_12.png">
 </div>
 <p>Sir Richard J. Roberts is Chief Scientific Officer at New England Biolabs
 in Ipswich, Massachusetts, United States. He first joined the company as
