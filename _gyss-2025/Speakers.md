@@ -57,22 +57,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_07.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/joan-rose/"><img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_07.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_08.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/joseph-sifakis/"><img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_08.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_09.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_09.png"></a>
 </td>
 </tr>
 </tbody>
@@ -86,22 +77,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_10.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/leslie-valiant/"><img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_10.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_11.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/louis-ignarro/"><img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_11.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_12.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_12.png"></a>
 </td>
 </tr>
 </tbody>
@@ -115,22 +97,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shwetak Patel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_13.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/shwetak-patel/"><img style="width: 100%" height="auto" width="100%" alt="Shwetak Patel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_13.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stefan Hell" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_14.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/stefan-hell/"><img style="width: 100%" height="auto" width="100%" alt="Stefan Hell" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_14.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Steven Chu" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_15.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/steven-chu/"><img style="width: 100%" height="auto" width="100%" alt="Steven Chu" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_15.png"></a>
 </td>
 </tr>
 </tbody>
