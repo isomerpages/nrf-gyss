@@ -16,27 +16,53 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Global Young Scientists Summit
-      background: /images/gyss standee.jpg
+      background: /images/Website_banner_2_820x312px__2_.png
       key_highlights:
         - title: What is the GYSS?
           description: Engage, Excite, Enable
-          url: /about/about/
+          url: /about/about-the-gyss/
+        - title: GYSS 2025
+          description: Explore the Summit Programme
+          url: /gyss-2025/programme/
         - title: World's top minds
-          description: Luminaries @ GYSS 2024
-          url: gyss-2024/speakers/
+          description: Luminaries @ GYSS 2025
+          url: /gyss-2025/speakers/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
-      variant: center
+      variant: image
+      title: Global Young Scientists Summit
+      subtitle: 6–10 January 2025
   - infobar:
       title: "#GYSS"
       subtitle: Global Summit
       description: Bringing together young researchers and top scientific minds from
         around the world to discuss how research could address major global
         challenges.
-      button: View the Patron's message
-      url: /about/patron/
+  - infopic:
+      title: Excite, Engage, Enable
+      subtitle: gyss 2025
+      id: infopic
+      description: The highly anticipated Summit returns to build a vibrant scientific
+        community that goes beyond borders and disciplines.
+      image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
+      alt: Image alt text
+  - infopic:
+      title: Nobel Laureates & Eminent Scientists
+      subtitle: Speakers
+      description: The Summit features some of the world's top minds.
+      button: Meet the scientists
+      url: /gyss-2025/speakers/
+      image: /images/GYSS 2024/GYSS_2024.jpg
+      alt: World's leading luminaries
+  - infobar:
+      title: Five Days of Excitement
+      subtitle: Programme
+      id: infobar
+      description: Panel huddles, quickfire pitches, site visits—all these and more
+        await you at the summit.
+      button: what to expect
+      url: /gyss-2025/programme/
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
@@ -46,15 +72,6 @@ sections:
       button: view here
       image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
       url: /highlights/gyss2024/
-  - infopic:
-      title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2024 Luminaries
-      description: The GYSS features some of the world's leading minds across various
-        disciplines. Here are the luminaries from the GYSS 2024.
-      button: View here
-      url: /gyss-2024/speakers/
-      image: /images/GYSS 2024/GYSS_2024.jpg
-      alt: World's leading luminaries
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary Publication

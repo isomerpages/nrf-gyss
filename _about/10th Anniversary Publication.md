@@ -2,6 +2,7 @@
 title: 10th Anniversary Publication
 permalink: /about/10th-anniversary-pub/
 description: ""
+variant: tiptap
 ---
 Over the past decade, nearly 4,000 scientists and researchers from over 40 countries have attended the Global Young Scientists Summit (GYSS).
 

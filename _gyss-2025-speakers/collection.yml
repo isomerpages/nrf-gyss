@@ -1,0 +1,25 @@
+collections:
+  gyss-2025-speakers:
+    output: true
+    order:
+      - Aaron Ciechanover.md
+      - Adi Shamir.md
+      - Brian Schmidt.md
+      - Sir David Klenerman.md
+      - Duncan Haldane.md
+      - Hartmut Michel.md
+      - Joan Rose.md
+      - Joseph Sifakis.md
+      - Sir Konstantin Novoselov.md
+      - Leslie Valiant.md
+      - Louis Ignarro.md
+      - Sir Richard Roberts.md
+      - Shwetak Patel.md
+      - Stefan Hell.md
+      - Steven Chu.md
+      - Dame Sue Black.md
+      - Takaaki Kajita.md
+      - Thomas Südhof.md
+      - Sir Tim Hunt.md
+      - Wendelin Werner.md
+      - Yael Kalai.md
