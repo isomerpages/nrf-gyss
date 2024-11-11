@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Steven Chu</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Steven Chu" src="/images/GYSS 2025/GYSS_2025_featured_speakers_15.png">
+<img style="width: 100%" height="auto" width="100%" alt="Steven Chu" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_15.png">
 </div>
 <p>Steven Chu is Professor of Physics, Molecular and Cellular Physiology,
 and of Energy Science and Engineering at Stanford University. He received
