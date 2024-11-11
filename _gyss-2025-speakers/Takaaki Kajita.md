@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Takaaki Kajita</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2025/GYSS_2025_featured_speakers_17.png">
+<img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_17.png">
 </div>
 <p>Takaaki Kajita is Special University Professor at The University of Tokyo,
 Japan, where he is also Director of the university’s Institute for Cosmic
