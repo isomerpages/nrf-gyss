@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Sir Tim Hunt</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_19.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tim Hunt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_19.png">
 </div>
 <p>Sir Tim Hunt’s illustrious scientific career started in 1964 as a graduate
 student at the Department of Biochemistry, University of Cambridge. In
