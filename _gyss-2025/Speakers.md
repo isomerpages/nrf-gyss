@@ -55,12 +55,21 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_07.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Joseph Sifakis" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_08.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_09.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -75,12 +84,21 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_11.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_12.png">
+</div>
 </td>
 </tr>
 </tbody>
