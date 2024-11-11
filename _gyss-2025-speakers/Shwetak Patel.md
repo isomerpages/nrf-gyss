@@ -7,7 +7,7 @@ description: ""
 <h2>Shwetak Patel</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shwetak Patel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_13.png">
+<img style="width: 100%" height="auto" width="100%" alt="Shwetak Patel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_13.png">
 </div>
 <p>Professor Shwetak N. Patel is a computer scientist and entrepreneur best
 known for his work on developing novel sensing solutions and ubiquitous
