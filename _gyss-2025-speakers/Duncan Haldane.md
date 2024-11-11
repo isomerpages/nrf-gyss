@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Duncan Haldane</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Duncan Haldane" src="/images/GYSS 2025/GYSS_2025_featured_speakers_05.png">
+<img style="width: 100%" height="auto" width="100%" alt="Duncan Haldane" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_05.png">
 </div>
 <p>Professor F. Duncan M. Haldane is the Sherman Fairchild University Professor
 of Physics at Princeton University, a Fellow of the Royal Society (London),
