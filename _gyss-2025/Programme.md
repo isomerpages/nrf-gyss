@@ -11,6 +11,5 @@ to another exciting line-up of activities over the five days:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GYSS 2025 Programme" src="/images/GYSS 2025/NEW__GYSS_2025_Programme_Sheet_V3.png">
 </div>
-<p><u>Download the programme here</u>
-</p>
+<p></p>
 <p></p>
