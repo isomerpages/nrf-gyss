@@ -2,19 +2,19 @@ title: Global Young Scientists Summit
 url: https://www.gyss-one-north.sg
 favicon: /images/favicon-32x32.png
 colors:
-  primary-color: "#dea369"
-  secondary-color: "#cb591b"
+  primary-color: "#e4c189"
+  secondary-color: "#f39200"
   media-colors:
     - title: media-color-one
-      color: "#7a3e29"
+      color: "#ae0f11"
     - title: media-color-two
-      color: "#d385ae"
+      color: "#f3d5cc"
     - title: media-color-three
-      color: "#00838f"
+      color: "#f39200"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ae0f11"
     - title: media-color-five
-      color: "#00838f"
+      color: "#e4c189"
 description: The Global Young Scientists Summit in Singapore brings together
   bright young researchers and top scientific minds from around the world to
   discuss science and technology trends, future game changers and how research
