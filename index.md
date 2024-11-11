@@ -16,7 +16,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GYSS 2025/Website_banner_2_820x312px__1_.png
+      background: /images/Website_banner_2_820x312px__2_.png
       key_highlights:
         - title: What is the GYSS?
           description: Engage, Excite, Enable
