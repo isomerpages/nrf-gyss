@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Louis Ignarro</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Louis Ignarro" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_11.png">
 </div>
 <p>Professor Louis J. Ignarro has devoted his life’s work to advancing heart
 health. He is Professor Emeritus in the Department of Molecular and Medical
