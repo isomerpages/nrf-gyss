@@ -21,6 +21,9 @@ sections:
         - title: What is the GYSS?
           description: Engage, Excite, Enable
           url: /about/about-the-gyss/
+        - title: GYSS 2025
+          description: Explore the Summit Programme
+          url: /gyss-2025/programme/
         - title: World's top minds
           description: Luminaries @ GYSS 2025
           url: /gyss-2025/speakers/
@@ -38,19 +41,17 @@ sections:
         challenges.
   - infopic:
       title: Excite, Engage, Enable
-      subtitle: gyss 2025 theme
+      subtitle: gyss 2025
       id: infopic
-      description: The highly anticipated summit returns as a catalyst for building a
-        vibrant scientific community through transformative ideas and
-        collaborative opportunities.
+      description: The highly anticipated Summit returns to build a vibrant scientific
+        community that goes beyond borders and disciplines.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: GYSS 2025 Luminaries
-      description: The summit features some of the world's leading minds across
-        various disciplines.
-      button: Meet the speakers
+      subtitle: GYSS 2025 Speakers
+      description: The Summit features some of the world's top minds.
+      button: Meet the scientists
       url: /gyss-2025/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
