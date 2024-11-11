@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Hartmut Michel</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hartmut Michel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="Hartmut Michel" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_06.png">
 </div>
 <p>Professor Hartmut Michel has been a director at the Max Planck Institute
 of Biophysics in Frankfurt am Main, Germany, since 1987. He studied biochemistry
