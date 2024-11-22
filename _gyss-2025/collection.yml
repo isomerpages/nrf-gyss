@@ -2,6 +2,6 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Moderators.md
       - Programme.md
       - Speakers.md
+      - Moderators.md
