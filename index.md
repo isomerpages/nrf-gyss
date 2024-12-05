@@ -19,7 +19,7 @@ sections:
       background: /images/Website_banner_2_820x312px__2_.png
       key_highlights:
         - title: What is the GYSS?
-          description: Engage, Excite, Enable
+          description: Excite, Engage, Enable
           url: /about/about-the-gyss/
         - title: GYSS 2025
           description: Explore the Summit Programme
