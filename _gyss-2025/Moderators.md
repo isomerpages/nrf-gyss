@@ -28,7 +28,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jonathan Goke" src="/images/GYSS 2025/GYSS_2025_moderators_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="Goh Bee Tin" src="/images/GYSS 2025/GYSS_2025_moderators_16.png">
 </div>
 </th>
 </tr>
@@ -42,6 +42,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jonathan Goke" src="/images/GYSS 2025/GYSS_2025_moderators_03.png">
+</div>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -54,12 +60,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Li Qianxiao" src="/images/GYSS 2025/GYSS_2025_moderators_05.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Liu Xiaogang" src="/images/GYSS 2025/GYSS_2025_moderators_06.png">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
@@ -71,6 +71,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Liu Xiaogang" src="/images/GYSS 2025/GYSS_2025_moderators_06.png">
+</div>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -83,10 +89,33 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Lu Jiong" src="/images/GYSS 2025/GYSS_2025_moderators_08.png">
 </div>
 </th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Phua Siew Cheng" src="/images/GYSS 2025/GYSS_2025_moderators_09.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rainer Dumke" src="/images/GYSS 2025/GYSS_2025_moderators_10.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sarah Luo" src="/images/GYSS 2025/GYSS_2025_moderators_11.png">
 </div>
 </th>
 </tr>
@@ -103,13 +132,13 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rainer Dumke" src="/images/GYSS 2025/GYSS_2025_moderators_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sierin Lim" src="/images/GYSS 2025/GYSS_2025_moderators_17.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sarah Luo" src="/images/GYSS 2025/GYSS_2025_moderators_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Simon Chesterman" src="/images/GYSS 2025/GYSS_2025_moderators_18.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -132,17 +161,20 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Yang Bo" src="/images/GYSS 2025/GYSS_2025_moderators_14.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Yang Bo" src="/images/GYSS 2025/GYSS_2025_moderators_14.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Zhang Mengmi" src="/images/GYSS 2025/GYSS_2025_moderators_15.png">
+<img style="width: 100%" height="auto" width="100%" alt="Yvonne Gao" src="/images/GYSS 2025/GYSS_2025_moderators_19.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Zhang Mengmi" src="/images/GYSS 2025/GYSS_2025_moderators_15.png">
+</div>
 </th>
 </tr>
 </tbody>
