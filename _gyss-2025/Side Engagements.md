@@ -6,7 +6,7 @@ description: ""
 ---
 <p>The GYSS is not contained to just the Summit. Our esteemed speakers will
 also share their insights at different events across Singapore during the
-GYSS week:</p>
+week of GYSS 2025:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
