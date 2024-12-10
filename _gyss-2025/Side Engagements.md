@@ -18,7 +18,7 @@ week of GYSS 2025:</p>
 Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
 <p>Click <a href="https://forms.office.com/r/H4vrRzkj9c" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
-<p></p>
+<hr>
 <p></p>
 <blockquote>
 <p>10 JANUARY 2025</p>
@@ -34,5 +34,17 @@ register for the event. Registration closes 15 December 2024.</p>
 <blockquote>
 <p>8 &amp; 9 JANUARY 2025</p>
 </blockquote>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://isyf.hci.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/ISYF_2025_banner.png"></a>
+<p>The 17th International Science Youth Forum will take place on the same
+week as the GYSS Summit. Here are the sessions to look out for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Keynote lecture featuring Professor Harmut Michel</p>
+</li>
+<li>
+<p>Masterclasses by Sir Tim Hunt, Professor Takaaki Kajita, Professor Yael
+Kalai, and Professor Thomas Südhof</p>
+</li>
+</ul>
+<p>View the recording of these sessions <a href="https://isyf.hci.edu.sg/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
