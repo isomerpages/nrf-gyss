@@ -9,7 +9,7 @@ also share their insights at different events across Singapore during the
 week of GYSS 2025:</p>
 <h4><strong>EVENTS OPEN FOR REGISTRATION</strong></h4>
 <blockquote>
-<p>8 January 2025</p>
+<p>8 JANUARY 2025</p>
 </blockquote>
 <p><strong>Dialogue with Nobel Laureates &amp; Pre-eminent Prize Winners: Transforming Scientific Breakthroughs into Real-World Solutions</strong>
 </p><a class="isomer-image-wrapper" href="https://forms.office.com/r/H4vrRzkj9c"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/8_Jan_2025_Dialogue_with_Nobel_Laureates___Pre_eminent_Prize_Winners_NUS_Medicine_EDM__General_Audience___2_12_24___4_Logos__400x400.png"></a>
@@ -32,7 +32,7 @@ register for the event. Registration closes 15 December 2024.</p>
 <hr>
 <h4><strong>EVENTS BY INVITE ONLY</strong></h4>
 <blockquote>
-<p>8 &amp; 9 January 2025</p>
+<p>8 &amp; 9 JANUARY 2025</p>
 </blockquote>
 <p></p>
 <p></p>
