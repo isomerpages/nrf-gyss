@@ -68,13 +68,16 @@ sections:
       id: infopic
       image: /images/GYSS 2025/GYSS_2025_socmed_banners_04.png
       alt: Image alt text
-      description: The Summit is full of unique opportunities to get inspired, gain
-        new insights, and connect with like-minded peers from around the world.
+      description: Every year, the Summit is full of unique opportunities to get
+        inspired, gain new insights, and connect with like-minded peers from
+        around the world.
       subtitle: "#fusioninsession"
+      url: /about/about-the-gyss/
+      button: read more
   - infopic:
       title: GYSS 2024
       subtitle: Highlights
-      description: From videos to photos and more, catch-up with all the action from
+      description: From videos to photos and more, catch up with all the action from
         the GYSS 2024!
       alt: GYSS 2024 excitement!
       button: view here
@@ -83,9 +86,9 @@ sections:
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary Publication
-      description: New to GYSS? Click here to learn more about GYSS’ story. It
-        documents a 10-year journey of the Summit — from a nascent idea to its
-        evolution over the years.
+      description: New to GYSS? We've documented the 10-year journey of the
+        Summit—from a nascent idea to its evolution over the years—in this
+        publication.
       button: Learn more
       url: https://go.gov.sg/gyss-10th-anniversary-pub
       image: /images/10th-anniversary-pub.jpg
