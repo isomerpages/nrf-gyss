@@ -64,8 +64,7 @@ sections:
       button: what to expect
       url: /gyss-2025/programme/
   - infopic:
-      title: Get inspired, network, and exchange ideas at the Summit.
-      subtitle: Fusion In Session
+      title: Get inspired, discover ideas, and make new connections.
       id: infopic
       image: /images/GYSS 2025/GYSS_2025_socmed_banners_04.png
       alt: Image alt text
