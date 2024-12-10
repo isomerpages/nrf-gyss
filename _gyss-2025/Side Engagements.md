@@ -7,81 +7,32 @@ description: ""
 <p>The GYSS is not contained to just the Summit. Our esteemed speakers will
 also share their insights at different events across Singapore during the
 week of GYSS 2025:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>EVENTS OPEN FOR REGISTRATION</strong></h4>
+<blockquote>
+<p>8 January 2025</p>
+</blockquote>
 <p><strong>Dialogue with Nobel Laureates &amp; Pre-eminent Prize Winners: Transforming Scientific Breakthroughs into Real-World Solutions</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.office.com/r/H4vrRzkj9c"><img style="width: 100%" height="auto" width="100%" alt="Programme information of NUS side engagement" src="/images/GYSS 2025/8_Jan_2025_Dialogue_with_Nobel_Laureates___Pre_eminent_Prize_Winners_NUS_Medicine_EDM__General_Audience___2_12_24___4_Logos__400x400.png"></a>
-<p></p>
-<p></p>
-<p><strong>Date: </strong>8 January 2025
-<br><strong>Time:</strong> 12:00–4:00pm
+</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/H4vrRzkj9c"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/8_Jan_2025_Dialogue_with_Nobel_Laureates___Pre_eminent_Prize_Winners_NUS_Medicine_EDM__General_Audience___2_12_24___4_Logos__400x400.png"></a>
+<p><strong>Time:</strong> 12:00–4:00pm
 <br><strong>Venue:</strong> MD1 LT37, National University of Singapore (Tahir
-Foundation Building, 12 Science Drive 2, Singapore 117549)
-<br>
-</p>
+Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
 <p>Click <a href="https://forms.office.com/r/H4vrRzkj9c" rel="noopener nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-</tbody>
-</table>
+register for the event.</p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>[BY INVITE ONLY]</strong>
-<br><strong>International Science Youth Form (ISYF) – Masterclasses</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Date:</strong> 8 and 9 January 2025
-<br><strong>Time: </strong>9:00–11:00am
-<br>
-<br>Visit <a href="https://isyf.hci.edu.sg/" rel="noopener nofollow" target="_blank">the website</a> to
-view the recording.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<blockquote>
+<p>10 JANUARY 2025</p>
+</blockquote>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="Programme information on SUTD's side engagement" src="/images/GYSS 2025/SUTD___Share_EDM___Talk__1_.png"></a>
+</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD___Share_EDM___Talk__1_.png"></a>
+<p><strong>Time:</strong> 2:15–3:00pm
+<br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
+<p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
+register for the event. Registration closes 15 December 2024.</p>
+<hr>
+<h4><strong>EVENTS BY INVITE ONLY</strong></h4>
+<blockquote>
+<p>8 &amp; 9 January 2025</p>
+</blockquote>
 <p></p>
-<p></p>
-<p><strong>Date: </strong>10 January 2025
-<br><strong>Time: </strong>2:15–3:00pm
-<br><strong>Venue: </strong>SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
-<p></p>
-<p>Registration closes 15 December 2024. Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to register.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
