@@ -4,9 +4,9 @@ permalink: /gyss-2025/side-engagements/
 variant: tiptap
 description: ""
 ---
-<p>The GYSS is not contained to just the Summit. Our esteemed speakers will
-also share their insights at different events across Singapore during the
-week of GYSS 2025:</p>
+<p>The GYSS extends beyond the Summit. Eminent speakers will engage Singapore’s
+research, innovation, and enterprise ecosystem through public lectures,
+workshops, and talks, fostering collaboration and knowledge exchange.</p>
 <h4><strong>EVENTS OPEN FOR REGISTRATION</strong></h4>
 <blockquote>
 <p>8 JANUARY 2025</p>
