@@ -19,7 +19,14 @@ Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
 <p>Click <a href="https://forms.office.com/r/H4vrRzkj9c" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <hr>
+<p><strong>Unconventional Careers: Fireside Chat with Prof Dame Sue Black</strong>
+</p>
 <p></p>
+<p><strong>Time: </strong>5:00–6:30pm
+<br><strong>Venue:</strong> 32 Carpenter Street, Singapore 059911</p>
+<p>Click <a href="https://www.sginnovate.com/event/unconventional-careers-fireside-chat-prof-dame-sue-black" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<hr>
 <blockquote>
 <p>10 JANUARY 2025</p>
 </blockquote>
