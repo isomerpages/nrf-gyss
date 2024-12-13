@@ -137,10 +137,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/yael-kalai/"><img style="width: 35%;" height="auto" width="100%" alt="Yael Kalai" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_21.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/yael-kalai/"><img style="width: 35%;" height="auto" width="100%" alt="Yael Kalai" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_21.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
