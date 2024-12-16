@@ -30,7 +30,7 @@ register for the event.</p>
 <blockquote>
 <h4>9 JANUARY 2025</h4>
 </blockquote>
-<p><strong>In Conversation with Eminent Scientists: Insightful Dialouge with Leading Scientist</strong>
+<p><strong>In Conversation with Eminent Scientists: Insightful Dialogue with Leading Scientists</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/GYSS_2025_EDM_v6.png">
