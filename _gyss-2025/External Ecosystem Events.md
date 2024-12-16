@@ -26,6 +26,18 @@ register for the event.</p>
 <p>Click <a href="https://www.sginnovate.com/event/unconventional-careers-fireside-chat-prof-dame-sue-black" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <hr>
+<blockquote>
+<h4>9 JANUARY 2025</h4>
+</blockquote>
+<p><strong>In Conversation with Eminent Scientists: Insightful Dialouge with Leading Scientist</strong>
+</p>
+<p></p>
+<p><strong>Time:</strong> 9:30–11:30am
+<br><strong>Venue:</strong> Annexe Hall 1, Science Centre Singapore, 15 Science
+Centre Rd, Singapore 609081</p>
+<p>Click <a href="https://form.gov.sg/admin/form/670615a23cd3e916604516bc" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<hr>
 <p></p>
 <blockquote>
 <h4>10 JANUARY 2025</h4>
