@@ -28,6 +28,21 @@ register for the event.</p>
 <hr>
 <p></p>
 <blockquote>
+<h4>9 JANUARY 2025</h4>
+</blockquote>
+<p><strong>In Conversation with Eminent Scientists: Insightful Dialogue with Leading Scientists</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/GYSS_2025_EDM_v6.png">
+</div>
+<p><strong>Time:</strong> 9:30–11:30am
+<br><strong>Venue:</strong> Annexe Hall 1, Science Centre Singapore, 15 Science
+Centre Rd, Singapore 609081</p>
+<p>Click <a href="https://form.gov.sg/admin/form/670615a23cd3e916604516bc" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<hr>
+<p></p>
+<blockquote>
 <h4>10 JANUARY 2025</h4>
 </blockquote>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
