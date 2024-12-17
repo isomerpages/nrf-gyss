@@ -117,33 +117,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/thomas-sudhof/"><img style="width: 100%" height="auto" width="100%" alt="Thomas Südhof" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_18.png"></a>
-</td>
-<td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/tim-hunt/"><img style="width: 100%" height="auto" width="100%" alt="Tim Hunt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_19.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/wendelin-werner/"><img style="width: 100%;" height="auto" width="100%" alt="Wendelin Werner" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_20.png"></a>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/yael-kalai/"><img style="width: 35%;" height="auto" width="100%" alt="Yael Kalai" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_21.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/yael-kalai/"><img style="width: 100%;" height="auto" width="100%" alt="Yael Kalai" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_21.png"></a>
 </td>
 </tr>
 </tbody>
