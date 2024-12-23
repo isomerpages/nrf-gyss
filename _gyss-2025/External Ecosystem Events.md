@@ -12,7 +12,8 @@ workshops, and talks, fostering collaboration and knowledge exchange.</p>
 <h4>8 JANUARY 2025</h4>
 </blockquote>
 <p><strong>Dialogue with Nobel Laureates &amp; Pre-eminent Prize Winners: Transforming Scientific Breakthroughs into Real-World Solutions</strong>
-</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/H4vrRzkj9c"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/8_Jan_2025_Dialogue_with_Nobel_Laureates___Pre_eminent_Prize_Winners_NUS_Medicine_EDM__General_Audience___2_12_24___4_Logos__400x400.png"></a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/H4vrRzkj9c"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/8_Jan_2025_Dialogue_with_Nobel_Laureates___Pre_eminent_Prize_Winners_NUS_Medicine_EDM__General_Audience___18_12_24___5_Logos__400x400.png"></a>
 <p><strong>Time:</strong> 12:00–4:00pm
 <br><strong>Venue:</strong> MD1 LT37, National University of Singapore (Tahir
 Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
@@ -31,10 +32,7 @@ register for the event.</p>
 <h4>9 JANUARY 2025</h4>
 </blockquote>
 <p><strong>In Conversation with Eminent Scientists: Insightful Dialogue with Leading Scientists</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/GYSS_2025_EDM_v6.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://form.gov.sg/admin/form/670615a23cd3e916604516bc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/GYSS_2025_EDM_v6.png"></a>
 <p><strong>Time:</strong> 9:30–11:30am
 <br><strong>Venue:</strong> Annexe Hall 1, Science Centre Singapore, 15 Science
 Centre Rd, Singapore 609081</p>
