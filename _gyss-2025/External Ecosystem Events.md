@@ -60,7 +60,7 @@ register for the event.</p>
 <p></p>
 <hr>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
-</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD___Share_EDM___Talk__1_.png"></a>
+</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD_Talk_updated.png"></a>
 <p><strong>Time:</strong> 2:15–3:00pm
 <br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
