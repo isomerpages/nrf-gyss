@@ -21,14 +21,12 @@ Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
 register for the event.</p>
 <hr>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture: Professors Steven Chu and Yael Kalai</strong>
-</p>
-<p></p>
+</p><a class="isomer-image-wrapper" href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-8Jan25/register"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/NTU_side_engagement.png"></a>
 <p><strong>Time: </strong>2:00–4:30pm
 <br><strong>Venue:</strong> Tan Chin Tuan Lecture Theatre, NTU Singapore</p>
 <p>Click <a href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-8Jan25/register" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <hr>
-<p></p>
 <p><strong>Unconventional Careers: Fireside Chat with Prof Dame Sue Black</strong>
 </p><a class="isomer-image-wrapper" href="https://www.sginnovate.com/event/unconventional-careers-fireside-chat-prof-dame-sue-black"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SGI_241211_8JanEvent__1_.jpg"></a>
 <p><strong>Time: </strong>5:00–6:30pm
