@@ -43,12 +43,30 @@ register for the event.</p>
 <blockquote>
 <h4>10 JANUARY 2025</h4>
 </blockquote>
+<p><strong>The Physics and Biophysics of Molecular Motor Dynein and Role of Thermal Fluctuations </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/0110_StevenChu_Print_V2_Review.jpg">
+</div>
+<p><strong>Time:</strong> 2:00pm
+<br><strong>Venue:</strong> NUS Lecture Theatre, LT21</p>
+<p></p>
+<hr>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
 </p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD___Share_EDM___Talk__1_.png"></a>
 <p><strong>Time:</strong> 2:15–3:00pm
 <br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
 register for the event. Registration closes 15 December 2024.</p>
+<hr>
+<p><strong>A*STAR Giants of Science Series: Innovating Science for Good</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/A_STAR_Side_Engagement.png">
+</div>
+<p><strong>Time:</strong> 4:15–6:00pm
+<br><strong>Venue:</strong> Infuse Theatre, Connexis South Level 14, 1 Fusionopolis
+Way, Singapore 138632</p>
 <hr>
 <h3><strong>EVENTS BY INVITE ONLY</strong></h3>
 <blockquote>
