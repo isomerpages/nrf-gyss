@@ -56,7 +56,7 @@ register for the event.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/0110_StevenChu_Print_V2_Review.jpg">
 </div>
 <p><strong>Time:</strong> 2:00pm
-<br><strong>Venue:</strong> NUS Lecture Theatre, LT21</p>
+<br><strong>Venue:</strong> NUS Lecture Theatre, LT31</p>
 <p></p>
 <hr>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
