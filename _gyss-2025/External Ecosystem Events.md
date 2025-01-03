@@ -66,18 +66,7 @@ register for the event.</p>
 <br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
 register for the event. Registration closes 15 December 2024.</p>
-<p></p>
 <hr>
-<p><strong>A*STAR Giants of Science Series: Innovating Science for Good</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/A_STAR_Side_Engagement.png">
-</div>
-<p><strong>Time:</strong> 4:15–6:00pm
-<br><strong>Venue:</strong> Infuse Theatre, Connexis South Level 14, 1 Fusionopolis
-Way, Singapore 138632</p>
-<hr>
-<p></p>
 <blockquote>
 <h4>11 JANUARY 2025</h4>
 </blockquote>
