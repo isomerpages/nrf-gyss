@@ -65,6 +65,7 @@ register for the event.</p>
 <br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
 register for the event. Registration closes 15 December 2024.</p>
+<p></p>
 <hr>
 <p><strong>A*STAR Giants of Science Series: Innovating Science for Good</strong>
 </p>
@@ -75,9 +76,21 @@ register for the event. Registration closes 15 December 2024.</p>
 <br><strong>Venue:</strong> Infuse Theatre, Connexis South Level 14, 1 Fusionopolis
 Way, Singapore 138632</p>
 <hr>
+<p></p>
+<blockquote>
+<h4>11 JANUARY 2025</h4>
+</blockquote>
+<p><strong>Women in Engineering Science &amp; Technology (WiEST) Symposium 2025</strong>
+</p><a class="isomer-image-wrapper" href="https://forms.office.com/pages/responsepage.aspx?id=SJPOFSq-K0aPwOF2WpsgSg22IAJdjvRMn9mSyDPSNddUQlUyRkkzNDE5TFNVSFBHMTFNRkUyUlpIWCQlQCN0PWcu&amp;route=shorturl"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/NTU_Side_Engagement_11_Jan.png"></a>
+<p><strong>Time: </strong>1:30–5:30pm
+<br><strong>Venue: </strong>NTU Novena Campus</p>
+<p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=SJPOFSq-K0aPwOF2WpsgSg22IAJdjvRMn9mSyDPSNddUQlUyRkkzNDE5TFNVSFBHMTFNRkUyUlpIWCQlQCN0PWcu&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<p></p>
+<hr>
 <h3><strong>EVENTS BY INVITE ONLY</strong></h3>
 <blockquote>
-<p>8 &amp; 9 JANUARY 2025</p>
+<h4>8 &amp; 9 JANUARY 2025</h4>
 </blockquote>
 <p></p><a class="isomer-image-wrapper" href="https://isyf.hci.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/ISYF_2025_banner.png"></a>
 <p>The 17th International Science Youth Forum will take place on the same
