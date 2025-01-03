@@ -20,6 +20,13 @@ Foundation Building, 12 Science Drive 2, Singapore 117549)</p>
 <p>Click <a href="https://forms.office.com/r/H4vrRzkj9c" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <hr>
+<p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture: Professors Steven Chu and Yael Kalai</strong>
+</p><a class="isomer-image-wrapper" href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-8Jan25/register"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/NTU_side_engagement.png"></a>
+<p><strong>Time: </strong>2:00–4:30pm
+<br><strong>Venue:</strong> Tan Chin Tuan Lecture Theatre, NTU Singapore</p>
+<p>Click <a href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-8Jan25/register" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<hr>
 <p><strong>Unconventional Careers: Fireside Chat with Prof Dame Sue Black</strong>
 </p><a class="isomer-image-wrapper" href="https://www.sginnovate.com/event/unconventional-careers-fireside-chat-prof-dame-sue-black"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SGI_241211_8JanEvent__1_.jpg"></a>
 <p><strong>Time: </strong>5:00–6:30pm
@@ -43,17 +50,17 @@ register for the event.</p>
 <blockquote>
 <h4>10 JANUARY 2025</h4>
 </blockquote>
-<p><strong>The Physics and Biophysics of Molecular Motor Dynein and Role of Thermal Fluctuations </strong>
+<p><strong>The Physics and Biophysics of Molecular Motor Dynein and Role of Thermal Fluctuations</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/0110_StevenChu_Print_V2_Review.jpg">
 </div>
 <p><strong>Time:</strong> 2:00pm
-<br><strong>Venue:</strong> NUS Lecture Theatre, LT21</p>
+<br><strong>Venue:</strong> NUS Lecture Theatre, LT31</p>
 <p></p>
 <hr>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
-</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD___Share_EDM___Talk__1_.png"></a>
+</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD_Talk_updated.png"></a>
 <p><strong>Time:</strong> 2:15–3:00pm
 <br><strong>Venue:</strong> SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
