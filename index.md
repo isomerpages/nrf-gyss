@@ -36,8 +36,8 @@ sections:
   - infobar:
       title: "#GYSS"
       subtitle: Global Summit
-      description: Bringing together young researchers and top scientific minds from
-        around the world to discuss how research could address major global
+      description: Bringing together young scientists and top minds from around the
+        world to discuss how research and innovation can address major global
         challenges.
   - infopic:
       title: Transcending Borders
@@ -70,13 +70,13 @@ sections:
       title: Five Days of Excitement
       subtitle: Programme
       id: infobar
-      description: Panel huddles, quickfire pitches, site visits—all these and more
-        await you at the Summit.
+      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
+        sessions—all these and more await you at the Summit.
       button: what to expect
       url: /gyss-2025/programme/
   - infopic:
       title: GYSS 2024
-      subtitle: Highlights
+      subtitle: Past Highlights
       description: From videos to photos and more, catch up with all the action from
         the GYSS 2024!
       alt: GYSS 2024 excitement!
@@ -85,7 +85,7 @@ sections:
       url: /highlights/gyss2024/
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
-      subtitle: 10th Anniversary Publication
+      subtitle: 10th Anniversary
       description: New to GYSS? We've documented the 10-year journey of the
         Summit—from a nascent idea to its evolution over the years—in this
         publication.
