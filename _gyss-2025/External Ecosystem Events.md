@@ -4,9 +4,10 @@ permalink: /gyss-2025/external-ecosystem-events/
 variant: tiptap
 description: ""
 ---
-<p>The GYSS extends beyond the Summit. Eminent speakers will engage Singapore’s
-research, innovation, and enterprise ecosystem through public lectures,
-workshops, and talks, fostering collaboration and knowledge exchange.</p>
+<p>The GYSS goes beyond the Summit. Some of the world's top minds will engage
+with Singapore’s research, innovation, and enterprise ecosystem through
+public lectures, workshops, and discussions, fostering collaboration, knowledge
+exchange, and inspiring youth.</p>
 <h3><strong>EVENTS OPEN FOR REGISTRATION</strong></h3>
 <blockquote>
 <h4>8 JANUARY 2025</h4>
@@ -104,5 +105,6 @@ week as the GYSS Summit. Here are the sessions to look out for:</p>
 Kalai, and Professor Thomas Südhof</p>
 </li>
 </ul>
-<p>View the recording of these sessions <a href="https://isyf.hci.edu.sg/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://isyf.hci.edu.sg/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
 <p></p>
