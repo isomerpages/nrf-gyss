@@ -4,7 +4,7 @@ permalink: /gyss-2025/photo-gallery/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Memorable Moments from GYSS 2025</strong></h1>
+<h4>Memorable Moments from GYSS 2025</h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
