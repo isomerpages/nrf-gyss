@@ -66,7 +66,7 @@ register for the event.</p>
 </div>
 <p><strong>Time:</strong> 2:00pm
 <br><strong>Venue:</strong> NUS Lecture Theatre, LT31</p>
-<p></p>
+<p>Open to all, no registration required.</p>
 <hr>
 <p><strong>Sir Richard Roberts on Navigating Life's Journey: My Journey to Nobel Prize and Other Life Lessons</strong>
 </p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Yeu8rv8reK"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SUTD_Talk_updated.png"></a>
