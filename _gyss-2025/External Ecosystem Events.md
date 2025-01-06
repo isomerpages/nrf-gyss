@@ -28,6 +28,14 @@ register for the event.</p>
 <p>Click <a href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-8Jan25/register" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <hr>
+<p><strong>A*STAR Giants of Science Series – Distinguished Professor Public Lecture: Topological Quantum Matter and Topological Quantum Computing</strong>
+</p><a class="isomer-image-wrapper" href="https://form.gov.sg/676528d1cf4ebe71883120eb"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/GYSS_2025_Seminar___Prof_Duncan_Haldane_V2.png"></a>
+<p><strong>Time: </strong>3:00–4:00pm
+<br><strong>Venue: </strong>MPH 1&amp;2, Innovis 2 Fusionopolis Way, Singapore
+138634</p>
+<p>Click <a href="https://form.gov.sg/676528d1cf4ebe71883120eb" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
+<hr>
 <p><strong>Unconventional Careers: Fireside Chat with Prof Dame Sue Black</strong>
 </p><a class="isomer-image-wrapper" href="https://www.sginnovate.com/event/unconventional-careers-fireside-chat-prof-dame-sue-black"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/SGI_241211_8JanEvent__1_.jpg"></a>
 <p><strong>Time: </strong>5:00–6:30pm
@@ -67,6 +75,7 @@ register for the event.</p>
 <p>Click <a href="https://forms.office.com/r/Yeu8rv8reK" rel="noopener nofollow" target="_blank">here</a> to
 register for the event. Registration closes 15 December 2024.</p>
 <hr>
+<p></p>
 <blockquote>
 <h4>11 JANUARY 2025</h4>
 </blockquote>
