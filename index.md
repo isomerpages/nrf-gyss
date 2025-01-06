@@ -75,6 +75,15 @@ sections:
       button: what to expect
       url: /gyss-2025/programme/
   - infopic:
+      title: Spot Yourself?
+      subtitle: Photo Gallery
+      id: infopic
+      description: The GYSS 2025 photo album is now live. Relive your favourite moments.
+      button: View the album
+      url: /gyss-2025/photo-gallery/
+      image: /images/GYSS 2025/9.png
+      alt: Image alt text
+  - infopic:
       title: GYSS 2024
       subtitle: Past Highlights
       description: From videos to photos and more, catch up with all the action from
