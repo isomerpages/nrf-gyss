@@ -4,7 +4,7 @@ permalink: /gyss-2025/photo-gallery/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h4>
+<h3><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h3>
 <p>Click <a href="https://bit.ly/gyss2025livephotos" rel="noopener nofollow" target="_blank">here</a> to
 download these photos and more.</p>
 <table style="minWidth: 75px">
