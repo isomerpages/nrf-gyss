@@ -127,4 +127,12 @@ sections:
       url: https://www.nrf.gov.sg/
       image: /images/nrf logo (high-res) v2.jpg
       alt: Image alt text
+  - infobar:
+      title: Five Days of Excitement
+      subtitle: Programme
+      id: infobar
+      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
+        sessions—all these and more await you at the Summit.
+      button: WHAT TO EXPECT
+      url: /gyss-2025/programme/
 ---
