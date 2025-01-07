@@ -17,10 +17,7 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/aaron-ciechanover/"><img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_01.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_02.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/adi-shamir/"><img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_02.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/gyss-2025/speakers/brian-schmidt/"><img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2025/GYSS_2025_featured_speakers_AJ_03.png"></a>
