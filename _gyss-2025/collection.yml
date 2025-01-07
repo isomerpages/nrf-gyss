@@ -2,9 +2,9 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Panel Huddles.md
       - Programme.md
       - Speakers.md
       - Moderators.md
+      - Panel Huddles.md
       - External Ecosystem Events.md
       - Photo Gallery.md
