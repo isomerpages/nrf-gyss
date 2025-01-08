@@ -2,10 +2,10 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Plenary Lectures.md
-      - Panel Huddles.md
       - Programme.md
       - Speakers.md
       - Moderators.md
+      - Panel Huddles.md
+      - Plenary Lectures.md
       - External Ecosystem Events.md
       - Photo Gallery.md
