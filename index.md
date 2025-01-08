@@ -66,25 +66,14 @@ sections:
       url: /gyss-2025/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
-  - textcards:
+  - infobar:
       title: Five Days of Excitement
-      subtitle: Catch the action
-      id: textcards
+      subtitle: Programme
+      id: infobar
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
         sessions—all these and more await you at the Summit.
-      cards:
-        - title: Programme
-          description: Familiarise yourself with the event flow
-          linktext: Find out more
-          url: /gyss-2025/programme/
-        - title: Panel Huddles
-          description: Tune in again to these deep discussions
-          linktext: Watch here
-          url: /gyss-2025/panel-huddles/
-        - title: Plenary Lectures
-          description: Missed a lecture? We got you covered
-          linktext: Stay engaged
-          url: /gyss-2025/plenary-lectures/
+      button: WHAT TO EXPECT
+      url: /gyss-2025/programme/
   - infopic:
       title: Spot Yourself?
       subtitle: Photo Gallery
@@ -127,12 +116,4 @@ sections:
       url: https://www.nrf.gov.sg/
       image: /images/nrf logo (high-res) v2.jpg
       alt: Image alt text
-  - infobar:
-      title: Five Days of Excitement
-      subtitle: Programme
-      id: infobar
-      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
-        sessions—all these and more await you at the Summit.
-      button: WHAT TO EXPECT
-      url: /gyss-2025/programme/
 ---
