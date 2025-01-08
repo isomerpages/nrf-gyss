@@ -72,7 +72,7 @@ sections:
       id: infobar
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
         sessions—all these and more await you at the Summit.
-      button: what to expect
+      button: WHAT TO EXPECT
       url: /gyss-2025/programme/
   - infopic:
       title: Spot Yourself?
