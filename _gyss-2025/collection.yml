@@ -2,11 +2,11 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Quickfire Pitches.md
       - Programme.md
       - Speakers.md
       - Moderators.md
       - Panel Huddles.md
       - Plenary Lectures.md
+      - Young Scientists' Quickfire Pitches.md
       - External Ecosystem Events.md
       - Photo Gallery.md

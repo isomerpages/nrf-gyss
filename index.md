@@ -85,6 +85,10 @@ sections:
           description: Glean insights and valuable advice
           linktext: Tune in here
           url: /gyss-2025/plenary-lectures/
+        - title: Quickfire Pitches
+          description: Hear new ideas from young scientists
+          linktext: View here
+          url: /gyss-2025/quickfire-pitches/
   - infopic:
       title: Spot Yourself?
       subtitle: Photo Gallery
