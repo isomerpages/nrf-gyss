@@ -7,6 +7,19 @@ description: ""
 <h3><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h3>
 <p>Click <a href="https://bit.ly/gyss2025livephotos" rel="noopener nofollow" target="_blank">here</a> to
 download these photos and more.</p>
+<p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong> and
+tag us when you share your photos with the community! Find us at:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Instagram (<a href="https://www.instagram.com/gyss_sg/?hl=en" rel="noopener nofollow" target="_blank">@gyss_sg</a>)</p>
+</li>
+<li>
+<p>Facebook (<a href="https://www.facebook.com/gyss.sg" rel="noopener nofollow" target="_blank">Global Young Scientists Summit</a>)</p>
+</li>
+<li>
+<p>LinkedIn (<a href="https://sg.linkedin.com/company/nrfsg" rel="noopener nofollow" target="_blank">National Research Foundation Singapore</a>)</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
