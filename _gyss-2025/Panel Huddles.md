@@ -19,8 +19,8 @@ Takaaki Kajita</p>
 <blockquote>
 <h4><strong>Future of Medical Research and Healthcare</strong></h4>
 </blockquote>
-<p><strong>Moderator:</strong> Clinc Assoc Prof Goh Bee Tin, Singapore Health
-Services
+<p><strong>Moderator:</strong> Clincal Associate Professor Goh Bee Tin, Singapore
+Health Services
 <br><strong>Panellists:</strong> Professors Louis Ignarro, Aaron Ciechanover,
 Sir Richard Roberts</p>
 <div class="iframe-wrapper">
