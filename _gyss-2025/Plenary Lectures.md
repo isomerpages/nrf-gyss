@@ -23,3 +23,31 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ch5aBvGoRPs?si=58gsy0AZGVuGpvr4"></iframe>
 </div>
 <p></p>
+<hr>
+<h4><strong>8 JANUARY</strong></h4>
+<p><strong>Probability Theory and Long-distance Interactions in Physics</strong>
+<br>Professor Wendelin Werner</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hj2dOsHsqKc?si=n5THku52okIfNf_8"></iframe>
+</div>
+<p></p>
+<p><strong>Evolution of Environmental Virology</strong>
+<br>Professor Joan Rose</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SudYgHty9nE?si=tzdqotmoKZ5e3tEN"></iframe>
+</div>
+<p></p>
+<p><strong>How to Overcome a Supposed Scientific Barrier... and What to Make of It</strong>
+<br>Professor Stefan Hell</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wUdC1Q_hG-M?si=dmymVz4X-P1eFrqY"></iframe>
+</div>
+<p></p>
+<p><strong>Switches, Latches and Thermostats: Biochemical Control Circuits I’ve Met in My Time</strong>
+<br>Professor Sir Tim Hunt</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Eugk08f1LdI?si=RtZkszKe27iujWrG"></iframe>
+</div>
+<p></p>
+<hr>
+<p></p>
