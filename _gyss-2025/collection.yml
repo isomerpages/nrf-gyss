@@ -2,6 +2,7 @@ collections:
   gyss-2025:
     output: true
     order:
+      - Photo Gallery.md
       - Programme.md
       - Speakers.md
       - Moderators.md
@@ -9,4 +10,3 @@ collections:
       - Plenary Lectures.md
       - Young Scientists' Quickfire Pitches.md
       - External Ecosystem Events.md
-      - Photo Gallery.md
