@@ -50,4 +50,30 @@ description: ""
 </div>
 <p></p>
 <hr>
+<h4><strong>9 JANUARY</strong></h4>
+<p><strong>Can You Recover a Deep Neural Network From Its Answers?</strong>
+<br>Professor Adi Shamir</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3KNBME7f0VI?si=SB-hhshKqphILSTt"></iframe>
+</div>
+<p></p>
+<p><strong>How I Choose Science Problems</strong>
+<br>Professor Steven Chu</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H8o1a3hEM0s?si=AyqhDOkrG4KU50yQ"></iframe>
+</div>
+<p></p>
+<p><strong>Artificial Intelligence: Where We Are, Where Are We Going?</strong>
+<br>Professor Joseph Sifakis</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CusTePsP4fw?si=iQzrjKosK6DWGMvs"></iframe>
+</div>
+<p></p>
+<p><strong>Topological Quantum Matter, Entanglement, and the "Second Quantum Revolution</strong>
+<br>Professor Duncan Haldane</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H7YCRbv76p4?si=xBtmah0oEoI4pw3k"></iframe>
+</div>
+<p></p>
+<hr>
 <p></p>
