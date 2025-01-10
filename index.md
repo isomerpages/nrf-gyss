@@ -88,7 +88,7 @@ sections:
         - title: Quickfire Pitches
           description: Hear new ideas from young scientists
           linktext: View here
-          url: /gyss-2025/quickfire-pitches/
+          url: /gyss-2025/quickfire-pitches/life-sciences
   - infopic:
       title: Spot Yourself?
       subtitle: Photo Gallery
