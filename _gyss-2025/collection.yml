@@ -2,11 +2,11 @@ collections:
   gyss-2025:
     output: true
     order:
-      - Quickfire Pitches/Advanced Materials.md
-      - Quickfire Pitches/Physical Sciences & Engineering.md
-      - Quickfire Pitches/Biomedicine.md
-      - Quickfire Pitches/Life Sciences.md
       - Quickfire Pitches/.keep
+      - Quickfire Pitches/Life Sciences.md
+      - Quickfire Pitches/Biomedicine.md
+      - Quickfire Pitches/Physical Sciences & Engineering.md
+      - Quickfire Pitches/Advanced Materials.md
       - Photo Gallery.md
       - Programme.md
       - Speakers.md
