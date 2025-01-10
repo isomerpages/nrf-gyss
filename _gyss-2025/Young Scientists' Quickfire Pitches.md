@@ -4,6 +4,10 @@ permalink: /gyss-2025/quickfire-pitches/
 variant: tiptap
 description: ""
 ---
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Life Sciences</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <h4><strong>Life Sciences</strong></h4>
 </blockquote>
@@ -37,6 +41,9 @@ of Hong Kong (Hong Kong)</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D_Kq9uNkhAI?si=SMctcoFQJVmdn_WJ"></iframe>
 </div>
 <p></p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <blockquote>
