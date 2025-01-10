@@ -2,6 +2,7 @@ collections:
   gyss-2025:
     output: true
     order:
+      - Quickfire Pitches/.keep
       - Photo Gallery.md
       - Programme.md
       - Speakers.md
