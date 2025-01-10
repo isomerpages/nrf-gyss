@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Quickfire Pitches
 ---
-<blockquote>
-<h4><strong>Biomedicine</strong></h4>
-</blockquote>
 <p><strong>Presenter: </strong>Dr Alessandro Sparacio, A*STAR (Singapore)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C2iK7nwVskc?si=cGV8YbOR8OEreGRB"></iframe>
