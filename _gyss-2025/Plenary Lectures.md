@@ -76,4 +76,28 @@ description: ""
 </div>
 <p></p>
 <hr>
+<h4><strong>10 JANUARY</strong></h4>
+<p><strong>Educability</strong>
+<br>Professor Leslie Valiant</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RT5LaVPEiyU?si=C-zQ0K1EtlZUm5rt"></iframe>
+</div>
+<p></p>
+<p><strong>The Challenges in Biomedicine and Agriculture</strong>
+<br>Professor Hartmut Michel</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fPto6WeIsns?si=so9Bamsql79nygQS"></iframe>
+</div>
+<p></p>
+<p><strong>Compressing Proofs Using Cryptography</strong>
+<br>Professor Yael Kalai</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bo67m5XyVWo?si=yZQtgE5SE0tLbO9v"></iframe>
+</div>
+<p></p>
+<p><strong>When Research Goes on Trial</strong>
+<br>Professor Dame Sue Black</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5C-6bXuVq9Q?si=lW4z1jIZzoJvXWBC"></iframe>
+</div>
 <p></p>
