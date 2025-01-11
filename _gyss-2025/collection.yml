@@ -8,5 +8,9 @@ collections:
       - Moderators.md
       - Panel Huddles.md
       - Plenary Lectures.md
-      - Young Scientists' Quickfire Pitches.md
+      - Quickfire Pitches/.keep
+      - Quickfire Pitches/Life Sciences.md
+      - Quickfire Pitches/Biomedicine.md
+      - Quickfire Pitches/Physical Sciences & Engineering.md
+      - Quickfire Pitches/Advanced Materials.md
       - External Ecosystem Events.md
