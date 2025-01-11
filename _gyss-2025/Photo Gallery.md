@@ -6,9 +6,9 @@ description: ""
 ---
 <h3><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h3>
 <p>Click <a href="https://bit.ly/gyss2025livephotos" rel="noopener nofollow" target="_blank">here</a> to
-download these photos and more.</p>
-<p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong> and
-tag us when you share your photos with the community! Find us at:</p>
+view all photos from the Summit.</p>
+<p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong>,
+and tag us when you share your photos with the community! Find us at:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Instagram (<a href="https://www.instagram.com/gyss_sg/?hl=en" rel="noopener nofollow" target="_blank">@gyss_sg</a>)</p>
