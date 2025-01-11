@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h3>
 <p>Click <a href="https://bit.ly/gyss2025livephotos" rel="noopener nofollow" target="_blank">here</a> to
-view all photos from the Summit.</p>
+view and download all photos from the Summit.</p>
 <p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong>,
 and tag us when you share your photos with the community! Find us at:</p>
 <ul data-tight="true" class="tight">
