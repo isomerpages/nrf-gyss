@@ -6,9 +6,9 @@ description: ""
 ---
 <h3><strong>MEMORABLE MOMENTS FROM GYSS 2025</strong></h3>
 <p>Click <a href="https://bit.ly/gyss2025livephotos" rel="noopener nofollow" target="_blank">here</a> to
-download these photos and more.</p>
-<p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong> and
-tag us when you share your photos with the community! Find us at:</p>
+view and download photos from the Summit.</p>
+<p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong>,
+and tag us when you share your photos with the community! Find us at:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Instagram (<a href="https://www.instagram.com/gyss_sg/?hl=en" rel="noopener nofollow" target="_blank">@gyss_sg</a>)</p>
@@ -247,6 +247,64 @@ tag us when you share your photos with the community! Find us at:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/25.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/29.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/30.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/31.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/32.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/34.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2025/33.png">
 </div>
 </td>
 </tr>
