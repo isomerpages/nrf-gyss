@@ -52,9 +52,9 @@ sections:
       button: read more
   - infopic:
       title: Excite, Engage, Enable
-      subtitle: the gyss 2025
+      subtitle: the gyss 2026
       id: infopic
-      description: The highly anticipated Summit returns in 2025 to build a vibrant
+      description: The highly anticipated Summit returns in 2026 to build a vibrant
         scientific community that goes beyond borders and disciplines.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
@@ -68,7 +68,7 @@ sections:
       alt: World's leading luminaries
   - textcards:
       title: Five Days of Excitement
-      subtitle: "#GYSS2025"
+      subtitle: "#GYSS2026"
       id: textcards
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
         sessions—all these and more await you at the Summit.
