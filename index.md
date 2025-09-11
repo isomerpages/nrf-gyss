@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: The GYSS 2025 photo album is now live! Scroll down to find out more.
+notification: ""
 sections:
   - hero:
       background: /images/Website_banner_2_820x312px__2_.png
