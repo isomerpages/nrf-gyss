@@ -72,41 +72,15 @@ sections:
       id: textcards
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
         sessions—all these and more await you at the Summit.
-      cards:
-        - title: Programme
-          description: Familiarise yourself with the event flow
-          linktext: Read here
-          url: /gyss-2026/programme/
-        - title: Panel Huddles
-          description: Delve into deep, big-picture discussions
-          linktext: Watch here
-          url: /gyss-2025/panel-huddles/
-        - title: Plenary Lectures
-          description: Glean insights and valuable advice
-          linktext: Tune in here
-          url: /gyss-2025/plenary-lectures/
-        - title: Quickfire Pitches
-          description: Hear new ideas from young scientists
-          linktext: View here
-          url: /gyss-2025/quickfire-pitches/life-sciences
   - infopic:
-      title: Spot Yourself?
-      subtitle: Photo Gallery
-      id: infopic
-      description: The GYSS 2025 photo album is now live. Relive your favourite moments.
-      button: View the album
-      url: /gyss-2025/photo-gallery/
-      image: /images/GYSS 2025/9.png
-      alt: Image alt text
-  - infopic:
-      title: GYSS 2024
+      title: GYSS 2025
       subtitle: Past Highlights
       description: From videos to photos and more, catch up with all the action from
         the GYSS 2025!
-      alt: GYSS 2024 excitement!
+      alt: GYSS 2025 excitement!
       button: view here
-      image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
-      url: /highlights/gyss2024/
+      image: /images/GYSS 2025/18.png
+      url: /highlights/gyss2025/
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary
