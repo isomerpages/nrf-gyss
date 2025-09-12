@@ -21,9 +21,9 @@ sections:
         - title: What is the GYSS?
           description: Excite, Engage, Enable
           url: /about/about-the-gyss/
-        - title: GYSS 2025
+        - title: GYSS 2026
           description: Explore the Summit Programme
-          url: /gyss-2025/programme/
+          url: /gyss-2026/programme/
         - title: World's top minds
           description: Luminaries @ GYSS 2025
           url: /gyss-2025/speakers/
@@ -63,7 +63,7 @@ sections:
       subtitle: Speakers
       description: The Summit features some of the world's top minds.
       button: Meet the scientists
-      url: /gyss-2025/speakers/
+      url: /gyss-2026/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - textcards:
@@ -76,7 +76,7 @@ sections:
         - title: Programme
           description: Familiarise yourself with the event flow
           linktext: Read here
-          url: /gyss-2025/programme/
+          url: /gyss-2026/programme/
         - title: Panel Huddles
           description: Delve into deep, big-picture discussions
           linktext: Watch here
@@ -102,7 +102,7 @@ sections:
       title: GYSS 2024
       subtitle: Past Highlights
       description: From videos to photos and more, catch up with all the action from
-        the GYSS 2024!
+        the GYSS 2025!
       alt: GYSS 2024 excitement!
       button: view here
       image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
