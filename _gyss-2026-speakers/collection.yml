@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Takaaki Kajita.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -16,3 +15,4 @@ collections:
       - Leslie Valiant.md
       - Randy Schekman.md
       - Sir Richard Roberts.md
+      - Takaaki Kajita.md
