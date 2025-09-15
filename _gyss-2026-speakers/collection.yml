@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Kae Nemoto.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -11,3 +10,4 @@ collections:
       - Duncan Haldane.md
       - Jack Dongarra.md
       - Joan Rose.md
+      - Kae Nemoto.md
