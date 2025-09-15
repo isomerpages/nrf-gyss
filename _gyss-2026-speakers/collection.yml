@@ -2,6 +2,7 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
+      - David Klenerman.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
