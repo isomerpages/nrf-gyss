@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Sir Richard Roberts.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -15,3 +14,4 @@ collections:
       - Sir Konstantin Novoselov.md
       - Leslie Valiant.md
       - Randy Schekman.md
+      - Sir Richard Roberts.md
