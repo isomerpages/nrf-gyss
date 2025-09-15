@@ -66,14 +66,6 @@ sections:
       url: /gyss-2026/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
-  - infobar:
-      title: Five Days of Excitement
-      subtitle: "#GYSS2026"
-      id: infobar
-      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
-        sessions—all these and more await you at the Summit.
-      button: FIND OUT MORE
-      url: /gyss-2026/programme
   - infopic:
       title: Five Days of Excitement
       subtitle: "#GYSS2026"
