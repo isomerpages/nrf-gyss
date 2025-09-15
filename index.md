@@ -74,7 +74,7 @@ sections:
         sessions—all these and more await you at the Summit.
       button: Find out more
       url: /gyss-2026/programme/
-      image: /images/GYSS 2025/30.png
+      image: /images/GYSS 2025/20250110_GYSS_DAY_04_322.jpg
       alt: Image alt text
   - infopic:
       title: GYSS 2025
