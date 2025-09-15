@@ -2,8 +2,8 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Donna Strickland.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
       - David Klenerman.md
+      - Donna Strickland.md
