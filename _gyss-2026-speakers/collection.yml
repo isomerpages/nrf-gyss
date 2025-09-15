@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Sir Konstantin Novoselov.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -12,3 +11,4 @@ collections:
       - Jack Dongarra.md
       - Joan Rose.md
       - Kae Nemoto.md
+      - Sir Konstantin Novoselov.md
