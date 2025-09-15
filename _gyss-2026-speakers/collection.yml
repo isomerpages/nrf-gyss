@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Leslie Valiant.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -13,3 +12,4 @@ collections:
       - Joan Rose.md
       - Kae Nemoto.md
       - Sir Konstantin Novoselov.md
+      - Leslie Valiant.md
