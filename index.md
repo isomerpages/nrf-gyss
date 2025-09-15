@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Transcending Borders
       id: infopic
-      image: /images/GYSS 2025/GYSS_2025_socmed_banners_04.png
+      image: /images/GYSS 2026/GYSS_2026_banner___stats.png
       alt: Image alt text
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
