@@ -2,5 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
+      - Bantval Jayant Baliga.md
       - Aaron Ciechanover.md
       - Brian Schmidt.md
