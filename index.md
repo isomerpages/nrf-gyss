@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Transcending Borders
       id: infopic
-      image: /images/GYSS 2026/GYSS_2026_banner___stats.png
+      image: /images/GYSS 2026/2026_web_banner_stats2.png
       alt: Image alt text
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
@@ -74,6 +74,16 @@ sections:
         sessions—all these and more await you at the Summit.
       button: FIND OUT MORE
       url: /gyss-2026/programme
+  - infopic:
+      title: Five Days of Excitement
+      subtitle: "#GYSS2026"
+      id: infopic
+      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
+        sessions—all these and more await you at the Summit.
+      button: Find out more
+      url: /gyss-2026/programme/
+      image: /images/GYSS 2025/30.png
+      alt: Image alt text
   - infopic:
       title: GYSS 2025
       subtitle: Past Highlights
