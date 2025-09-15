@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Sir Tim Hunt.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -17,3 +16,4 @@ collections:
       - Randy Schekman.md
       - Sir Richard Roberts.md
       - Takaaki Kajita.md
+      - Sir Tim Hunt.md
