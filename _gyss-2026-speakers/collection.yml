@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Joan Rose.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -10,3 +9,4 @@ collections:
       - Donna Strickland.md
       - Duncan Haldane.md
       - Jack Dongarra.md
+      - Joan Rose.md
