@@ -2,10 +2,10 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Jack Dongarra.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
       - David Klenerman.md
       - Donna Strickland.md
       - Duncan Haldane.md
+      - Jack Dongarra.md
