@@ -13,7 +13,7 @@ devices. He received his M.S and Ph.D degrees in electrical engineering
 from Rensselaer Polytechnic Institute, Troy, New York in 1971 and 1974,
 respectively. In the early 1980s, he invented and commercialised the IGBT,
 the most widely used transistor for consumer, industrial, transportation,
-medical, and renewable energy applications. He also proposed the development
+medical and renewable energy applications. He also proposed the development
 of power devices using wide band gap semiconductors in 1979 and developed
 the technology for them in the 1990s, eventually leading to their commercialisation.</p>
 <p>Prof Baliga spent 15 years at the General Electric R&amp;D Center, Schenectady,
