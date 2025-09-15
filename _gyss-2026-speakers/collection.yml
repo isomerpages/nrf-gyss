@@ -2,9 +2,9 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Duncan Haldane.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
       - David Klenerman.md
       - Donna Strickland.md
+      - Duncan Haldane.md
