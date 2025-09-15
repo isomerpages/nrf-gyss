@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Randy Schekman.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -14,3 +13,4 @@ collections:
       - Kae Nemoto.md
       - Sir Konstantin Novoselov.md
       - Leslie Valiant.md
+      - Randy Schekman.md
