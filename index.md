@@ -24,8 +24,8 @@ sections:
         - title: GYSS 2026
           description: Explore the Summit Programme
           url: /gyss-2026/programme/
-        - title: World's top minds
-          description: Speakers at GYSS 2026
+        - title: Meet the speakers
+          description: Luminaries @ GYSS 2026
           url: /gyss-2026/speakers/
         - title: Video Repository
           description: Catch all the action here!
