@@ -26,7 +26,7 @@ sections:
           url: /gyss-2026/programme/
         - title: World's top minds
           description: Luminaries @ GYSS 2025
-          url: /gyss-2025/speakers/
+          url: /gyss-2026/speakers/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
