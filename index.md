@@ -13,20 +13,20 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: The GYSS 2025 photo album is now live! Scroll down to find out more.
+notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_2_820x312px__2_.png
+      background: /images/GYSS 2026/2026_Website_banner_820x312px___rev.png
       key_highlights:
         - title: What is the GYSS?
           description: Excite, Engage, Enable
           url: /about/about-the-gyss/
-        - title: GYSS 2025
+        - title: GYSS 2026
           description: Explore the Summit Programme
-          url: /gyss-2025/programme/
-        - title: World's top minds
-          description: Luminaries @ GYSS 2025
-          url: /gyss-2025/speakers/
+          url: /gyss-2026/programme/
+        - title: Meet the speakers
+          description: Luminaries @ GYSS 2026
+          url: /gyss-2026/speakers/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Transcending Borders
       id: infopic
-      image: /images/GYSS 2025/GYSS_2025_socmed_banners_04.png
+      image: /images/GYSS 2026/2026_web_banner_stats2.png
       alt: Image alt text
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
@@ -52,9 +52,9 @@ sections:
       button: read more
   - infopic:
       title: Excite, Engage, Enable
-      subtitle: the gyss 2025
+      subtitle: the gyss 2026
       id: infopic
-      description: The highly anticipated Summit returns in 2025 to build a vibrant
+      description: The highly anticipated Summit returns in 2026 to build a vibrant
         scientific community that goes beyond borders and disciplines.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
@@ -63,50 +63,28 @@ sections:
       subtitle: Speakers
       description: The Summit features some of the world's top minds.
       button: Meet the scientists
-      url: /gyss-2025/speakers/
+      url: /gyss-2026/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
-  - textcards:
-      title: Five Days of Excitement
-      subtitle: "#GYSS2025"
-      id: textcards
+  - infopic:
+      title: Five Invigorating Days
+      subtitle: "#GYSS2026"
+      id: infopic
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
         sessions—all these and more await you at the Summit.
-      cards:
-        - title: Programme
-          description: Familiarise yourself with the event flow
-          linktext: Read here
-          url: /gyss-2025/programme/
-        - title: Panel Huddles
-          description: Delve into deep, big-picture discussions
-          linktext: Watch here
-          url: /gyss-2025/panel-huddles/
-        - title: Plenary Lectures
-          description: Glean insights and valuable advice
-          linktext: Tune in here
-          url: /gyss-2025/plenary-lectures/
-        - title: Quickfire Pitches
-          description: Hear new ideas from young scientists
-          linktext: View here
-          url: /gyss-2025/quickfire-pitches/life-sciences
-  - infopic:
-      title: Spot Yourself?
-      subtitle: Photo Gallery
-      id: infopic
-      description: The GYSS 2025 photo album is now live. Relive your favourite moments.
-      button: View the album
-      url: /gyss-2025/photo-gallery/
-      image: /images/GYSS 2025/9.png
+      button: Find out more
+      url: /gyss-2026/programme/
+      image: /images/GYSS 2025/20250110_GYSS_DAY_04_322.jpg
       alt: Image alt text
   - infopic:
-      title: GYSS 2024
+      title: GYSS 2025
       subtitle: Past Highlights
       description: From videos to photos and more, catch up with all the action from
-        the GYSS 2024!
-      alt: GYSS 2024 excitement!
+        the GYSS 2025!
+      alt: GYSS 2025 excitement!
       button: view here
-      image: /images/20240109_GYSS_DAY_02_PG01_028.jpg
-      url: /highlights/gyss2024/
+      image: /images/GYSS 2025/18.png
+      url: /highlights/gyss2025/
   - infopic:
       title: "Where Great Minds Meet: 10 Years of the GYSS"
       subtitle: 10th Anniversary
