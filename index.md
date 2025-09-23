@@ -67,7 +67,7 @@ sections:
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - infopic:
-      title: Five Days of Excitement
+      title: Five Invigorating Days
       subtitle: "#GYSS2026"
       id: infopic
       description: Panel huddles, quickfire pitches, site visits, and dedicated poster
