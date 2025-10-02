@@ -15,8 +15,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/aaron-ciechanover/"><img style="width: 100%;" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2026/Aaron_Ciechanover___2026.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/adi-shamir/"><img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2026/Adi_Shamir_2026.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="gyss-2026/speakers/bantval-jayant-baliga/"><img style="width: 100%" height="auto" width="100%" alt="Bantval Jayant Baliga" src="/images/GYSS 2026/Bantval_Jayant_Baliga___2026.png"></a>
 </th>
@@ -118,10 +117,10 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/tim-hunt/"><img style="width: 65%;" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt___2026.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/torsten-hoefler/"><img style="width: 65%;" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler_2026.png"></a>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/torsten-hoefler/"><img style="width: 65%;" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler_2026.png"></a>
 </td>
 </tr>
 </tbody>
