@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Kurt Wüthrich.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -13,6 +12,7 @@ collections:
       - Joan Rose.md
       - Kae Nemoto.md
       - Sir Konstantin Novoselov.md
+      - Kurt Wüthrich.md
       - Leslie Valiant.md
       - Randy Schekman.md
       - Sir Richard Roberts.md
