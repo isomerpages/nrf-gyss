@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Torsten Hoefler.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -21,3 +20,4 @@ collections:
       - Sir Richard Roberts.md
       - Takaaki Kajita.md
       - Sir Tim Hunt.md
+      - Torsten Hoefler.md
