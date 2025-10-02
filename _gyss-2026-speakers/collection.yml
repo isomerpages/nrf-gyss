@@ -2,7 +2,6 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Patricia Lee.md
       - Aaron Ciechanover.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
@@ -16,6 +15,7 @@ collections:
       - Kurt Wüthrich.md
       - Leslie Valiant.md
       - Maiken Nedergaard.md
+      - Patricia Lee.md
       - Randy Schekman.md
       - Sir Richard Roberts.md
       - Takaaki Kajita.md
