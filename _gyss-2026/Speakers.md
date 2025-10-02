@@ -66,10 +66,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov___2026.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kurt Wuthrich" src="/images/GYSS 2026/Kurt_Wu_thrich_2026.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/kurt-wuthrich/"><img style="width: 100%" height="auto" width="100%" alt="Kurt Wuthrich" src="/images/GYSS 2026/Kurt_Wu_thrich_2026.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/leslie-valiant/"><img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2026/Leslie_Valiant___2026.png"></a>
 </td>
@@ -84,14 +81,11 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Maiken Nedergaard" src="/images/GYSS 2026/Maiken_Nedergaard_2026.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/maiken-nedergaard/"><img style="width: 100%" height="auto" width="100%" alt="Maiken Nedergaard" src="/images/GYSS 2026/Maiken_Nedergaard_2026.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/patricia-lee/"><img style="width: 100%" height="auto" width="100%" alt="Patricia Lee" src="/images/GYSS 2026/Patricia_Lee_2026.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/randy-schekman/"><img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman___2026.png"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2026/Sir_Richard_Roberts___2026.png"></a>
 </th>
 </tr>
 </tbody>
@@ -104,10 +98,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Patricia Lee" src="/images/GYSS 2026/Patricia_Lee_2026.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2026/Sir_Richard_Roberts___2026.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/takaaki-kajita/"><img style="width: 100%;" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2026/Takaaki_Kajita___2026.png"></a>
 </th>
@@ -127,10 +118,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler_2026.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/torsten-hoefler/"><img style="width: 35%;" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler_2026.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
