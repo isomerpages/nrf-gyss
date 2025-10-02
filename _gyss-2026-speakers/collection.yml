@@ -2,8 +2,8 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Adi Shamir.md
       - Aaron Ciechanover.md
+      - Adi Shamir.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
       - Sir David Klenerman.md
