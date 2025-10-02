@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Aaron Ciechanover.md
+      - Adi Shamir.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
       - Sir David Klenerman.md
@@ -12,8 +13,12 @@ collections:
       - Joan Rose.md
       - Kae Nemoto.md
       - Sir Konstantin Novoselov.md
+      - Kurt Wüthrich.md
       - Leslie Valiant.md
+      - Maiken Nedergaard.md
+      - Patricia Lee.md
       - Randy Schekman.md
       - Sir Richard Roberts.md
       - Takaaki Kajita.md
       - Sir Tim Hunt.md
+      - Torsten Hoefler.md
