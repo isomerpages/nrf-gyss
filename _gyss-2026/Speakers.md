@@ -66,9 +66,10 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov___2026.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/leslie-valiant/"><img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2026/Leslie_Valiant___2026.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/randy-schekman/"><img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman___2026.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/leslie-valiant/"><img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2026/Leslie_Valiant___2026.png"></a>
 </td>
 </tr>
 </tbody>
@@ -81,12 +82,51 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/randy-schekman/"><img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman___2026.png"></a>
+</th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2026/Sir_Richard_Roberts___2026.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/takaaki-kajita/"><img style="width: 100%;" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2026/Takaaki_Kajita___2026.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/tim-hunt/"><img style="width: 100%;" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt___2026.png"></a>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/tim-hunt/"><img style="width: 50%;" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt___2026.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
