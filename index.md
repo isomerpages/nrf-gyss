@@ -35,7 +35,7 @@ sections:
       subtitle: 6–10 January 2025
   - infobar:
       title: "#GYSS"
-      subtitle: Global Summit
+      subtitle: A Global Summit
       description: Bringing together young scientists and top minds from around the
         world to discuss how research and innovation can address major global
         challenges.
@@ -61,8 +61,8 @@ sections:
   - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: Speakers
-      description: The Summit features some of the world's top minds.
-      button: Meet the scientists
+      description: Some of the world's top minds will converge at the Summit
+      button: Meet the luminaries
       url: /gyss-2026/speakers/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
@@ -70,15 +70,15 @@ sections:
       title: Five Invigorating Days
       subtitle: "#GYSS2026"
       id: infopic
-      description: Panel huddles, quickfire pitches, site visits, and dedicated poster
-        sessions—all these and more await you at the Summit.
+      description: Panel huddles, quickfire pitches, site visits, and fireside
+        chats—all these and more await you at the Summit.
       button: Find out more
       url: /gyss-2026/programme/
       image: /images/GYSS 2025/20250110_GYSS_DAY_04_322.jpg
       alt: Image alt text
   - infopic:
       title: GYSS 2025
-      subtitle: Past Highlights
+      subtitle: Throwback
       description: From videos to photos and more, catch up with all the action from
         the GYSS 2025!
       alt: GYSS 2025 excitement!
@@ -95,6 +95,17 @@ sections:
       url: https://go.gov.sg/gyss-10th-anniversary-pub
       image: /images/10th-anniversary-pub.jpg
       alt: 10 years of excellence
+  - infocols:
+      title: Ready for the Future of Science
+      subtitle: Upcoming Summit Dates
+      id: infocols
+      infoboxes:
+        - title: GYSS 2026
+          description: 5-9 January 2026
+        - title: GYSS 2027
+          description: 4-8 January 2027
+        - title: GYSS 2028
+          description: 3-7 January 2028
   - resources:
       title: Press Releases
       subtitle: Newsroom
