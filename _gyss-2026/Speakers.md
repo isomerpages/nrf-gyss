@@ -17,7 +17,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/adi-shamir/"><img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2026/Adi_Shamir_2026.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="gyss-2026/speakers/bantval-jayant-baliga/"><img style="width: 100%" height="auto" width="100%" alt="Bantval Jayant Baliga" src="/images/GYSS 2026/Bantval_Jayant_Baliga___2026.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/bantval-jayant-baliga/"><img style="width: 100%" height="auto" width="100%" alt="Bantval Jayant Baliga" src="/images/GYSS 2026/Bantval_Jayant_Baliga___2026.png"></a>
 </th>
 </tr>
 </tbody>
@@ -64,7 +64,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="gyss-2026/speakers/kae-nemoto/"><img style="width: 100%" height="auto" width="100%" alt="Kae Nemoto" src="/images/GYSS 2026/Kae_Nemoto_2026.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/kae-nemoto/"><img style="width: 100%" height="auto" width="100%" alt="Kae Nemoto" src="/images/GYSS 2026/Kae_Nemoto_2026.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov___2026.png"></a>
 </td>
