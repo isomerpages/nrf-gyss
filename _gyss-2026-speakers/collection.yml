@@ -2,6 +2,7 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
+      - David Baker.md
       - Aaron Ciechanover.md
       - Adi Shamir.md
       - Bantval Jayant Baliga.md
