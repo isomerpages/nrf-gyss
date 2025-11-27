@@ -2,12 +2,11 @@ collections:
   gyss-2026-speakers:
     output: true
     order:
-      - Sir Venki Ramakrishnan.md
-      - David Baker.md
       - Aaron Ciechanover.md
       - Adi Shamir.md
       - Bantval Jayant Baliga.md
       - Brian Schmidt.md
+      - David Baker.md
       - Sir David Klenerman.md
       - Donna Strickland.md
       - Duncan Haldane.md
@@ -24,3 +23,4 @@ collections:
       - Takaaki Kajita.md
       - Sir Tim Hunt.md
       - Torsten Hoefler.md
+      - Sir Venki Ramakrishnan.md
