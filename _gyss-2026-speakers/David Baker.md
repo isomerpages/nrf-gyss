@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker.png">
+<img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker__Nobel_laureate_.png">
 </div>
 <p>David Baker is the director of the Institute for Protein Design, a Howard
 Hughes Medical Institute Investigator, a professor of biochemistry, and
