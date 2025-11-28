@@ -32,7 +32,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/brian-schmidt/"><img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2026/Brian_Schmidt___2026.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-baker/"><img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-baker/"><img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker__Nobel_laureate_.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-klenerman/"><img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2026/Sir_David_Klenerman___2026.png"></a>
 </th>
