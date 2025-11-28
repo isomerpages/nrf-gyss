@@ -17,6 +17,6 @@ and co-founded 21 companies. Over 80 of his mentees have gone on to independent
 faculty positions.</p>
 <p>Prof Baker received his PhD in biochemistry with Randy Schekman at UC
 Berkeley and did postdoctoral work in biophysics with David Agard at UCSF.
-He is a recipient of the Breakthrough Prize in Life Sciences, and a member
-of the US National Academy of Sciences and the American Academy of Arts
-and Sciences.</p>
+He is also a recipient of the Breakthrough Prize in Life Sciences, and
+a member of the US National Academy of Sciences and the American Academy
+of Arts and Sciences.</p>
