@@ -43,7 +43,7 @@ impact will it have across industries—from materials science to medicine?</p>
 had on how we think, create, and collaborate is undeniable. This panel
 will explore how researchers can leverage AI to amplify discovery and productivity,
 while upholding scientific integrity, originality, and ethical responsibility.
-In an era fast becoming defined by algorithms, a balance of human intellect
-("brains") and machine intelligence ("bytes") must be struck to ensure
-responsible AI use.</p>
+In an era fast becoming defined by algorithms, balancing human intellect
+("brains") with machine intelligence ("bytes") is necessary to ensure responsible
+AI use.</p>
 <p></p>
