@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Transcending Borders
       id: infopic
-      image: /images/GYSS 2026/2026_web_banner_stats_4.png
+      image: /images/GYSS 2026/2026_web_banner_stats_5.png
       alt: Image alt text
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
