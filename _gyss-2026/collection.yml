@@ -2,7 +2,7 @@ collections:
   gyss-2026:
     output: true
     order:
-      - Moderators.md
       - Programme.md
       - Speakers.md
+      - Moderators.md
       - Panel Huddles.md
