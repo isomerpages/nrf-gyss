@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Maiken Nedergaard" src="/images/GYSS 2026/Maiken_Nedergaard_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Maiken Nedergaard" src="/images/GYSS 2026/Maiken_Nedergaard__2026_.png">
 </div>
 <p>Professor Maiken Nedergaard, MD, DMSc, is a Danish neuroscientist best
 known for discovering the glymphatic system, the brain’s unique waste clearance
