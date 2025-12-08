@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/kae-nemoto/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kae Nemoto" src="/images/GYSS 2026/Kae_Nemoto_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kae Nemoto" src="/images/GYSS 2026/Kae_Nemoto__2026_.png">
 </div>
 <p>Kae Nemoto is a professor at the Okinawa Institute of Science and Technology
 and the Center Director for OIST Center for Quantum Technologies. She is
