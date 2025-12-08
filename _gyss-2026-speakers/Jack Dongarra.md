@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/jack-dongarra/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jack Dongarra" src="/images/GYSS 2026/Jack_Dongarra___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Jack Dongarra" src="/images/GYSS 2026/Jack_Dongarra__2026_.png">
 </div>
 <p>Professor Jack Dongarra specialises in numerical algorithms in linear
 algebra, parallel computing, the use of advanced computer architectures,
