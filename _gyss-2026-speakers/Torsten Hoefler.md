@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler__2026_.png">
 </div>
 <p>Torsten Hoefler is a Professor of Computer Science at ETH Zurich, a member
 of Academia Europaea, and a Fellow of the ACM, IEEE, and ELLIS. He received
