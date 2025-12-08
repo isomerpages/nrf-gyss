@@ -4,7 +4,7 @@ permalink: /gyss-2026/moderators/
 variant: tiptap
 description: ""
 ---
-<p>Meet our moderators for the GYSS 2026:</p>
+<p>Meet our moderators for GYSS 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Cheong Wei Yang" src="/images/GYSS 2026/Cheong_Wei_Yang__2026_.png">
