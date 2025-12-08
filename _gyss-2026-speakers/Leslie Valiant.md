@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/leslie-valiant/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2026/Leslie_Valiant___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Leslie Valiant" src="/images/GYSS 2026/Leslie_Valiant__2026_.png">
 </div>
 <p>Professor Leslie Valiant was educated at King's College, Cambridge and
 Imperial College, London, and received his PhD in computer science at Warwick
