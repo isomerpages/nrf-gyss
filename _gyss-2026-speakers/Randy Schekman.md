@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/randy-schekman/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman__2026_.png">
 </div>
 <p>Randy Schekman is a professor in the Department of Molecular and Cell
 Biology, University of California, Berkeley, and an Investigator at the
