@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/joan-rose/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2026/Joan_Rose___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Joan Rose" src="/images/GYSS 2026/Joan_Rose__2026_.png">
 </div>
 <p>Professor Joan B. Rose holds the Homer Nowlin Chair in Water Research
 at Michigan State University, where she has worked for the last 22 years.
