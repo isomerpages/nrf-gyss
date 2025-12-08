@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/david-klenerman/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2026/Sir_David_Klenerman___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2026/Sir_David_Klenerman__2026_.png">
 </div>
 <p>Professor Sir David Klenerman is a physical chemist who completed his
 degree and doctorate at the University of Cambridge, followed by postdoctoral
