@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Patricia Lee" src="/images/GYSS 2026/Patricia_Lee_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Patricia Lee" src="/images/GYSS 2026/Patricia_Lee__2026_.png">
 </div>
 <p>Dr Patricia Lee is the Chief Scientist for Product Technologies at Quantinuum,
 where she leads the technology roadmap effort to scale up trapped ion quantum
