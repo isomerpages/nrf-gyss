@@ -7,7 +7,7 @@ description: ""
 <p>Meet our moderators for the GYSS 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Cheong Wei Yang" src="/images/GYSS 2026/Cheong_Wei_Yang__2026_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Cheong Wei Yang" src="/images/GYSS 2026/Cheong_Wei_Yang__2026_.png">
 </div>
 <p>Dr Cheong is Vice Provost for Strategic Research Partnerships in Singapore
 Management University, Senior Adviser for Health Economics at Singapore's
@@ -20,7 +20,7 @@ preventive health).</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Lisa Ng" src="/images/GYSS 2026/Lisa_Ng__2026_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Lisa Ng" src="/images/GYSS 2026/Lisa_Ng__2026_.png">
 </div>
 <p>Professor Lisa Ng is the current Executive Director of A*STAR's Infectious
 Diseases Labs, where she manages the overall strategic direction of key
@@ -32,7 +32,7 @@ for immunologists of human diseases.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Simon Chesterman" src="/images/GYSS 2026/Simon_Chesterman__2026_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Simon Chesterman" src="/images/GYSS 2026/Simon_Chesterman__2026_.png">
 </div>
 <p>Professor Simon Chesterman is David Marshall Professor of Law and Vice
 Provost (Educational Innovation) at the National University of Singapore
@@ -43,7 +43,7 @@ the Law Schools Global League from 2021 to 2023.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Tulika Mitra" src="/images/GYSS 2026/Tulika_Mitra__2026_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Tulika Mitra" src="/images/GYSS 2026/Tulika_Mitra__2026_.png">
 </div>
 <p>Professor Tulika Mitra is the Dean of the School of Computing and Vice
 Provost (Academic Affairs) at the National University of Singapore (NUS).
