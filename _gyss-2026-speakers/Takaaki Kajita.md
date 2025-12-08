@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/takaaki-kajita/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2026/Takaaki_Kajita___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2026/Takaaki_Kajita__2026_.png">
 </div>
 <p>Takaaki Kajita is Special University Professor at The University of Tokyo,
 Japan, where he is also Director of the university’s Institute for Cosmic
