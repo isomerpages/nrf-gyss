@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/donna-strickland/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Donna Strickland" src="/images/GYSS 2026/Donna_Strickland___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Donna Strickland" src="/images/GYSS 2026/Donna_Strickland__2026_.png">
 </div>
 <p>Donna Strickland is a professor in the Department of Physics and Astronomy
 at the University of Waterloo. In 2018, she received the Nobel Prize in
