@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2026/Aaron_Ciechanover___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Aaron Ciechanover" src="/images/GYSS 2026/Aaron_Ciechanover__2026_.png">
 </div>
 <p>Professor Aaron Ciechanover is Distinguished Research Professor in the
 Faculty of Medicine at Technion - Israel Institute of Technology. He completed
