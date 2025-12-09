@@ -1,0 +1,57 @@
+---
+title: Panel Huddles
+permalink: /gyss-2026/panel-huddles/
+variant: tiptap
+description: ""
+---
+<h4><strong>6 JANUARY 2026</strong></h4>
+<blockquote>
+<p>Breaking Barriers, Leading Change: Challenges in STEM</p>
+</blockquote>
+<p><strong>Panellists: </strong>Prof Donna Strickland, Prof Joan Rose, Prof
+Kae Nemoto, Dr Patricia Lee, Prof Maiken Nedergaard</p>
+<p>How can we make STEM more inclusive and provide equitable opportunities
+across the various fields of study? In this thought-provoking panel, five
+distinguished leaders from diverse scientific and engineering disciplines
+will share their unique experiences and challenges they have faced in their
+careers, while delving into strategies that will even the playing field
+for future generations of scientists.</p>
+<p></p>
+<h4><strong>7 JANUARY 2026</strong></h4>
+<blockquote>
+<p>Geopolitics to Genomics: Concurring Minds in A Multipolar World</p>
+</blockquote>
+<p><strong>Panellists: </strong>Prof Randy Schekman, Prof Brian Schmidt,
+Prof Aaron Ciechanover, Prof Kae Nemoto</p>
+<p>In a world where scientific influence becomes increasingly distributed,
+the call for collaborative science and shared innovation is louder than
+ever. This discourse will examine the convergence of science, genomics,
+and geopolitics amid rising complexity and competition, asking the question:
+where trade diplomacy fails, will science diplomacy thrive?</p>
+<p></p>
+<h4><strong>8 JANUARY 2026</strong></h4>
+<blockquote>
+<p>Supercomputing Classical vs Quantum: Redefining the Future</p>
+</blockquote>
+<p><strong>Panellists: </strong>Prof Torsten Hoefler, Prof Jack Dongarra,
+Prof Adi Shamir, Prof Kae Nemoto, Dr Patricia Lee</p>
+<p>In this lively discussion, our panellists will debate the strengths, limitations,
+and potential convergence of mainstream supercomputing and quantum technology
+into what is known as hybrid computing. With quantum technology still in
+its infancy stage, how would the future of computing be defined, and what
+impact will it have across industries—from materials science to medicine?</p>
+<p></p>
+<h4><strong>9 JANUARY 2026</strong></h4>
+<blockquote>
+<p>Brains &amp; Bytes: Levelling Up Research in the Age of GenAI</p>
+</blockquote>
+<p><strong>Panellists: </strong>Sir Tim Hunt, Sir Konstantin Novoselov, Dr
+Patricia Lee</p>
+<p>Opinions on Generative AI (GenAI) are divisive, but the impact it has
+had on how we think, create, and collaborate is undeniable. This panel
+will explore how researchers can leverage AI to amplify discovery and productivity,
+while upholding scientific integrity, originality, and ethical responsibility.
+In an era fast becoming defined by algorithms, balancing human intellect
+("brains") with machine intelligence ("bytes") is necessary to ensure responsible
+AI use.</p>
+<p></p>

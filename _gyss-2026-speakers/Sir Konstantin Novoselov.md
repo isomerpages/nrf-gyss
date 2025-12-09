@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/konstantin-novoselov/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov__2026_.png">
 </div>
 <p>Sir Konstantin Novoselov holds a Tan Chin Tuan Centennial Professorship
 at the National University of Singapore, where he is also Director of the

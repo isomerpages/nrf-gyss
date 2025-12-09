@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2026/Adi_Shamir_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Adi Shamir" src="/images/GYSS 2026/Adi_Shamir__2026_.png">
 </div>
 <p>Professor Adi Shamir is the Paul and Marlene Borman Professorial Chair
 of Applied Mathematics at Weizmann Institute of Science. He has propelled

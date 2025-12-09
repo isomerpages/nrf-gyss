@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/tim-hunt/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt__2026_.png">
 </div>
 <p>Sir Tim Hunt’s illustrious scientific career started in 1964 as a graduate
 student at the Department of Biochemistry, University of Cambridge. In

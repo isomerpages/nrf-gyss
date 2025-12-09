@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/bantval-jayant-baliga/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bantval Jayant Baliga" src="/images/GYSS 2026/Bantval_Jayant_Baliga___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Bantval Jayant Baliga" src="/images/GYSS 2026/Bantval_Jayant_Baliga__2026_.png">
 </div>
 <p>Professor Bantval Jayant Baliga is a preeminent expert on power semiconductor
 devices. He received his M.S and Ph.D degrees in electrical engineering

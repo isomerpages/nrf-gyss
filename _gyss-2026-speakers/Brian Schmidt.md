@@ -4,9 +4,8 @@ permalink: /gyss-2026/speakers/brian-schmidt/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2026/Brian_Schmidt___2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Schmidt" src="/images/GYSS 2026/Brian_Schmidt__2026_.png">
 </div>
 <p>Brian Schmidt is Distinguished Professor of Astronomy at the Australian
 National University, of which he has been a faculty member since 1995.

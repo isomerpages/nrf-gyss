@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kurt Wüthrich" src="/images/GYSS 2026/Kurt_Wu_thrich_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kurt Wuthrich" src="/images/GYSS 2026/Kurt_Wu_thrich__2026_.png">
 </div>
 <p>Kurt Wüthrich is the Cecil H. and Ida M. Green Professor of Structural
 Biology at Scripps Research in the United States, Professor of Biophysics
