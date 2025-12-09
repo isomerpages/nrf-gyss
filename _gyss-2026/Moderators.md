@@ -15,8 +15,8 @@ Ministry of Health (MOH), and Chair of the Board Oversight Committee of
 Advanced Cell Therapy and Research Institute of Singapore (ACTRIS). Previously,
 as Deputy Secretary (Technology) at MOH, Dr Cheong deployed technology
 against COVID-19, and developed the health research and innovation ecosystem
-to achieve Healthier SG (i.e., population health, precision health and
-preventive health).</p>
+to achieve Healthier SG (i.e. population health, precision health and preventive
+health).</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
