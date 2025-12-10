@@ -4,17 +4,14 @@ permalink: /gyss-2026/programme/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p>The Global Young Scientists Summit 2026 brings together a new generation
-of scientific talent and distinguished global leaders, continuing the theme
-“Excite, Engage, Enable” to create a vibrant platform for fresh ideas,
-candid conversations and collaborations that can shape the future of science
-and innovation.</p>
-<p>Over five days, nominated participants can look forward to a dynamic programme
-of plenary lectures, panel huddles, fireside chats, quickfire pitches,
-poster sessions and site visits (to Singapore’s leading research and innovation
-institutions), creating touchpoints for meaningful dialogue, mentorship
-and new partnerships.</p>
+<p>The Global Young Scientists Summit 2026 brings together distinguished
+scientific leaders and a new generation of research talent.</p>
+<p>Anchored on the theme “Excite, Engage, Enable”, the Summit provides a
+vibrant platform for fresh ideas, candid conversations and meaningful collaboration.</p>
+<p>Over five days, nominated participants can look forward to plenaries,
+panels, fireside chats, quickfire pitches and poster sessions, and visit
+Singapore’s leading research institutions and universities to get first-hand
+exposure to cutting-edge science and technology.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS_2026_programme__2_.png">
