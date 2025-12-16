@@ -42,7 +42,7 @@ Kae Nemoto, Dr Patricia Lee, Prof Torsten Hoefler
 and potential convergence of mainstream supercomputing and quantum technology
 into what is known as hybrid computing. With quantum technology still in
 its infancy stage, how would the future of computing be defined, and what
-impact will it have across industries— from materials science to medicine?</p>
+impact will it have across industries — from materials science to medicine?</p>
 <p></p>
 <h4><strong>9 JANUARY 2026</strong></h4>
 <blockquote>
