@@ -58,6 +58,8 @@ sections:
         scientific community that goes beyond borders and disciplines.
       image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
       alt: Image alt text
+      button: see the programme
+      url: /gyss-2026/programme/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: Speakers
