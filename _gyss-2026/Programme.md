@@ -14,6 +14,6 @@ Singapore’s leading research institutions and universities to get first-hand
 exposure to cutting-edge science and technology.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS_2026_programme__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="GYSS 2026 Programme" src="/images/GYSS 2026/GYSS_2026_programme___17_Dec.png">
 </div>
 <p></p>
