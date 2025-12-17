@@ -1,4 +1,5 @@
 collections:
   gyss-2026-moderators:
     output: true
-    order: []
+    order:
+      - Cheong Wei Yang.md
