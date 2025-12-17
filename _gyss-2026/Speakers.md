@@ -34,7 +34,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-baker/"><img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker__2026_.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-klenerman/"><img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2026/Sir_David_Klenerman__2026_.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/david-klenerman/"><img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2026/David_Klenerman___17_Dec.png"></a>
 </th>
 </tr>
 </tbody>
@@ -68,7 +68,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/kae-nemoto/"><img style="width: 100%" height="auto" width="100%" alt="Kae Nemoto" src="/images/GYSS 2026/Kae_Nemoto__2026_.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Sir Konstantin Novoselov" src="/images/GYSS 2026/Sir_Konstantin_Novoselov__2026_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/konstantin-novoselov/"><img style="width: 100%" height="auto" width="100%" alt="Konstantin Novoselov" src="/images/GYSS 2026/Konstantin_Novoselov___17_Dec.png"></a>
 </td>
 </tr>
 </tbody>
@@ -100,7 +100,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/randy-schekman/"><img style="width: 100%" height="auto" width="100%" alt="Randy Schekman" src="/images/GYSS 2026/Randy_Schekman__2026_.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2026/Sir_Richard_Roberts__2026_.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/richard-roberts/"><img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2026/Richard_Roberts___17_Dec.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/takaaki-kajita/"><img style="width: 100%" height="auto" width="100%" alt="Takaaki Kajita" src="/images/GYSS 2026/Takaaki_Kajita__2026_.png"></a>
 </th>
@@ -115,32 +115,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/tim-hunt/"><img style="width: 100%" height="auto" width="100%" alt="Sir Tim Hunt" src="/images/GYSS 2026/Sir_Tim_Hunt__2026_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/tim-hunt/"><img style="width: 100%" height="auto" width="100%" alt="Tim Hunt" src="/images/GYSS 2026/Tim_Hunt___17_Dec.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/torsten-hoefler/"><img style="width: 100%" height="auto" width="100%" alt="Torsten Hoefler" src="/images/GYSS 2026/Torsten_Hoefler__2026_.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/venki-ramakrishnan/"><img style="width: 100%;" height="auto" width="100%" alt="Sir Venki Ramakrishnan" src="/images/GYSS 2026/Sir_Venki_Ramakrishnan__2026_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/gyss-2026/speakers/venki-ramakrishnan/"><img style="width: 100%" height="auto" width="100%" alt="Venki Ramakrishnan" src="/images/GYSS 2026/Venki_Ramakrishnan___17_Dec.png"></a>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 </tbody>
 </table>
