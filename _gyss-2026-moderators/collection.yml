@@ -2,6 +2,6 @@ collections:
   gyss-2026-moderators:
     output: true
     order:
-      - Tulika Mitra.md
       - Cheong Wei Yang.md
       - Simon Chesterman.md
+      - Tulika Mitra.md
