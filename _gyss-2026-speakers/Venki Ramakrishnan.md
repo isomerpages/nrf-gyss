@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir Venki Ramakrishnan" src="/images/GYSS 2026/Sir_Venki_Ramakrishnan__2026_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Venki Ramakrishnan" src="/images/GYSS 2026/Venki_Ramakrishnan___17_Dec.png">
 </div>
 <p>Sir Venkatraman ‘Venki’ Ramakrishnan is a Nobel Prize-winning biologist
 whose many scientific contributions include his work on the atomic structure
