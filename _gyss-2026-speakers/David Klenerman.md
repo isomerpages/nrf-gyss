@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir David Klenerman" src="/images/GYSS 2026/Sir_David_Klenerman__2026_.png">
+<img style="width: 100%" height="auto" width="100%" alt="David Klenerman" src="/images/GYSS 2026/David_Klenerman___17_Dec.png">
 </div>
 <p>Professor Sir David Klenerman is a physical chemist who completed his
 degree and doctorate at the University of Cambridge, followed by postdoctoral
