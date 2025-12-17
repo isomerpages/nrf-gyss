@@ -1,11 +1,11 @@
 ---
-title: Sir Richard Roberts
+title: Richard Roberts
 permalink: /gyss-2026/speakers/richard-roberts/
 variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sir Richard Roberts" src="/images/GYSS 2026/Sir_Richard_Roberts__2026_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Richard Roberts" src="/images/GYSS 2026/Richard_Roberts___17_Dec.png">
 </div>
 <p>Sir Richard J. Roberts is Chief Scientific Officer at New England Biolabs
 in Ipswich, Massachusetts, United States. He first joined the company as

@@ -9,7 +9,8 @@ description: ""
 <p>Breaking Barriers, Leading Change: Challenges in STEM</p>
 </blockquote>
 <p><strong>Panellists: </strong>Prof Donna Strickland, Prof Joan Rose, Prof
-Kae Nemoto, Prof Maiken Nedergaard, Dr Patricia Lee</p>
+Kae Nemoto, Dr Patricia Lee
+<br><strong>Moderator: </strong>Prof Lisa Ng</p>
 <p>How can we make STEM more inclusive and provide equitable opportunities
 across the various fields of study? In this thought-provoking panel, five
 distinguished leaders from diverse scientific and engineering disciplines
@@ -19,10 +20,11 @@ for future generations of scientists.</p>
 <p></p>
 <h4><strong>7 JANUARY 2026</strong></h4>
 <blockquote>
-<p>Geopolitics to Genomics: Concurring Minds in A Multipolar World</p>
+<p>Geopolitics to Genomics: Concurring Minds in a Multipolar World</p>
 </blockquote>
 <p><strong>Panellists: </strong>Prof Aaron Ciechanover, Prof Brian Schmidt,
-Prof Kae Nemoto, Prof Randy Schekman</p>
+Prof Kae Nemoto, Prof Randy Schekman
+<br><strong>Moderator:</strong> Dr Cheong Wei Yang</p>
 <p>In a world where scientific influence becomes increasingly distributed,
 the call for collaborative science and shared innovation is louder than
 ever. This discourse will examine the convergence of science, genomics,
@@ -31,22 +33,24 @@ where trade diplomacy fails, will science diplomacy thrive?</p>
 <p></p>
 <h4><strong>8 JANUARY 2026</strong></h4>
 <blockquote>
-<p>Supercomputing Classical vs Quantum: Redefining the Future</p>
+<p>Supercomputing and Quantum: Redefining the Future</p>
 </blockquote>
 <p><strong>Panellists: </strong>Prof Adi Shamir, Prof Jack Dongarra, Prof
-Kae Nemoto, Dr Patricia Lee, Prof Torsten Hoefler</p>
+Kae Nemoto, Dr Patricia Lee, Prof Torsten Hoefler
+<br><strong>Moderator:</strong> Prof Tulika Mitra</p>
 <p>In this lively discussion, our panellists will debate the strengths, limitations,
 and potential convergence of mainstream supercomputing and quantum technology
 into what is known as hybrid computing. With quantum technology still in
 its infancy stage, how would the future of computing be defined, and what
-impact will it have across industries—from materials science to medicine?</p>
+impact will it have across industries — from materials science to medicine?</p>
 <p></p>
 <h4><strong>9 JANUARY 2026</strong></h4>
 <blockquote>
 <p>Brains &amp; Bytes: Levelling Up Research in the Age of GenAI</p>
 </blockquote>
 <p><strong>Panellists: </strong>Sir David Klenerman, Sir Konstantin Novoselov,
-Dr Patricia Lee, Sir Tim Hunt</p>
+Dr Patricia Lee, Sir Tim Hunt
+<br><strong>Moderator:</strong> Prof Simon Chesterman</p>
 <p>Opinions on Generative AI (GenAI) are divisive, but the impact it has
 had on how we think, create, and collaborate is undeniable. This panel
 will explore how researchers can leverage AI to amplify discovery and productivity,
