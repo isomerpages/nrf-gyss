@@ -2,4 +2,5 @@ collections:
   gyss-2026-moderators:
     output: true
     order:
+      - Simon Chesterman.md
       - Cheong Wei Yang.md
