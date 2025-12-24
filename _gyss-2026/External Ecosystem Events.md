@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Throughout the week of GYSS 2026, our speakers will also be giving talks
-at various partner events across Singapore. These events are open to public.</p>
+at various partner events across Singapore. These events are open to the
+public.</p>
 <h3>6 JANUARY 2026</h3>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof David Baker</strong>
@@ -47,4 +48,14 @@ register for the event.</p>
 1 (SCIS 1) – Seminar Room B1-1, Singapore Management University</p>
 <p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTVhuf3Tw711GixE-zm4eWJVUQUg4MFA4TlE4NENHWDc3NVU2R1lIRFo5SC4u&amp;origin=lprLink&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
-<p></p>
+<p>
+<br>
+</p>
+<blockquote>
+<p><strong>SUTD Trailblazers' Series – Prof Kae Nemoto and Dr Patricia Lee</strong>
+</p>
+</blockquote><a class="isomer-image-wrapper" href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPRZ1BfUovBpDhHvWEG_m9m5UNExHWTAyR1RZQjNGR0lRTkE0M1RLR1A3WiQlQCNjPTEu&amp;route=shorturl"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS_2026.png"></a>
+<p><strong>Time: </strong>2:00–4:00 PM
+<br><strong>Venue: </strong>SUTD Lecture Theatre 2 (Building 1, Level 3)</p>
+<p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPRZ1BfUovBpDhHvWEG_m9m5UNExHWTAyR1RZQjNGR0lRTkE0M1RLR1A3WiQlQCNjPTEu&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
+register for the event.</p>
