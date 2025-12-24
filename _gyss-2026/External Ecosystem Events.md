@@ -13,8 +13,7 @@ public.</p>
 </p>
 </blockquote><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/06/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-6-january-2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0001.jpg"></a>
 <p><strong>Time:</strong> 4:00–6:30 PM
-<br><strong>Venue:</strong> SHHK Auditorium, Nanyang Technological University
-Singapore</p>
+<br><strong>Venue:</strong> SHHK Auditorium, NTU Singapore</p>
 <p>Click <a href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/06/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-6-january-2026" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <p></p>
