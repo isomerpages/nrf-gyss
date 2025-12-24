@@ -38,7 +38,9 @@ register for the event.</p>
 <p><strong>High Performance Computing Changing the World – Prof Jack Dongarra</strong>
 </p>
 </blockquote>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra.png">
+</div>
 <p><strong>Time:</strong> 2:00–4:00 PM
 <br><strong>Venue:</strong> MPH 1 &amp; 2, Innovis</p>
 <p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u" rel="noopener nofollow" target="_blank">here</a> to
