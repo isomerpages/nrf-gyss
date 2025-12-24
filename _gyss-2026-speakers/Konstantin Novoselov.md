@@ -15,8 +15,8 @@ of Manchester. Since 2014, he has consistently been featured on the list
 of the world’s most highly cited researchers, with over 250 peer-reviewed
 research papers published to date.</p>
 <p>In 2004, Prof Novoselov successfully isolated graphene, the first known
-2D material, and mapped its unique properties together with Professor Sir
-Andre Geim. Their discovery paved the way for experiments on other 2D atomic
+2D material, and mapped its unique properties together with Professor Andre
+Geim. Their discovery paved the way for experiments on other 2D atomic
 crystals with superior and versatile properties to potentially create new
 materials with a wide range of applications. In recognition of their groundbreaking
 work, they were jointly awarded the Nobel Prize in Physics in 2010. Prof
