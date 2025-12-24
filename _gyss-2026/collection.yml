@@ -2,8 +2,8 @@ collections:
   gyss-2026:
     output: true
     order:
-      - External Ecosystem Events.md
       - Programme.md
       - Speakers.md
       - Moderators.md
       - Panel Huddles.md
+      - External Ecosystem Events.md
