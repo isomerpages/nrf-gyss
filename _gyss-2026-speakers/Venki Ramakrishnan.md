@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Venki Ramakrishnan" src="/images/GYSS 2026/Venki_Ramakrishnan___17_Dec.png">
 </div>
-<p>Sir Venkatraman ‘Venki’ Ramakrishnan is a Nobel Prize-winning biologist
+<p>Dr Venkatraman ‘Venki’ Ramakrishnan is a Nobel Prize-winning biologist
 whose many scientific contributions include his work on the atomic structure
 of the ribosome. As the site within living cells where the genetic information
 is read to synthesise proteins from amino acids, improved understanding
