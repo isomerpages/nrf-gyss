@@ -10,37 +10,28 @@ at various partner events across Singapore. These events are open to public.</p>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof David Baker</strong>
 </p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0001.jpg">
-</div>
+</blockquote><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/06/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-6-january-2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0001.jpg"></a>
 <p><strong>Time:</strong> 4:00–6:30 PM
 <br><strong>Venue:</strong> SHHK Auditorium, Nanyang Technological University
 Singapore</p>
-<p>Click <a href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-6Jan26/register" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/06/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-6-january-2026" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <p></p>
 <h3>7 JANUARY 2026</h3>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof Bantval Jayant Baliga and Prof Torsten Hoefler</strong>
 </p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0002.jpg">
-</div>
+</blockquote><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0002.jpg"></a>
 <p><strong>Time:</strong> 3:15–5:40 PM
 <br><strong>Venue: </strong>SHHK Auditorium, NTU Singapore</p>
-<p>Click <a href="https://event.ntu.edu.sg/IASLKCDP-PublicLecture-7Jan26/register" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <p></p>
 <h3>8 JANUARY 2026</h3>
 <blockquote>
 <p><strong>High Performance Computing Changing the World – Prof Jack Dongarra</strong>
 </p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra.png">
-</div>
+</blockquote><a class="isomer-image-wrapper" href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra.png"></a>
 <p><strong>Time:</strong> 2:00–4:00 PM
 <br><strong>Venue:</strong> MPH 1 &amp; 2, Innovis</p>
 <p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u" rel="noopener nofollow" target="_blank">here</a> to
@@ -50,8 +41,7 @@ register for the event.</p>
 <blockquote>
 <p><strong>Research Seminar: Deep Neural Cryptography – Prof Adi Shamir</strong>
 </p>
-</blockquote>
-<p></p>
+</blockquote><a class="isomer-image-wrapper" href="https://forms.office.com/pages/responsepage.aspx?id=ynmKyZpakUeiQ_Bq_WdGTVhuf3Tw711GixE-zm4eWJVUQUg4MFA4TlE4NENHWDc3NVU2R1lIRFo5SC4u&amp;origin=lprLink&amp;route=shorturl"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Research_Seminar_by_Adi_Shamir___Deep_Neural_Cryptography___School_of_Computing_and_Information_Systems_page_0001.jpg"></a>
 <p><strong>Time:</strong> 10:15–11:45 AM
 <br><strong>Venue: </strong>School of Computing &amp; Information Systems
 1 (SCIS 1) – Seminar Room B1-1, Singapore Management University</p>
