@@ -19,7 +19,7 @@ to visualise ribosomes in action in higher organisms. This work has advanced
 our understanding of how the ribosome works and how antibiotics inhibit
 it. In the past, he also worked on histone and chromatin structure, which
 helped us to understand how DNA is organised in cells.</p>
-<p>Sir Venki received the Nobel Prize in Chemistry for his work on ribosomal
+<p>Dr Venki received the Nobel Prize in Chemistry for his work on ribosomal
 structure and was knighted in 2012. He is a Member of the US National Academy
 of Sciences, Leopoldina, and EMBO, and a Foreign Member of the Indian National
 Science Academy. He was President of the Royal Society from November 2015
