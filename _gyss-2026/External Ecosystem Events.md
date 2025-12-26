@@ -4,9 +4,9 @@ permalink: /gyss-2026/external-ecosystem-events/
 variant: tiptap
 description: ""
 ---
-<p>Throughout the week of GYSS 2026, the laureates will also be giving talks
-at various partner events across Singapore. These events are open to the
-public.</p>
+<p>Throughout the week of the GYSS 2026, the laureates will also be giving
+talks at various partner events across Singapore. These events are open
+to the public.</p>
 <h3>6 JANUARY 2026</h3>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof David Baker</strong>
