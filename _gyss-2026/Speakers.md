@@ -4,7 +4,7 @@ permalink: /gyss-2026/speakers/
 variant: tiptap
 description: ""
 ---
-<p>Meet our distinguished speakers for GYSS 2026:</p>
+<p>Meet our distinguished laureates for GYSS 2026:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
