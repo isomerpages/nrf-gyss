@@ -19,14 +19,29 @@ register for the event.</p>
 <p></p>
 <h3>7 JANUARY 2026</h3>
 <blockquote>
+<p><strong>In Conversation with Nobel Prize Winner: Prof Donna Strickland</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/In_Conversation_with_Nobel_Prize_Winner__final_18_Dec_.png">
+</div>
+<p><strong>Time:</strong> 10am to noon
+<br><strong>Venue: </strong>Science Centre Singapore</p>
+<p>Click <a href="https://form.gov.sg/691595034739debdcff4f10a" rel="noopener nofollow" target="_blank">here</a> to
+register for the event</p>
+<p></p>
+<p></p>
+<blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof Bantval Jayant Baliga and Prof Torsten Hoefler</strong>
 </p>
-</blockquote><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0002.jpg"></a>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0002.jpg">
+</div>
 <p><strong>Time:</strong> 3:15–5:40 PM
 <br><strong>Venue: </strong>SHHK Auditorium, NTU Singapore</p>
-<p>Click <a href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://safe.menlosecurity.com/https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register for the event.</p>
-<p></p>
 <h3>8 JANUARY 2026</h3>
 <blockquote>
 <p><strong>High Performance Computing Changing the World – Prof Jack Dongarra</strong>
