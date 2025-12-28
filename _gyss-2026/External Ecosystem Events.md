@@ -31,6 +31,7 @@ register for the event.</p>
 register for the event</p>
 <p></p>
 <p></p>
+<p></p>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof Bantval Jayant Baliga and Prof Torsten Hoefler</strong>
 </p>
