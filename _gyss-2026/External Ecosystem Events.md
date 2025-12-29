@@ -30,7 +30,17 @@ register for the event.</p>
 <p>Click <a href="https://form.gov.sg/691595034739debdcff4f10a" rel="noopener nofollow" target="_blank">here</a> to
 register for the event</p>
 <p></p>
-<p></p>
+<blockquote>
+<p><strong>Generating High-Intensity, Ultrashort Optical Pulses – Prof&nbsp;Donna Strickland</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS_Donna_Strickland_EDM.png">
+</div>
+<p><strong>Time:</strong> 2:45-3:45PM
+<br><strong>Venue: </strong>Seminar 4, Level 8, Innovis, 2 Fusionopolis Way</p>
+<p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUN1BSSDBRWlpYVk9KVVRDVko0UllDV1Q3My4u" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register for the event.</p>
 <p></p>
 <blockquote>
 <p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof Bantval Jayant Baliga and Prof Torsten Hoefler</strong>
@@ -41,13 +51,17 @@ register for the event</p>
 </div>
 <p><strong>Time:</strong> 3:15–5:40 PM
 <br><strong>Venue: </strong>SHHK Auditorium, NTU Singapore</p>
-<p>Click <a href="https://safe.menlosecurity.com/https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/07/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-7-january-2026----partner-event-of-gyss" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register for the event.</p>
 <h3>8 JANUARY 2026</h3>
 <blockquote>
 <p><strong>High Performance Computing Changing the World – Prof Jack Dongarra</strong>
 </p>
-</blockquote><a class="isomer-image-wrapper" href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra.png"></a>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra_.png">
+</div>
 <p><strong>Time:</strong> 2:00–4:00 PM
 <br><strong>Venue:</strong> MPH 1 &amp; 2, Innovis</p>
 <p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u" rel="noopener nofollow" target="_blank">here</a> to
