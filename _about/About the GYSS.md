@@ -10,9 +10,9 @@ variant: markdown
 
 The **Global Young Scientists Summit** in Singapore brings together bright young researchers and top scientific minds from around the world to discuss science and technology trends, future game changers and how research could address major global challenges. It was started in 2013 with the objective of exciting and engaging young scientists to pursue their scientific dreams through close interactions with distinguished scientists and researchers, and with peers. The Summit provides a platform for conversations on science and research, technology innovation and society, and solutions to global challenges.  
   
-The Summit is a multi-disciplinary summit that covers topics including chemistry, physics, medicine, mathematics, computer science and engineering. Speakers at the Summit include recipients of the Nobel Prize, Fields Medal, Millennium Technology Prize and Turing Award. The theme for the Summit is "Advancing Science, Creating Technologies for a Better World". Promising young scientists will exchange ideas and knowledge with the speakers and their peers over four days under this theme. 
+The Summit is a multi-disciplinary summit that covers topics including chemistry, physics, medicine, mathematics, computer science and engineering. Laureates at the Summit include recipients of the Nobel Prize, Fields Medal, Millennium Technology Prize and Turing Award. The theme for the Summit is "Advancing Science, Creating Technologies for a Better World". Promising young scientists will exchange ideas and knowledge with the laureates and their peers over four days under this theme. 
   
-At the Summit, participants will take part in lectures, plenary sessions and panel discussions. They will have the opportunity to interact with and be mentored by speakers in informal small group sessions.  
+At the Summit, participants will take part in lectures, plenary sessions and panel discussions. They will have the opportunity to interact with and be mentored by laureates in informal small group sessions.  
 
 ## EXCITE, ENGAGE, ENABLE
 * * *
