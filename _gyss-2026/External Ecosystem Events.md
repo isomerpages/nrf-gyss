@@ -25,7 +25,7 @@ register for the event.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/In_Conversation_with_Nobel_Prize_Winner__final_18_Dec_.png">
 </div>
-<p><strong>Time:</strong> 10am to noon
+<p><strong>Time:</strong> 10 AM to noon
 <br><strong>Venue: </strong>Science Centre Singapore</p>
 <p>Click <a href="https://form.gov.sg/691595034739debdcff4f10a" rel="noopener nofollow" target="_blank">here</a> to
 register for the event</p>
@@ -37,7 +37,7 @@ register for the event</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS_Donna_Strickland_EDM.png">
 </div>
-<p><strong>Time:</strong> 2:45-3:45PM
+<p><strong>Time:</strong> 2:45-3:45 PM
 <br><strong>Venue: </strong>Seminar 4, Level 8, Innovis, 2 Fusionopolis Way</p>
 <p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUN1BSSDBRWlpYVk9KVVRDVko0UllDV1Q3My4u" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register for the event.</p>
@@ -62,8 +62,8 @@ register for the event.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/GYSS___Prof_Jack_Dongarra_.png">
 </div>
-<p><strong>Time:</strong> 2:00–4:00 PM
-<br><strong>Venue:</strong> MPH 1 &amp; 2, Innovis</p>
+<p><strong>Time:</strong> 2:15–3:45 PM
+<br><strong>Venue:</strong> MPH 1 &amp; 2, Innovis, 2 Fusionopolis Way</p>
 <p>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=P_nIomsSlkWjYIlBqJhLCAYHVvBB739IqQXqbDZ7-khUMklBNkgzUU8xQU9CRVA4RDRITVczVjU2SS4u" rel="noopener nofollow" target="_blank">here</a> to
 register for the event.</p>
 <p></p>
