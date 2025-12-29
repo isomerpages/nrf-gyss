@@ -9,7 +9,7 @@ talks at various partner events across Singapore. These events are open
 to the public.</p>
 <h3>6 JANUARY 2026</h3>
 <blockquote>
-<p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof David Baker</strong>
+<p><strong>IAS Lee Kong Chian Distinguished Professor Public Lecture – Prof David Baker </strong>
 </p>
 </blockquote><a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/ias/news-events/events/detail/2026/01/06/default-calendar/ias-lee-kong-chian-distinguished-professor-public-lecture-6-january-2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYSS 2026/Poster_LKCPL_6_and_7_Jan_page_0001.jpg"></a>
 <p><strong>Time:</strong> 4:00–6:30 PM
@@ -19,7 +19,7 @@ register for the event.</p>
 <p></p>
 <h3>7 JANUARY 2026</h3>
 <blockquote>
-<p><strong>In Conversation with Nobel Prize Winner: Prof Donna Strickland</strong>
+<p><strong>In Conversation with Nobel Prize Winner – Prof Donna Strickland</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
