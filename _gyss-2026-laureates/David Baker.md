@@ -22,7 +22,4 @@ and did postdoctoral work in biophysics with David Agard at UCSF. He is
 also a recipient of the Breakthrough Prize in Life Sciences, and a member
 of the US National Academy of Sciences and the American Academy of Arts
 and Sciences.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="David Baker" src="/images/GYSS 2026/David_Baker__2026_.png">
-</div>
 <p></p>
