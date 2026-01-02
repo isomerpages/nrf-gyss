@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Programme.md
-      - Speakers.md
+      - Laureates.md
       - Moderators.md
       - Panel Huddles.md
       - External Ecosystem Events.md
