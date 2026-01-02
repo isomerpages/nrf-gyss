@@ -1,5 +1,5 @@
 collections:
-  gyss-2026-speakers:
+  gyss-2026-laureates:
     output: true
     order:
       - Aaron Ciechanover.md
