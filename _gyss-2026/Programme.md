@@ -17,5 +17,5 @@ exposure to cutting-edge science and technology.</p>
 <img style="width: 100%" height="auto" width="100%" alt="GYSS 2026 programme" src="/images/GYSS 2026/GYSS_2026_programme___17_Dec__3_.png">
 </div>
 <p></p>
-<p>Click <a href="/images/gyss-2026/2026_Programme.jpg" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/images/2026_Programme.jpg" rel="noopener nofollow" target="_blank">here</a> to
 download the programme.</p>
