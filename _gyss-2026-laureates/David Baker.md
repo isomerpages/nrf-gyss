@@ -1,6 +1,6 @@
 ---
 title: David Baker
-permalink: /gyss-2026/speakers/david-baker/
+permalink: /gyss-2026/laureates/david-baker/
 variant: tiptap
 description: ""
 ---

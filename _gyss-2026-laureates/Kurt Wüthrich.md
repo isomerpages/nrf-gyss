@@ -1,6 +1,6 @@
 ---
 title: Kurt Wüthrich
-permalink: /gyss-2026/speakers/kurt-wuthrich/
+permalink: /gyss-2026/laureates/kurt-wuthrich/
 variant: tiptap
 description: ""
 ---

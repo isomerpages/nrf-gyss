@@ -1,6 +1,6 @@
 ---
 title: Konstantin Novoselov
-permalink: /gyss-2026/speakers/konstantin-novoselov/
+permalink: /gyss-2026/laureates/konstantin-novoselov/
 variant: tiptap
 description: ""
 ---

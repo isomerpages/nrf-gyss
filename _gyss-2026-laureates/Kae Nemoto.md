@@ -1,6 +1,6 @@
 ---
 title: Kae Nemoto
-permalink: /gyss-2026/speakers/kae-nemoto/
+permalink: /gyss-2026/laureates/kae-nemoto/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Torsten Hoefler
-permalink: /gyss-2026/speakers/torsten-hoefler/
+permalink: /gyss-2026/laureates/torsten-hoefler/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Randy Schekman
-permalink: /gyss-2026/speakers/randy-schekman/
+permalink: /gyss-2026/laureates/randy-schekman/
 variant: tiptap
 description: ""
 ---

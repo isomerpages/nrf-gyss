@@ -1,6 +1,6 @@
 ---
 title: Adi Shamir
-permalink: /gyss-2026/speakers/adi-shamir/
+permalink: /gyss-2026/laureates/adi-shamir/
 variant: tiptap
 description: ""
 ---

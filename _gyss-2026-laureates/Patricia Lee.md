@@ -1,6 +1,6 @@
 ---
 title: Patricia Lee
-permalink: /gyss-2026/speakers/patricia-lee/
+permalink: /gyss-2026/laureates/patricia-lee/
 variant: tiptap
 description: ""
 ---

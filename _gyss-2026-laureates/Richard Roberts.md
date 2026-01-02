@@ -1,6 +1,6 @@
 ---
 title: Richard Roberts
-permalink: /gyss-2026/speakers/richard-roberts/
+permalink: /gyss-2026/laureates/richard-roberts/
 variant: tiptap
 description: ""
 ---

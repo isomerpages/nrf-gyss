@@ -1,6 +1,6 @@
 ---
 title: Jack Dongarra
-permalink: /gyss-2026/speakers/jack-dongarra/
+permalink: /gyss-2026/laureates/jack-dongarra/
 variant: tiptap
 description: ""
 ---

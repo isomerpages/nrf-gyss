@@ -1,6 +1,6 @@
 ---
 title: Duncan Haldane
-permalink: /gyss-2026/speakers/duncan-haldane/
+permalink: /gyss-2026/laureates/duncan-haldane/
 variant: tiptap
 description: ""
 ---

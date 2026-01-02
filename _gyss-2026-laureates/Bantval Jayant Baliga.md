@@ -1,6 +1,6 @@
 ---
 title: Bantval Jayant Baliga
-permalink: /gyss-2026/speakers/bantval-jayant-baliga/
+permalink: /gyss-2026/laureates/bantval-jayant-baliga/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aaron Ciechanover
-permalink: /gyss-2026/speakers/aaron-ciechanover/
+permalink: /gyss-2026/laureates/aaron-ciechanover/
 variant: tiptap
 description: ""
 ---

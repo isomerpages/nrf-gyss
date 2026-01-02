@@ -1,6 +1,6 @@
 ---
 title: Leslie Valiant
-permalink: /gyss-2026/speakers/leslie-valiant/
+permalink: /gyss-2026/laureates/leslie-valiant/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brian Schmidt
-permalink: /gyss-2026/speakers/brian-schmidt/
+permalink: /gyss-2026/laureates/brian-schmidt/
 variant: tiptap
 description: ""
 ---

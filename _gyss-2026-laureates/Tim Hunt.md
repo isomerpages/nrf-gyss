@@ -1,6 +1,6 @@
 ---
 title: Tim Hunt
-permalink: /gyss-2026/speakers/tim-hunt/
+permalink: /gyss-2026/laureates/tim-hunt/
 variant: tiptap
 description: ""
 ---

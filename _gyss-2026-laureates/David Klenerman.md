@@ -1,6 +1,6 @@
 ---
 title: David Klenerman
-permalink: /gyss-2026/speakers/david-klenerman/
+permalink: /gyss-2026/laureates/david-klenerman/
 variant: tiptap
 description: ""
 ---

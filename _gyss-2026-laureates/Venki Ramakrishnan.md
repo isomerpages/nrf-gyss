@@ -1,6 +1,6 @@
 ---
 title: Venki Ramakrishnan
-permalink: /gyss-2026/speakers/venki-ramakrishnan/
+permalink: /gyss-2026/laureates/venki-ramakrishnan/
 variant: tiptap
 description: ""
 ---

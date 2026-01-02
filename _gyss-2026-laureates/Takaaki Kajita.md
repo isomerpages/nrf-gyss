@@ -1,6 +1,6 @@
 ---
 title: Takaaki Kajita
-permalink: /gyss-2026/speakers/takaaki-kajita/
+permalink: /gyss-2026/laureates/takaaki-kajita/
 variant: tiptap
 description: ""
 ---

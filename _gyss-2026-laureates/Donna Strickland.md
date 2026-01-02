@@ -1,6 +1,6 @@
 ---
 title: Donna Strickland
-permalink: /gyss-2026/speakers/donna-strickland/
+permalink: /gyss-2026/laureates/donna-strickland/
 variant: tiptap
 description: ""
 ---

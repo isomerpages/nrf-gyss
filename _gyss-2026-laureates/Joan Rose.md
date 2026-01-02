@@ -1,6 +1,6 @@
 ---
 title: Joan Rose
-permalink: /gyss-2026/speakers/joan-rose/
+permalink: /gyss-2026/laureates/joan-rose/
 variant: tiptap
 description: ""
 ---

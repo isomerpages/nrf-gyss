@@ -24,9 +24,9 @@ sections:
         - title: GYSS 2026
           description: Explore the Summit Programme
           url: /gyss-2026/programme/
-        - title: Meet the speakers
+        - title: Meet the laureates
           description: Luminaries @ GYSS 2026
-          url: /gyss-2026/speakers/
+          url: /gyss-2026/laureates/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Transcending Borders
       id: infopic
-      image: /images/GYSS 2026/2026_web_banner__24_Dec_2025_.png
+      image: /images/GYSS 2026/2026_web_banner___laureates.png
       alt: Image alt text
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
@@ -62,10 +62,10 @@ sections:
       url: /gyss-2026/programme/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: Speakers
+      subtitle: Laureates
       description: Some of the world's top minds will converge at the Summit
       button: Meet the luminaries
-      url: /gyss-2026/speakers/
+      url: /gyss-2026/laureates/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - infopic:
