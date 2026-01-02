@@ -24,7 +24,7 @@ sections:
         - title: GYSS 2026
           description: Explore the Summit Programme
           url: /gyss-2026/programme/
-        - title: Meet the speakers
+        - title: Meet the laureates
           description: Luminaries @ GYSS 2026
           url: /gyss-2026/speakers/
         - title: Video Repository
@@ -62,7 +62,7 @@ sections:
       url: /gyss-2026/programme/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: Speakers
+      subtitle: Laureates
       description: Some of the world's top minds will converge at the Summit
       button: Meet the luminaries
       url: /gyss-2026/speakers/
