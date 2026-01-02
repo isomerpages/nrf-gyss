@@ -26,7 +26,7 @@ sections:
           url: /gyss-2026/programme/
         - title: Meet the laureates
           description: Luminaries @ GYSS 2026
-          url: /gyss-2026/speakers/
+          url: /gyss-2026/laureates/
         - title: Video Repository
           description: Catch all the action here!
           url: https://www.youtube.com/nrfmediasg
@@ -65,7 +65,7 @@ sections:
       subtitle: Laureates
       description: Some of the world's top minds will converge at the Summit
       button: Meet the luminaries
-      url: /gyss-2026/speakers/
+      url: /gyss-2026/laureates/
       image: /images/GYSS 2024/GYSS_2024.jpg
       alt: World's leading luminaries
   - infopic:
