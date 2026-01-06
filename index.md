@@ -40,8 +40,18 @@ sections:
         world to discuss how research and innovation can address major global
         challenges.
   - infopic:
+      title: Transcending Borders
+      id: infopic
+      image: /images/GYSS 2026/2026_web_banner___laureates.png
+      alt: Image alt text
+      description: Every year, the Summit is full of unique opportunities to get
+        inspired, gain new insights, and connect with like-minded peers from
+        around the world.
+      url: /about/about-the-gyss/
+      button: read more
+  - infopic:
       title: Memorable Moments
-      subtitle: Photo gallery
+      subtitle: GYSS 2026 Photo gallery
       id: infopic
       description: A photo is worth a thousand words. View the photo album and
         download your favourite shots captured at GYSS 2026.
@@ -50,19 +60,7 @@ sections:
       image: /images/GYSS 2026/Homepage.png
       alt: Image alt text
   - infopic:
-      title: Transcending Borders
-      id: infopic
-      image: /images/GYSS 2026/2026_web_banner___laureates.png
-      alt: Image alt text
-      description: Every year, the Summit is full of unique opportunities to get
-        inspired, gain new insights, and connect with like-minded peers from
-        around the world.
-      subtitle: "#gyss2026"
-      url: /about/about-the-gyss/
-      button: read more
-  - infopic:
       title: Excite, Engage, Enable
-      subtitle: the gyss 2026
       id: infopic
       description: The highly anticipated Summit returns in 2026 to build a vibrant
         scientific community that goes beyond borders and disciplines.
@@ -72,7 +70,6 @@ sections:
       url: /gyss-2026/programme/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      subtitle: Laureates
       description: Some of the world's top minds will converge at the Summit
       button: Meet the luminaries
       url: /gyss-2026/laureates/
@@ -80,7 +77,6 @@ sections:
       alt: World's leading luminaries
   - infopic:
       title: Five Invigorating Days
-      subtitle: "#GYSS2026"
       id: infopic
       description: Panel huddles, quickfire pitches, site visits, and fireside
         chats—all these and more await you at the Summit.
@@ -90,7 +86,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: GYSS 2025
-      subtitle: Throwback
       description: From videos to photos and more, catch up with all the action from
         the GYSS 2025!
       alt: GYSS 2025 excitement!
