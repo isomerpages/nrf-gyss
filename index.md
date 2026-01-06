@@ -61,6 +61,16 @@ sections:
       button: see the programme
       url: /gyss-2026/programme/
   - infopic:
+      title: Captured Moments
+      subtitle: Photo gallery
+      id: infopic
+      description: A photo is worth a thousand words. View the photo album and
+        download your favourite shots from GYSS 2026.
+      button: view album
+      url: /gyss-2026/photo-gallery/
+      image: /images/GYSS 2026/7.png
+      alt: Image alt text
+  - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: Laureates
       description: Some of the world's top minds will converge at the Summit
