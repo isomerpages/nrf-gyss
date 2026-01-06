@@ -40,6 +40,16 @@ sections:
         world to discuss how research and innovation can address major global
         challenges.
   - infopic:
+      title: Memorable Moments
+      subtitle: Photo gallery
+      id: infopic
+      description: A photo is worth a thousand words. View the photo album and
+        download your favourite shots captured at GYSS 2026.
+      button: view gallery
+      url: /gyss-2026/photo-gallery/
+      image: /images/GYSS 2026/Homepage.png
+      alt: Image alt text
+  - infopic:
       title: Transcending Borders
       id: infopic
       image: /images/GYSS 2026/2026_web_banner___laureates.png
@@ -60,16 +70,6 @@ sections:
       alt: Image alt text
       button: see the programme
       url: /gyss-2026/programme/
-  - infopic:
-      title: Memorable Moments
-      subtitle: Photo gallery
-      id: infopic
-      description: A photo is worth a thousand words. View the photo album and
-        download your favourite shots captured at GYSS 2026.
-      button: view gallery
-      url: /gyss-2026/photo-gallery/
-      image: /images/GYSS 2026/Homepage.png
-      alt: Image alt text
   - infopic:
       title: Nobel Laureates & Eminent Scientists
       subtitle: Laureates
