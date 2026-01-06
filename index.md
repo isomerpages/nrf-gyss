@@ -47,7 +47,7 @@ sections:
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
         around the world.
-      subtitle: "#fusioninsession"
+      subtitle: "#gyss2026"
       url: /about/about-the-gyss/
       button: read more
   - infopic:
