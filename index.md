@@ -66,7 +66,7 @@ sections:
       id: infopic
       description: A photo is worth a thousand words. View the photo album and
         download your favourite shots captured at GYSS 2026.
-      button: view album
+      button: view gallery
       url: /gyss-2026/photo-gallery/
       image: /images/GYSS 2026/Homepage.png
       alt: Image alt text
