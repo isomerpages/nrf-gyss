@@ -13,7 +13,7 @@ description: The Global Young Scientists Summit in Singapore brings together
   challenges.
 image: /images/gyss 2023 - participants.JPG
 permalink: /
-notification: ""
+notification: The GYSS 2026 photo album is now live! Scroll down to find out more.
 sections:
   - hero:
       background: /images/GYSS 2026/2026_Website_banner_820x312px___rev.png
@@ -40,6 +40,16 @@ sections:
         world to discuss how research and innovation can address major global
         challenges.
   - infopic:
+      title: Memorable Moments
+      subtitle: Photo gallery
+      id: infopic
+      description: A photo is worth a thousand words. View the photo album and
+        download your favourite shots captured at GYSS 2026.
+      button: view gallery
+      url: /gyss-2026/photo-gallery/
+      image: /images/GYSS 2026/Homepage.png
+      alt: Image alt text
+  - infopic:
       title: Transcending Borders
       id: infopic
       image: /images/GYSS 2026/2026_web_banner___laureates.png
@@ -47,7 +57,7 @@ sections:
       description: Every year, the Summit is full of unique opportunities to get
         inspired, gain new insights, and connect with like-minded peers from
         around the world.
-      subtitle: "#fusioninsession"
+      subtitle: "#gyss2026"
       url: /about/about-the-gyss/
       button: read more
   - infopic:
