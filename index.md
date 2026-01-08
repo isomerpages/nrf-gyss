@@ -81,7 +81,7 @@ sections:
       description: Panel huddles, quickfire pitches, site visits, and fireside
         chats—all these and more await you at the Summit.
       button: Find out more
-      url: /gyss-2026/programme/
+      url: /gyss-2026/panel-huddles/
       image: /images/GYSS 2025/20250110_GYSS_DAY_04_322.jpg
       alt: Image alt text
   - infopic:
