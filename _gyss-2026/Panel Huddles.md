@@ -12,7 +12,7 @@ description: ""
 Kae Nemoto, Dr Patricia Lee
 <br><strong>Moderator: </strong>Prof Lisa Ng</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y5bf6AlkNyY?si=tkRH36joMWxwI8O_"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y5bf6AlkNyY?si=G7QAk9hlbRBlulBN"></iframe>
 </div>
 <p>How can we make STEM more inclusive and provide equitable opportunities
 across the various fields of study? In this thought-provoking panel, five
@@ -29,7 +29,7 @@ for future generations of scientists.</p>
 Prof Kae Nemoto, Prof Randy Schekman
 <br><strong>Moderator:</strong> Dr Cheong Wei Yang</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dDfjJsAXcz8?si=js8Wu16q73xsN6Z-"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dDfjJsAXcz8?si=JZnIRioylHKX2nSb"></iframe>
 </div>
 <p>In a world where scientific influence becomes increasingly distributed,
 the call for collaborative science and shared innovation is louder than
