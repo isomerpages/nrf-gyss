@@ -4,7 +4,7 @@ permalink: /gyss-2026/panel-huddles/
 variant: tiptap
 description: ""
 ---
-<h4><strong>6 JANUARY 2026</strong></h4>
+<h4><strong>6 JANUARY</strong></h4>
 <blockquote>
 <p>Breaking Barriers, Leading Change: Challenges in STEM</p>
 </blockquote>
@@ -21,7 +21,7 @@ will share their unique experiences and challenges they have faced in their
 careers, while delving into strategies that will even the playing field
 for future generations of scientists.</p>
 <p></p>
-<h4><strong>7 JANUARY 2026</strong></h4>
+<h4><strong>7 JANUARY</strong></h4>
 <blockquote>
 <p>Geopolitics to Genomics: Concurring Minds in a Multipolar World</p>
 </blockquote>
@@ -37,7 +37,7 @@ ever. This discourse will examine the convergence of science, genomics,
 and geopolitics amid rising complexity and competition, asking the question:
 where trade diplomacy fails, will science diplomacy thrive?</p>
 <p></p>
-<h4><strong>8 JANUARY 2026</strong></h4>
+<h4><strong>8 JANUARY</strong></h4>
 <blockquote>
 <p>Supercomputing and Quantum: Redefining the Future</p>
 </blockquote>
@@ -50,7 +50,7 @@ into what is known as hybrid computing. With quantum technology still in
 its infancy stage, how would the future of computing be defined, and what
 impact will it have across industries — from materials science to medicine?</p>
 <p></p>
-<h4><strong>9 JANUARY 2026</strong></h4>
+<h4><strong>9 JANUARY</strong></h4>
 <blockquote>
 <p>Brains &amp; Bytes: Levelling Up Research in the Age of GenAI</p>
 </blockquote>
