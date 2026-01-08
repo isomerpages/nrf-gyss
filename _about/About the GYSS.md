@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## ABOUT THE GYSS
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZGXAT3bq7-c?si=2_xJ4NFX5cSwn5SU" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aDg4X7Kr-pU?si=D4Wl46DP6_-ZoCaR" height="315" width="560"></iframe>
 
 The **Global Young Scientists Summit** in Singapore brings together bright young researchers and top scientific minds from around the world to discuss science and technology trends, future game changers and how research could address major global challenges. It was started in 2013 with the objective of exciting and engaging young scientists to pursue their scientific dreams through close interactions with distinguished scientists and researchers, and with peers. The Summit provides a platform for conversations on science and research, technology innovation and society, and solutions to global challenges.  
   
