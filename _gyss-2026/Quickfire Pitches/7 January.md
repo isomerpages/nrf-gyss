@@ -18,7 +18,7 @@ third_nav_title: Quickfire Pitches
 </div>
 <p></p>
 <p><strong>Sustainable membranes for a circular membrane industry</strong>
-<br>Bofan Li (ISCE<sup>2</sup>, A*STAR, Singapore)</p>
+<br>Bofan Li (A*STAR ISCE<sup>2</sup>, Singapore)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F-RkgvZGqGs?si=7MgOqvxD_aMh1YIv"></iframe>
 </div>
