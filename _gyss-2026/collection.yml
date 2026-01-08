@@ -2,11 +2,11 @@ collections:
   gyss-2026:
     output: true
     order:
-      - Quickfire Pitches/.keep
       - Photo Gallery.md
       - Programme.md
       - Laureates.md
       - Moderators.md
       - Panel Huddles.md
       - Plenary Lectures.md
+      - Quickfire Pitches/.keep
       - External Ecosystem Events.md
