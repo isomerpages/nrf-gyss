@@ -2,10 +2,10 @@ collections:
   gyss-2026:
     output: true
     order:
-      - Plenary Lectures.md
       - Photo Gallery.md
       - Programme.md
       - Laureates.md
       - Moderators.md
       - Panel Huddles.md
+      - Plenary Lectures.md
       - External Ecosystem Events.md
