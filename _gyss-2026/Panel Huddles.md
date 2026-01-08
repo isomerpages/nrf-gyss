@@ -11,6 +11,9 @@ description: ""
 <p><strong>Panellists: </strong>Prof Donna Strickland, Prof Joan Rose, Prof
 Kae Nemoto, Dr Patricia Lee
 <br><strong>Moderator: </strong>Prof Lisa Ng</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y5bf6AlkNyY?si=tkRH36joMWxwI8O_"></iframe>
+</div>
 <p>How can we make STEM more inclusive and provide equitable opportunities
 across the various fields of study? In this thought-provoking panel, five
 distinguished leaders from diverse scientific and engineering disciplines
@@ -25,6 +28,9 @@ for future generations of scientists.</p>
 <p><strong>Panellists: </strong>Prof Aaron Ciechanover, Prof Brian Schmidt,
 Prof Kae Nemoto, Prof Randy Schekman
 <br><strong>Moderator:</strong> Dr Cheong Wei Yang</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dDfjJsAXcz8?si=js8Wu16q73xsN6Z-"></iframe>
+</div>
 <p>In a world where scientific influence becomes increasingly distributed,
 the call for collaborative science and shared innovation is louder than
 ever. This discourse will examine the convergence of science, genomics,
