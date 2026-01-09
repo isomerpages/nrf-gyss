@@ -44,6 +44,9 @@ where trade diplomacy fails, will science diplomacy thrive?</p>
 <p><strong>Panellists: </strong>Prof Adi Shamir, Prof Jack Dongarra, Prof
 Kae Nemoto, Dr Patricia Lee, Prof Torsten Hoefler
 <br><strong>Moderator:</strong> Prof Tulika Mitra</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S-vhRBWMG_s?si=FL9Riwz5yC8jK_lJ"></iframe>
+</div>
 <p>In this lively discussion, our panellists will debate the strengths, limitations,
 and potential convergence of mainstream supercomputing and quantum technology
 into what is known as hybrid computing. With quantum technology still in
