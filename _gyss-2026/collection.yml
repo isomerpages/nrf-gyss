@@ -2,6 +2,7 @@ collections:
   gyss-2026:
     output: true
     order:
+      - Plenary Lectures/.keep
       - Photo Gallery.md
       - Programme.md
       - Laureates.md
