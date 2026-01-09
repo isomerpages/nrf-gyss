@@ -35,5 +35,3 @@ third_nav_title: Plenary Lectures
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cb3qwJyY4Y4?si=2iq5UGcr1t3bQrMD"></iframe>
 </div>
 <p></p>
-<hr>
-<p></p>
