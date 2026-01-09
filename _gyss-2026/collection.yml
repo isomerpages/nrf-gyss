@@ -2,13 +2,13 @@ collections:
   gyss-2026:
     output: true
     order:
-      - Plenary Lectures/7 January.md
-      - Plenary Lectures/.keep
       - Photo Gallery.md
       - Programme.md
       - Laureates.md
       - Moderators.md
       - Panel Huddles.md
-      - Quickfire Pitches/7 January.md
+      - Plenary Lectures/.keep
+      - Plenary Lectures/7 January.md
       - Quickfire Pitches/.keep
+      - Quickfire Pitches/7 January.md
       - External Ecosystem Events.md
