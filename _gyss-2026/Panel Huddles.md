@@ -60,6 +60,9 @@ impact will it have across industries — from materials science to medicine?</p
 <p><strong>Panellists: </strong>Sir David Klenerman, Sir Konstantin Novoselov,
 Dr Patricia Lee, Sir Tim Hunt
 <br><strong>Moderator:</strong> Prof Simon Chesterman</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s49V5LbcZx0?si=ohWIaWzsoL1LFI__"></iframe>
+</div>
 <p>Opinions on Generative AI (GenAI) are divisive, but the impact it has
 had on how we think, create, and collaborate is undeniable. This panel
 will explore how researchers can leverage AI to amplify discovery and productivity,
