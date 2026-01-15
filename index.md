@@ -57,14 +57,14 @@ sections:
         download your favourite shots captured at GYSS 2026.
       button: view gallery
       url: /gyss-2026/photo-gallery/
-      image: /images/GYSS 2026/GB1_4937.jpg
+      image: /images/GYSS 2026/GB1_6039.jpg
       alt: Image alt text
   - infopic:
       title: Excite, Engage, Enable
       id: infopic
       description: The highly anticipated Summit returns in 2026 to build a vibrant
         scientific community that goes beyond borders and disciplines.
-      image: /images/GYSS 2024/20240111_GYSS_DAY_04_PG01_401.jpg
+      image: /images/GYSS 2026/GB1_5030.jpg
       alt: Image alt text
       button: see the programme
       url: /gyss-2026/programme/
@@ -73,7 +73,7 @@ sections:
       description: Some of the world's top minds will converge at the Summit
       button: Meet the luminaries
       url: /gyss-2026/laureates/
-      image: /images/GYSS 2024/GYSS_2024.jpg
+      image: /images/GYSS 2026/GB2_1662.jpg
       alt: World's leading luminaries
   - infopic:
       title: Five Invigorating Days
@@ -82,7 +82,7 @@ sections:
         chats—all these and more await you at the Summit.
       button: Find out more
       url: /gyss-2026/panel-huddles/
-      image: /images/GYSS 2025/20250110_GYSS_DAY_04_322.jpg
+      image: /images/GYSS 2026/GB1_5699.jpg
       alt: Image alt text
   - infopic:
       title: GYSS 2025
