@@ -64,7 +64,7 @@ sections:
       id: infopic
       description: The highly anticipated Summit returns in 2026 to build a vibrant
         scientific community that goes beyond borders and disciplines.
-      image: /images/GYSS 2026/Z82_1575.jpg
+      image: /images/GYSS 2026/GB1_5030.jpg
       alt: Image alt text
       button: see the programme
       url: /gyss-2026/programme/
