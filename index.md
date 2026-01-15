@@ -57,7 +57,7 @@ sections:
         download your favourite shots captured at GYSS 2026.
       button: view gallery
       url: /gyss-2026/photo-gallery/
-      image: /images/GYSS 2026/GB1_4937.jpg
+      image: /images/GYSS 2026/GB1_6039.jpg
       alt: Image alt text
   - infopic:
       title: Excite, Engage, Enable
