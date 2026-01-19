@@ -39,6 +39,15 @@ sections:
       description: Bringing together young scientists and top minds from around the
         world to discuss how research and innovation can address major global
         challenges.
+  - infocols:
+      title: Ready for the Future of Science
+      subtitle: Upcoming Summit Dates
+      id: infocols
+      infoboxes:
+        - title: GYSS 2027
+          description: 4–8 January 2027
+        - title: GYSS 2028
+          description: 3–7 January 2028
   - infopic:
       title: Transcending Borders
       id: infopic
@@ -102,17 +111,6 @@ sections:
       url: https://go.gov.sg/gyss-10th-anniversary-pub
       image: /images/10th-anniversary-pub.jpg
       alt: 10 years of excellence
-  - infocols:
-      title: Ready for the Future of Science
-      subtitle: Upcoming Summit Dates
-      id: infocols
-      infoboxes:
-        - title: GYSS 2026
-          description: 5–9 January 2026
-        - title: GYSS 2027
-          description: 4–8 January 2027
-        - title: GYSS 2028
-          description: 3–7 January 2028
   - resources:
       title: Press Releases
       subtitle: Newsroom
