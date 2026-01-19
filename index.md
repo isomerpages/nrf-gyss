@@ -62,8 +62,8 @@ sections:
   - infopic:
       title: Excite, Engage, Enable
       id: infopic
-      description: GYSS 2026 marked another successful year of building a vibrant
-        scientific community that goes beyond borders and disciplines.
+      description: The Summit works towards building a vibrant scientific community
+        that goes beyond borders and disciplines.
       image: /images/GYSS 2026/GB1_5030.jpg
       alt: Image alt text
       button: see the programme
