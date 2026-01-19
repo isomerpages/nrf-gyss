@@ -19,16 +19,16 @@ sections:
       background: /images/GYSS 2026/2026_Website_banner_2_820x312px__revised_.png
       key_highlights:
         - title: What is the GYSS?
-          description: ""
+          description: Excite, Engage, Enable
           url: /about/about-the-gyss/
         - title: See the Programme
-          description: ""
+          description: What to expect at GYSS
           url: /gyss-2026/programme/
         - title: Meet the laureates
-          description: ""
+          description: Who to expect at GYSS
           url: /gyss-2026/laureates/
         - title: Watch the videos
-          description: ""
+          description: Visit our video repository
           url: https://www.youtube.com/nrfmediasg
       variant: image
       title: Global Young Scientists Summit
