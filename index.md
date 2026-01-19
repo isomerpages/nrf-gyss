@@ -16,19 +16,19 @@ permalink: /
 notification: The GYSS 2026 photo album is now live! Scroll down to find out more.
 sections:
   - hero:
-      background: /images/GYSS 2026/2026_Website_banner_820x312px___rev.png
+      background: /images/GYSS 2026/2026_Website_banner_2_820x312px__revised_.png
       key_highlights:
         - title: What is the GYSS?
-          description: Excite, Engage, Enable
+          description: ""
           url: /about/about-the-gyss/
-        - title: GYSS 2026
-          description: Explore the Summit Programme
+        - title: See the Programme
+          description: ""
           url: /gyss-2026/programme/
         - title: Meet the laureates
-          description: Luminaries @ GYSS 2026
+          description: ""
           url: /gyss-2026/laureates/
-        - title: Video Repository
-          description: Catch all the action here!
+        - title: Watch the videos
+          description: ""
           url: https://www.youtube.com/nrfmediasg
       variant: image
       title: Global Young Scientists Summit
@@ -62,7 +62,7 @@ sections:
   - infopic:
       title: Excite, Engage, Enable
       id: infopic
-      description: The highly anticipated Summit returns in 2026 to build a vibrant
+      description: GYSS 2026 marked another successful year of building a vibrant
         scientific community that goes beyond borders and disciplines.
       image: /images/GYSS 2026/GB1_5030.jpg
       alt: Image alt text
@@ -70,7 +70,7 @@ sections:
       url: /gyss-2026/programme/
   - infopic:
       title: Nobel Laureates & Eminent Scientists
-      description: Some of the world's top minds will converge at the Summit
+      description: Some of the world's top minds converge at the Summit every year.
       button: Meet the luminaries
       url: /gyss-2026/laureates/
       image: /images/GYSS 2026/GB2_1662.jpg
@@ -79,7 +79,7 @@ sections:
       title: Five Invigorating Days
       id: infopic
       description: Panel huddles, quickfire pitches, site visits, and fireside
-        chats—all these and more await you at the Summit.
+        chats—the Summit staples that keep you engaged.
       button: Find out more
       url: /gyss-2026/panel-huddles/
       image: /images/GYSS 2026/GB1_5699.jpg
@@ -108,11 +108,11 @@ sections:
       id: infocols
       infoboxes:
         - title: GYSS 2026
-          description: 5-9 January 2026
+          description: 5–9 January 2026
         - title: GYSS 2027
-          description: 4-8 January 2027
+          description: 4–8 January 2027
         - title: GYSS 2028
-          description: 3-7 January 2028
+          description: 3–7 January 2028
   - resources:
       title: Press Releases
       subtitle: Newsroom
