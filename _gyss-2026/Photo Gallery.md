@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>CELEBRATE MOMENTS AT GYSS 2026</h3>
-<p>Click <a href="https://www.dropbox.com/scl/fo/gnyrew1ccgsimy19rdn37/AMwGO55vlJr2Pj0I1Fm3wRk?rlkey=tkex22wzboluey28590ackaqf&amp;st=8xj69s24&amp;dl=0" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.dropbox.com/scl/fo/gnyrew1ccgsimy19rdn37/AMwGO55vlJr2Pj0I1Fm3wRk?rlkey=tkex22wzboluey28590ackaqf&amp;st=nugc8der&amp;dl=0" rel="noopener nofollow" target="_blank">here</a> to
 view and download photos from the Summit.</p>
 <p></p>
 <p>Please credit these photos to <strong>National Research Foundation, Singapore (NRF)</strong>,
