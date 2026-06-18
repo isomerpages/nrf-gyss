@@ -6,7 +6,8 @@ agency_name: the GYSS Secretariat
 contacts:
   - content:
       - phone: ""
-      - email: secretariat@gyss-one-north.sg
+      - email: contact@gyss.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
